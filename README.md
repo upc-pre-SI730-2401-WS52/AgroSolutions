@@ -102,7 +102,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     - [5.1 Software Configuration Management](#51-software-configuration-management)
         -[5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
         -[5.1.2 Source Code Management](#512-source-code-management)
-    - [5.2 Landing Page, Services & Applications Implementation]
+    - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
         -[5.2.1 Sprint 1](#521-sprint-1)
             -[5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
             -[5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
