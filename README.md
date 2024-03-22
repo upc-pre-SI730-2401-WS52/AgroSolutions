@@ -163,6 +163,9 @@ Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera d
 #### - Alvaro Felipe Pinto Fuentes Rivera
 Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el genero de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.
 
+#### - Christian Renato Espinoza Saenz
+Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi nombre es Christian, tengo 19 años y mi color favorito es el guinda. Me encanta escuchar música, jugar videojuegos como Team Fortress 2 y Persona 2: Innocent Sin, y también tocar el teclado. Poseo ideas únicas, estrafalarias e innovadoras para que el trabajo logre sobresalir. Adicionalmente, tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto.
+
 ---
 
 ## 1.2 Solution Profile
