@@ -331,90 +331,90 @@ Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera d
   
 ## 5.2 Landing Page, Services & Applications Implementation.
 - ### 5.2.1 Sprint 1
-- #### 5.2.1.1. Sprint Planning 1
+- #### 5.2.1.1 Sprint Planning 1
    [Poner información aquí]
   
-- #### 5.2.1.2. Sprint Backlog 1
+- #### 5.2.1.2 Sprint Backlog 1
    [Poner información aquí]
   
-- #### 5.2.1.3. Development Evidence for Sprint Review
+- #### 5.2.1.3 Development Evidence for Sprint Review
    [Poner información aquí]
    
-- #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+- #### 5.2.1.4 Testing Suite Evidence for Sprint Review
    [Poner información aquí]
    
-- #### 5.2.1.5. Execution Evidence for Sprint Review
+- #### 5.2.1.5 Execution Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+- #### 5.2.1.6 Services Documentation Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+- #### 5.2.1.7 Software Deployment Evidence for Sprint Review
    [Poner información aquí]
 
-- #### 5.2.1.8. Team Collaboration Insights during Sprint
+- #### 5.2.1.8 Team Collaboration Insights during Sprint
    [Poner información aquí]
   
 
 - ### 5.2.2 Sprint 2
-- #### 5.2.2.1. Sprint Planning 2
+- #### 5.2.2.1 Sprint Planning 2
    [Poner información aquí]
   
-- #### 5.2.2.2. Sprint Backlog 2
+- #### 5.2.2.2 Sprint Backlog 2
    [Poner información aquí]
   
-- #### 5.2.2.3. Development Evidence for Sprint Review
+- #### 5.2.2.3 Development Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+- #### 5.2.2.4 Testing Suite Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.2.5. Execution Evidence for Sprint Review
+- #### 5.2.2.5 Execution Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+- #### 5.2.2.6 Services Documentation Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+- #### 5.2.2.7 Software Deployment Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.2.8. Team Collaboration Insights during Sprint
+- #### 5.2.2.8 Team Collaboration Insights during Sprint
    [Poner información aquí]
   
 
 - ### 5.2.3 Sprint 3
-- #### 5.2.3.1. Sprint Planning 3
+- #### 5.2.3.1 Sprint Planning 3
    [Poner información aquí]
   
-- #### 5.2.3.2. Sprint Backlog 3
+- #### 5.2.3.2 Sprint Backlog 3
    [Poner información aquí]
   
-- #### 5.2.3.3. Development Evidence for Sprint Review
+- #### 5.2.3.3 Development Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+- #### 5.2.3.4 Testing Suite Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.3.5. Execution Evidence for Sprint Review
+- #### 5.2.3.5 Execution Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+- #### 5.2.3.6 Services Documentation Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+- #### 5.2.3.7 Software Deployment Evidence for Sprint Review
    [Poner información aquí]
   
-- #### 5.2.3.8. Team Collaboration Insights during Sprint
+- #### 5.2.3.8 Team Collaboration Insights during Sprint
    [Poner información aquí]
 
 ## 5.3 Validation Interviews
-- ### 5.3.1. Diseño de Entrevistas
+- ### 5.3.1 Diseño de Entrevistas
    [Poner información aquí]
   
-- ### 5.3.2. Registro de Entrevistas
+- ### 5.3.2 Registro de Entrevistas
    [Poner información aquí]
   
-- ### 5.3.3. Evaluaciones según heurísticas
+- ### 5.3.3 Evaluaciones según heurísticas
    [Poner información aquí]
   
 
