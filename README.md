@@ -202,8 +202,29 @@ Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi n
 ---
 
 ## 2.2 Entrevistas
+
 ### 2.2.1 Diseño de entrevistas
-[Poner información aquí]
+
+Segmento 1: Pequeños agricultores
+¿Cúal es su nombre?
+¿Qué produce?
+¿Cúanto lleva trabajando en el sector agrícola?
+¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?
+¿Usa alguna herramienta tecnológica para ayudarse?
+¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos?
+¿Que caracteristicas cree que debería implementar el Software?
+
+Segmento 2: Vendedores de verduras mayoristas  
+¿Con qué frecuencia compras verduras frescas?
+¿Cuáles son tus verduras frescas favoritas y por qué?
+¿Qué factores consideras al elegir dónde comprar tus verduras frescas?
+¿Prefieres comprar tus verduras frescas en línea o en una tienda física? ¿Por qué?
+¿Qué te gustaría ver en una tienda virtual de vegetales frescos para sentirte más cómodo/a al hacer tus compras?
+¿Qué tan importante es para ti la calidad y frescura de las verduras que compras?
+¿Qué variedades de verduras frescas te gustaría encontrar con mayor frecuencia en una tienda virtual de vegetales frescos?
+¿Considerarías comprar verduras frescas al por mayor si se ofrecen a precios competitivos?
+¿Qué servicios adicionales valorarías en una tienda virtual de vegetales frescos, como entrega a domicilio o recetas sugeridas?
+¿Hay algún problema o inconveniente que hayas experimentado al comprar verduras frescas que te gustaría que se abordara en una tienda virtual de vegetales frescos?
 
 ### 2.2.2 Registro de entrevistas
 [Poner información aquí]
@@ -241,7 +262,14 @@ Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi n
 [Poner información aquí]
 
 ## 3.2 User Stories
-[Poner información aquí]
+
+| **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
+|--------|-----------|-----------------|-----------------------------|---------------------------------|
+| US001 | Planificación de Cultivos y Gestión de Insumos | Como agricultor, quiero utilizar una aplicación para planificar mis cultivos, asignar recursos y establecer objetivos de producción. Esto me permitirá tomar decisiones informadas y optimizar mis operaciones agrícolas. | - Puedo crear un plan de cultivo para la próxima temporada. - Puedo asignar recursos como semillas, fertilizantes y agua a cada cultivo. - Puedo establecer metas de producción para cada tipo de cultivo. | EPIC001 |
+| US002 | Seguimiento de Operaciones y Toma de Decisiones | Como agricultor, quiero registrar datos sobre el progreso de mis cultivos, como riego, fertilización y control de plagas. Esto me ayudará a evaluar el rendimiento de mis cultivos y buscar oportunidades de mejora. | - Puedo ingresar datos diarios sobre las operaciones realizadas en cada cultivo. - Puedo visualizar gráficos y métricas que muestran el progreso de mis cultivos. - Puedo recibir alertas cuando se requiere acción o ajuste. | EPIC002 |
+| US003 | Comunicación y Colaboración | Como agricultor, quiero comunicarme con otros miembros del equipo, proveedores y compradores a través de una aplicación. Esto me permitirá considerar la logística, los precios de mercado y las estrategias de venta. | - Puedo enviar mensajes a otros usuarios dentro de la aplicación. - Puedo recibir notificaciones sobre ofertas de compra o venta. - Puedo acceder a información actualizada sobre precios y demanda. | EPIC003 |
+| US004 | Evaluación y Adaptación | Como agricultor, quiero analizar datos históricos y métricas clave para evaluar el éxito de mis operaciones. Reflexionar sobre las decisiones tomadas y ajustar mi enfoque según sea necesario. | - Puedo generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores. - Puedo identificar áreas de mejora y tomar medidas correctivas. - Puedo adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas. | EPIC004 |
+| US005 | Distribución y venta  | Como vendedor mayorista quiero poder tener mis productos frescos y listos en una fecha exacta y a un precio competitivo.  | - Puedo buscar entre los diferentes agricultores y cosechas. - Puedo comprar directamente y hacer un seguimiento a mi carga. | EPIC005 |
 
 ## 3.3 Impact Mapping
 [Poner información aquí]
