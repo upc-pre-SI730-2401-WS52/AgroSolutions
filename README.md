@@ -288,7 +288,7 @@ Para asegurar que nuestra aplicación satisfaga las necesidades específicas de 
   #### Paleta de colores:
   Para la selección de nuestra paleta de colores tomamos en cuenta aspectos de legibilidad y jerarquia visual. Para empezar el color #012128 será usado como el color principal de nuestra landing page, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso del color #013541 se empleará en subtitulos u otras secciones de menor relevancia. Luego, el color #025e73 será usado para acompañar tarjetas desplegables u otros agregados. Continuando con el color #02728c se usará para los botones de la landing page. Finalmente el color #039bbe se usa de fondo para la landing.
 
-   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color.png)
+   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color.jpg)
   
 - ### 4.1.2 Web Style Guidelines
   [Poner información aquí]
