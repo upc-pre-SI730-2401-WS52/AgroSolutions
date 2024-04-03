@@ -237,7 +237,9 @@ Segmento 2: Vendedores de verduras mayoristas
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
-[Poner información aquí]
+Para asegurar que nuestra aplicación satisfaga las necesidades específicas de nuestros usuarios, hemos identificado dos segmentos objetivos principales: Pequeños agricultores y Vendedores de verduras mayoristas. A continuación, detallamos las User Personas para cada segmento.
+#### Segmento 1: Pequeños Agricultores
+![Imagen del User Persona 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Segmento%20objetivo1.png)
 
 ### 2.3.2 User Task Matrix
 [Poner información aquí]
