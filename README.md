@@ -207,13 +207,16 @@ Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi n
 ### 2.2.1 Diseño de entrevistas
 
 Segmento 1: Pequeños agricultores
-¿Cúal es su nombre?
 ¿Qué produce?
 ¿Cúanto lleva trabajando en el sector agrícola?
+¿Cuáles son los principales desafíos que enfrenta en la gestión diaria de sus huertas de cultivo?
+¿Cómo realiza actualmente el seguimiento de los niveles de agua y nutrientes en sus cultivos?
 ¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?
+¿Cómo comercializa actualmente sus productos agrícolas y cuáles son los canales de distribución que utiliza?
 ¿Usa alguna herramienta tecnológica para ayudarse?
 ¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos?
 ¿Que caracteristicas cree que debería implementar el Software?
+
 
 Segmento 2: Vendedores de verduras mayoristas  
 ¿Con qué frecuencia compras verduras frescas?
