@@ -325,11 +325,30 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
-  [Poner información aquí]
-  
-- ### 4.3.2 Landing Page Mock-up
-  [Poner información aquí]
 
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/3fffcf14-8301-491a-bc96-6d4ce79b2bd2)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/85d34e36-541f-4742-9ea4-5c699c36d8e8)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/2894fc9a-9277-4edf-aedf-d41a8d03f33a)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/d3d9c5db-0151-4522-812f-081c1ed20f14)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/98761cd5-d228-4656-b4e4-b4fcad4c9b36)
+
+- ### 4.3.2 Landing Page Mock-up
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/2faed66c-97c0-4e3e-9f2a-11faaca8f891)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/b98649a6-ba1c-406f-86ad-d9f4a3b4213f)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/66ddc6b2-4826-4a1d-aeac-6f34f6e6af51)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/9cb3e63e-a58d-4bd0-9ffe-6896ad0fa293)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/6ff00376-3561-49ea-90a2-0fd730ede83b)
+
+  
 ## 4.4 Web Applications UX/UI Design
 - ### 4.4.1 Web Applications Wireframes
   [Poner información aquí]
