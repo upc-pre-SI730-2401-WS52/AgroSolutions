@@ -328,7 +328,17 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
   ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/bf00e6e1-4477-4333-885f-7d70ce610bf7)
 
 - ### 4.3.2 Landing Page Mock-up
-  [Poner información aquí]
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/685e82e5-a198-4a7f-b0cc-46fb5220414b)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/09656c4d-33af-432b-94a9-7d4138943fed)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/7e4fb3c2-56cb-4629-afca-7597640f60f3)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/9f5defc3-9f51-4b38-ae7f-d599739914ac)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/10312b9e-1ed1-4efe-9ced-b9cddd6e02a7)
+
 
 ## 4.4 Web Applications UX/UI Design
 - ### 4.4.1 Web Applications Wireframes
