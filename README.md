@@ -271,13 +271,22 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
 
 ## 3.2 User Stories
 
+| **Epic ID** | **Título** |
+|--------|-----------|
+|EPIC001|Planificación de Cultivos y Gestión de Insumos|
+|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|
+|EPIC003|Comunicación y Colaboración|
+|EPIC004|Comercialización y distribución|
+
+
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
 |--------|-----------|-----------------|-----------------------------|---------------------------------|
 | US001 | Planificación de Cultivos y Gestión de Insumos | Como agricultor, quiero utilizar una aplicación para planificar mis cultivos, asignar recursos y establecer objetivos de producción. Esto me permitirá tomar decisiones informadas y optimizar mis operaciones agrícolas. | - Puedo crear un plan de cultivo para la próxima temporada. - Puedo asignar recursos como semillas, fertilizantes y agua a cada cultivo. - Puedo establecer metas de producción para cada tipo de cultivo. | EPIC001 |
-| US002 | Seguimiento de Operaciones y Toma de Decisiones | Como agricultor, quiero registrar datos sobre el progreso de mis cultivos, como riego, fertilización y control de plagas. Esto me ayudará a evaluar el rendimiento de mis cultivos y buscar oportunidades de mejora. | - Puedo ingresar datos diarios sobre las operaciones realizadas en cada cultivo. - Puedo visualizar gráficos y métricas que muestran el progreso de mis cultivos. - Puedo recibir alertas cuando se requiere acción o ajuste. | EPIC002 |
+| US002 | Seguimiento de Operaciones y Toma de Decisiones | Como agricultor, quiero registrar datos sobre el progreso de mis cultivos, como riego, fertilización y control de plagas. Esto me ayudará a evaluar el rendimiento de mis cultivos y buscar oportunidades de mejora. | - Puedo ingresar datos diarios sobre las operaciones realizadas en cada cultivo. - Puedo visualizar gráficos y métricas que muestran el progreso de mis cultivos. - Puedo recibir alertas cuando se requiere acción o ajuste. | EPIC001 |
 | US003 | Comunicación y Colaboración | Como agricultor, quiero comunicarme con otros miembros del equipo, proveedores y compradores a través de una aplicación. Esto me permitirá considerar la logística, los precios de mercado y las estrategias de venta. | - Puedo enviar mensajes a otros usuarios dentro de la aplicación. - Puedo recibir notificaciones sobre ofertas de compra o venta. - Puedo acceder a información actualizada sobre precios y demanda. | EPIC003 |
-| US004 | Evaluación y Adaptación | Como agricultor, quiero analizar datos históricos y métricas clave para evaluar el éxito de mis operaciones. Reflexionar sobre las decisiones tomadas y ajustar mi enfoque según sea necesario. | - Puedo generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores. - Puedo identificar áreas de mejora y tomar medidas correctivas. - Puedo adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas. | EPIC004 |
-| US005 | Distribución y venta  | Como vendedor mayorista quiero poder tener mis productos frescos y listos en una fecha exacta y a un precio competitivo.  | - Puedo buscar entre los diferentes agricultores y cosechas. - Puedo comprar directamente y hacer un seguimiento a mi carga. | EPIC005 |
+| US004 | Evaluación y Adaptación | Como agricultor, quiero analizar datos históricos y métricas clave para evaluar el éxito de mis operaciones. Reflexionar sobre las decisiones tomadas y ajustar mi enfoque según sea necesario. | - Puedo generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores. - Puedo identificar áreas de mejora y tomar medidas correctivas. - Puedo adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas. | EPIC002 |
+| US005 | Distribución y venta  | Como vendedor mayorista quiero poder tener mis productos frescos y listos en una fecha exacta y a un precio competitivo.  | - Puedo buscar entre los diferentes agricultores y cosechas. - Puedo comprar directamente y hacer un seguimiento a mi carga. | EPIC004 |
+| US006 | Precios y Demandas en Tiempo Real | Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda. | - **Dado** que accedo a la aplicación, **Cuando** la aplicación muestra información actualizada sobre precios de mercado y demanda de productos agrícolas, **Entonces** puedo tomar decisiones informadas sobre mis cultivos. - **Dado** que configuro notificaciones, **Cuando** recibo alertas sobre cambios significativos en los precios o demanda, **Entonces** puedo reaccionar rápidamente a las oportunidades del mercado. - **Dado** que accedo a la aplicación, **Cuando** accedo a información actualizada sobre precios de mercado y demanda, **Entonces** puedo tomar decisiones estratégicas basadas en datos en tiempo real. | EPIC004 |
 
 ## 3.3 Impact Mapping
 [Poner información aquí]
