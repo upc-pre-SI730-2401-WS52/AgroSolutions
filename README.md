@@ -316,8 +316,17 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
-  [Poner información aquí]
-  
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/2f0c8fe4-3c44-4b17-b838-7cd633e74e27)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/db1773ac-4879-4b33-a7ea-123085099fb8)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/fb897cb8-00dc-4688-afeb-ab6a0d92b81e)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/3118b7c1-ee1d-4a36-8a78-6843ed2f63a5)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/bf00e6e1-4477-4333-885f-7d70ce610bf7)
+
 - ### 4.3.2 Landing Page Mock-up
   [Poner información aquí]
 
