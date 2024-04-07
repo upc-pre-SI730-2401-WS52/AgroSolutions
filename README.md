@@ -341,17 +341,42 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
 
 
 ## 4.4 Web Applications UX/UI Design
+
+Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=design&node-id=0%3A1&mode=design&t=6KeoVPtYpCNIg9Ld-1
+
 - ### 4.4.1 Web Applications Wireframes
-  [Poner información aquí]
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/3b73a23a-e1b1-4c42-9a64-5cb615fcce4b)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/3c859dd8-2b03-4c4f-af91-679044133e46)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/9c10c5b6-bb16-49bd-9ee5-ec580a531eca)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/100d6c5a-e95e-4721-aa9e-a4183048b073)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/c4f9c554-1615-4a7e-82fa-53d0c64c82dc)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/1e3764e0-21f7-4e46-bd74-f721e4b30f46)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/ac8f6e3c-435c-4301-b658-844d096c785f)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/e0bf88a0-5c98-4c8d-a65a-c1d6eeb90e01)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/391d2753-802a-4832-bb75-3801957db74f)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/0f96c732-81f8-452d-ac53-94deac3415ec)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/59b87466-9ea2-4fb1-8100-b64f0c2efa55)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/8172ff23-2d31-4a99-9cc0-89cc9a4628b3)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/5abd135e-de00-4d64-868e-d1ca33e7f94f)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/ec4ca992-5a9e-47ee-9d76-5156341734f0)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/f8cf8677-a040-463d-ad32-8ce7a5e60275)
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/9531c003-8f84-490d-91b0-1e18230c3264)
+ 
   
 - ### 4.4.2 Web Applications Wireflow Diagrams
-  [Poner información aquí]
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/639f5606-bda3-41d4-872a-c47e19cae786)
+
   
 - ### 4.4.3 Web Applications Mock-ups
-  [Poner información aquí]
+ 
+ ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/e7e3cc05-2990-4c94-ae4c-cacdf5e9a144)
+ ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/846b4a56-eab6-4f80-84eb-ebf0635c5552)
+
   
 - ### 4.4.4 Web Applications User Flow Diagrams
-  [Poner información aquí]
+
+   [Poner información aquí]
 
 ## 4.5 Web Applications Prototyping
 
