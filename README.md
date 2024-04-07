@@ -435,27 +435,36 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
  JavaScript y C#.
  **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
  **ASP.NET:** Un framework de desarrollo web como para facilitar el desarrollo del backend en C#
-   
+**Vue:**  Framework para el desarrollo de interfaces 
 - ### Source Code Management
 
-  URL del repositorio de GitHub para cada producto
-  Implementación de GitFlow como Workflow de control de versiones - explicar cómo implementarás este modelo en tu proyecto, incluyendo convenciones para nombrar las diferentes ramas, como las ramas de características, de lanzamiento y de corrección de errores.
-  Aplicación de Semantic Versioning para nombrar las Releases -  explicar cómo aplicarás Semantic Versioning para nombrar las diferentes versiones de tu proyecto, siguiendo el formato MAJOR.MINOR.PATCH.
-  Aplicación de Conventional Commits para los mensajes de commit  - son prefijos que todos los prog entienden en los comints 
+https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/tree/main/AgroSolutions
+
+ En el marco de este proyecto, se implementarán tres ramas principales: "master", "develop" y "feature branches".
+
+La rama "feature branches" se destinará específicamente para la creación de nuevas funcionalidades, clases u otros elementos que añadirán nuevas capacidades al proyecto. Esta rama servirá como un entorno aislado para el desarrollo de estas características, permitiendo un trabajo paralelo sin afectar la estabilidad del código principal.
+
+La rama "develop" funcionará como el entorno de integración continua, donde se unificarán y probarán los cambios provenientes de las ramas de características. En este entorno, los cambios deben ser integrados y asegurados para garantizar el funcionamiento cohesivo del proyecto.
+
+Finalmente, la rama "master" será la rama principal y estable del repositorio. Aquí se fusionarán todos los cambios provenientes de la rama "develop", generando así nuevas versiones del sistema. Esta rama representa el estado más actualizado y confiable del proyecto, adecuado para su despliegue en entornos de producción.
+
+Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
   
 - ### Source Code Style Guide & Conventions
 
-Esta sección del documento se enfoca en establecer un conjunto de reglas y convenciones para nombrar elementos y escribir código en los diferentes lenguajes de programación 
-utilizados en la solución. Aquí hay una explicación de lo que se espera incluir:
+En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
 
-Adopción de referencias para cada lenguaje
+Además, hemos establecido el uso de terminología en inglés para las diferentes declaraciones en nuestras líneas de código en todos los lenguajes de programación empleados en el proyecto. Esta decisión busca promover la coherencia y la claridad en la comunicación del código, facilitando la colaboración entre miembros del equipo y mejorando la legibilidad del código fuente en general.
   
 - ### Software Deployment Configuration
 
-  Se refiere a la configuración necesaria para implementar y desplegar el software en un entorno de producción o de uso final
-  Configuración de servidores Especificación de los servidores o plataformas de alojamiento que se utilizarán para desplegar la aplicación. Esto puede incluir servidores
-  físicos, servidores virtuales en la nube
-  Configuración de bases de datos 
+ Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto Hardward: Procesador Intel Xeon E-2324G Disco duro 10TB Memoria 64GB DDR4
+
+Sistema Operativo: Windows server
+
+Plataforma de alojamiento: La plataforma de alojamiento que utilizarás para desplegar la página web Microsoft Azure
+
+Configuración del servidor: Configuración del servidor necesario para alojar el sistema Node.js Angular SQL server Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos Istalar SQL server Crear la base de datos de AgroGes Crear las tablas de las entidades mensionadas
   
 ## 5.2 Landing Page, Services & Applications Implementation.
 - ### 5.2.1 Sprint 1
