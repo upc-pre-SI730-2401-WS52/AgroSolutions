@@ -359,14 +359,17 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
 
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
-  [Poner información aquí]
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/616ac2b8-fe84-41ba-88a5-318e00790dfc)
   
 - ### 4.6.2 Software Architecture Container Diagrams
-  [Poner información aquí]
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/1b882ad6-2522-4a3b-b562-2afff7f14eb9)
 
 - ### 4.6.3 Software Architecture Components Diagrams
-  [Poner información aquí]
-  
+
+ ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/a39631a7-fbbf-420b-ad68-990790680928)
+
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
   [Poner información aquí]
