@@ -200,10 +200,9 @@ Soy estudiante del quinto ciclo de la carrera Ingeniería de Softwar. Mis pasati
 
 ### 1.2.2 Lean UX Process
 
-Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a información agrícola actualizada, orientación especializada y un canal eficiente para la venta de sus productos representa un desafío constante. A diferencia de las alternativas convencionales, como consultorías agrícolas costosas o mercados locales limitados, no existe una solución centralizada y completa que satisfaga estas necesidades de manera efectiva. Esta disparidad en los recursos disponibles dificulta que los agricultores maximicen el rendimiento de sus cultivos y obtengan un retorno óptimo de su inversión. Por lo tanto, nuestro objetivo es ofrecer a los agricultores una solución integral y efectiva que les permita acceder a información técnica precisa, recibir asesoramiento personalizado y comercializar sus productos de manera eficiente. A través de nuestra plataforma, nos esforzamos por crear un ambiente inclusivo y accesible donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios dispuestos a ofrecer orientación y apoyo. Así, como startup, nos planteamos la siguiente interrogante: ¿Cómo podemos resolver los desafíos que enfrentan nuestros usuarios para brindar una solución integral y efectiva que fortalezca el sector agrícola en el Perú?
-
 #### 1.2.2.1 Lean UX Problem Statements
-[Poner información aquí]
+
+Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a información agrícola actualizada, orientación especializada y un canal eficiente para la venta de sus productos representa un desafío constante. A diferencia de las alternativas convencionales, como consultorías agrícolas costosas o mercados locales limitados, no existe una solución centralizada y completa que satisfaga estas necesidades de manera efectiva. Esta disparidad en los recursos disponibles dificulta que los agricultores maximicen el rendimiento de sus cultivos y obtengan un retorno óptimo de su inversión. Por lo tanto, nuestro objetivo es ofrecer a los agricultores una solución integral y efectiva que les permita acceder a información técnica precisa, recibir asesoramiento personalizado y comercializar sus productos de manera eficiente. A través de nuestra plataforma, nos esforzamos por crear un ambiente inclusivo y accesible donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios dispuestos a ofrecer orientación y apoyo. Así, como startup, nos planteamos la siguiente interrogante: ¿Cómo podemos resolver los desafíos que enfrentan nuestros usuarios para brindar una solución integral y efectiva que fortalezca el sector agrícola en el Perú?
 
 #### 1.2.2.2 Lean UX Assumptions
 
@@ -239,7 +238,13 @@ Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a
 ---
 
 ## 1.3 Segmentos objetivo
-[Poner información aquí]
+
+| Variables         | Segmento 1                                                                                                                      | Segmento 2                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Geográfica        | El mercado objetivo se encuentra en Perú, donde la agricultura es una parte vital de la economía y la sociedad.                | Los especialistas interesados en brindar servicios se encuentran en Perú, trabajando en centros de salud certificados.        |
+| Demográfica       | No hay restricciones específicas en términos de edad o género. El segmento puede incluir desde jóvenes adultos hasta personas mayores. | Los especialistas deben ser profesionales certificados y estar trabajando en centros de salud reconocidos en Perú.          |
+| Psicológica       | Los usuarios pueden estar interesados en mejorar sus habilidades agrícolas, buscar soluciones a problemas específicos o simplemente aprender más sobre agricultura. | Los especialistas deben demostrar habilidades de comunicación efectiva, empatía y un compromiso con los estándares éticos. |
+| Función de comportamiento | Los usuarios pueden buscar activamente plataformas en línea donde puedan obtener información, compartir experiencias y conectarse con otros entusiastas de la agricultura. | Los especialistas deben estar dispuestos a colaborar con otros profesionales y estar abiertos a ampliar su base de clientes. Actúan buscando oportunidades para compartir sus conocimientos y habilidades con aquellos que los necesitan. |
 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
