@@ -206,7 +206,16 @@ Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a
 [Poner información aquí]
 
 #### 1.2.2.2 Lean UX Assumptions
-[Poner información aquí]
+
+1. Creemos que al proporcionar a los agricultores acceso a información agrícola actualizada y especializada, mejoraremos su capacidad para tomar decisiones informadas sobre el manejo de cultivos, lo que conducirá a una mayor productividad y rentabilidad.
+
+2. Creemos que al facilitar a los agricultores una plataforma centralizada y eficiente para la comercialización de sus productos agrícolas, aumentaremos su acceso a mercados más amplios y mejoraremos sus oportunidades de venta, generando mayores ingresos y competitividad.
+
+3. Suponemos que al ofrecer a los agricultores asesoramiento personalizado y visitas de profesionales a sus terrenos, podremos identificar y abordar sus desafíos específicos de manera más efectiva, lo que resultará en un mejor rendimiento de los cultivos y mayor satisfacción del cliente.
+
+4. Creemos que al crear un entorno inclusivo y accesible en nuestra plataforma, donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios para compartir conocimientos y experiencias, fomentaremos la colaboración y el intercambio de mejores prácticas, impulsando el crecimiento y desarrollo en el sector agrícola.
+
+5. Suponemos que al ofrecer servicios de calidad y efectivos a los agricultores, satisfaremos sus necesidades y superaremos sus expectativas, lo que resultará en una mayor retención de clientes, recomendaciones positivas y un crecimiento sostenible para AgroSolutions.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 [Poner información aquí]
