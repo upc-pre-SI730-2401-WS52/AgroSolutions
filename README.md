@@ -171,7 +171,12 @@ Soy estudiante del quinto ciclo de la carrera Ingeniería de Softwar. Mis pasati
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
-[Poner información aquí]
+
+- Nombre del Producto: Plataforma AgroSolutions
+
+- Descripción del Producto: La plataforma AgroSolutions representa una solución completa destinada a proporcionar orientación y asistencia a agricultores de pequeña y mediana escala para optimizar el desarrollo de sus cultivos. Este recurso digital ofrece acceso a información técnica actualizada sobre las mejores prácticas agrícolas, tales como las épocas más adecuadas para el cultivo, métodos eficaces de riego y estrategias de control de plagas. Más allá de ser una fuente informativa, AgroSolutions también funciona como un socio comercial activo al permitir que los agricultores comercialicen sus productos directamente en línea, ampliando su visibilidad y maximizando su retorno de inversión. Además, la plataforma facilita la programación de visitas personalizadas de expertos a los terrenos de los agricultores, garantizando una atención individualizada para mejorar el rendimiento de los cultivos.
+
+- Monetización: Para mantener su operación y continuar ofreciendo servicios de calidad, AgroSolutions implementa una variedad de estrategias de monetización. Esto incluye la obtención de ingresos a través de comisiones por ventas, donde se aplica un cargo sobre cada transacción realizada en la plataforma. Asimismo, se ofrecen servicios de consultoría y evaluación personalizada por una tarifa, lo que implica la visita de expertos a los terrenos de los agricultores para brindar asesoramiento especializado. AgroSolutions también genera ingresos mediante acuerdos publicitarios y patrocinios con empresas vinculadas al sector agrícola, además de contemplar la posibilidad de una suscripción premium que otorgue acceso a funciones exclusivas y contenido adicional por una tarifa periódica. Este enfoque diversificado garantiza la sostenibilidad financiera de la plataforma y su capacidad para adaptarse a las cambiantes demandas del mercado agrícola, al tiempo que sigue brindando un valioso apoyo a los agricultores.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
