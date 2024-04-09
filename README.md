@@ -254,11 +254,14 @@ Creamos los User Journey Maps con el fin de comprender cómo se siente nuestro u
 #### Segmento 1: Pequeños Agricultores
 ![User Jounrey Mapp 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Customer%20journey%20map%201-segmento%201.png)
 #### Segmento 2: Vendedores de Verduras Mayoristas
-![User Jounrey Mapp 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Customer%20journey%20map%201-segmento2.png)
+![User Jounrey Mapp 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Customer%20journey%20map%201-segmento2.png)
 
 ### 2.3.4 Empathy Mapping
-[Poner información aquí]
-
+Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a través de aspectos como sus emociones y pensamientos.
+#### Segmento 1: Pequeños Agricultores
+![User Empathy map 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Empathy%20map-Agricultores.png)
+#### Segmento 2: Vendedores de Verduras Mayoristas
+![User Empathy map 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/empatumap-vendedores.png)
 ### 2.3.5 As-is Scenario Mapping
 [Poner información aquí]
 
