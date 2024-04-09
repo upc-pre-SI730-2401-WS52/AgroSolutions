@@ -207,6 +207,21 @@ Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a
 
 #### 1.2.2.2 Lean UX Assumptions
 
+|Business Assumptions | User Assumptions|
+|---------------------------------------|
+|Se presume que existe una demanda creciente de soluciones integrales para fortalecer el sector agrícola, respaldando así la viabilidad a largo plazo de AgroSolutions.|Se asume que los agricultores están interesados en mejorar sus prácticas agrícolas y aumentar su rentabilidad.|
+|Se presupone que los agricultores están dispuestos a adoptar tecnologías agrícolas modernas para mejorar la eficiencia y la productividad en sus cultivos.|Se asume que los agricultores percibirán la información y servicios proporcionados por AgroSolutions como valiosos y útiles para su trabajo diario.|
+|Se asume que la comercialización directa de los productos agrícolas a través de la plataforma de AgroSolutions generará un aumento significativo en los ingresos de los agricultores.|Se presume que los agricultores valorarán la accesibilidad a nuevos mercados y oportunidades de venta ofrecidas por AgroSolutions.
+|Se presupone que los agricultores buscan asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas para optimizar el rendimiento de sus cultivos.|Se asume que los agricultores estarán dispuestos a pagar por servicios de asesoramiento especializado y visitas de profesionales a sus terrenos.
+|Se presume que la comunidad agrícola estará interesada en participar en foros de discusión y compartir conocimientos para mejorar sus prácticas agrícolas.|Se asume que los agricultores encontrarán valor en la interacción con otros usuarios y expertos en agronomía dentro de la plataforma de AgroSolutions.
+|Se asume que los agricultores prefieren una plataforma intuitiva y fácil de usar para acceder a información agrícola y servicios relacionados con la agricultura.|Se presume que los agricultores de diversas edades y niveles de experiencia encontrarán la plataforma de AgroSolutions accesible y fácil de navegar.
+|Se presume que la oferta de eventos y talleres gratuitos a cargo de expertos agrícolas será bien recibida por la comunidad agrícola, fomentando la participación y el compromiso.|Se asume que los agricultores estarán interesados en participar en eventos educativos y talleres para mejorar sus habilidades y conocimientos agrícolas.
+|Se asume que la implementación de una suscripción premium con características adicionales generará ingresos adicionales y aumentará la retención de usuarios.|Se presupone que los agricultores estarán dispuestos a pagar por una suscripción premium que ofrezca acceso a funciones exclusivas y beneficios adicionales dentro de la plataforma de AgroSolutions.|
+|Se presume que la capacidad de dejar reseñas y calificaciones a los especialistas agrícolas incentivará la transparencia y la confianza en la plataforma de AgroSolutions.|Se asume que los agricultores valorarán la posibilidad de compartir sus experiencias y opiniones sobre los servicios recibidos en la plataforma de AgroSolutions.|
+|Se asume que la integración de herramientas de análisis de datos agrícolas facilitará a los agricultores la toma de decisiones informadas para mejorar la productividad de sus cultivos.|Se presume que los agricultores encontrarán valor en el análisis de datos agrícolas proporcionado por AgroSolutions para optimizar sus prácticas y maximizar sus rendimientos.|
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
 1. Creemos que al proporcionar a los agricultores acceso a información agrícola actualizada y especializada, mejoraremos su capacidad para tomar decisiones informadas sobre el manejo de cultivos, lo que conducirá a una mayor productividad y rentabilidad.
 
 2. Creemos que al facilitar a los agricultores una plataforma centralizada y eficiente para la comercialización de sus productos agrícolas, aumentaremos su acceso a mercados más amplios y mejoraremos sus oportunidades de venta, generando mayores ingresos y competitividad.
@@ -216,9 +231,6 @@ Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a
 4. Creemos que al crear un entorno inclusivo y accesible en nuestra plataforma, donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios para compartir conocimientos y experiencias, fomentaremos la colaboración y el intercambio de mejores prácticas, impulsando el crecimiento y desarrollo en el sector agrícola.
 
 5. Suponemos que al ofrecer servicios de calidad y efectivos a los agricultores, satisfaremos sus necesidades y superaremos sus expectativas, lo que resultará en una mayor retención de clientes, recomendaciones positivas y un crecimiento sostenible para AgroSolutions.
-
-#### 1.2.2.3 Lean UX Hypothesis Statements
-[Poner información aquí]
 
 #### 1.2.2.4 Lean UX Canvas
 [Poner información aquí]
