@@ -233,7 +233,8 @@ Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a
 5. Suponemos que al ofrecer servicios de calidad y efectivos a los agricultores, satisfaremos sus necesidades y superaremos sus expectativas, lo que resultará en una mayor retención de clientes, recomendaciones positivas y un crecimiento sostenible para AgroSolutions.
 
 #### 1.2.2.4 Lean UX Canvas
-[Poner información aquí]
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/4a430e79-4345-442e-9a46-e7255edb4af1)
 
 ---
 
