@@ -180,24 +180,23 @@ Soy estudiante del quinto ciclo de la carrera Ingeniería de Softwar. Mis pasati
 - En los últimos años, el sector agrícola en el Perú ha enfrentado desafíos significativos, incluyendo la falta de acceso a información técnica actualizada, asesoramiento especializado y mercados eficientes para la comercialización de productos. Estudios locales resaltan la importancia de considerar factores como las condiciones climáticas, la disponibilidad de recursos hídricos y la calidad del suelo para el éxito de las operaciones agrícolas. En respuesta a estas necesidades, AgroSolutions emerge como una innovadora startup nacional comprometida con abordar estas problemáticas y ofrecer soluciones integrales para impulsar la producción agrícola en el país. 
 - La empresa no solo proporciona información precisa y asistencia de expertos, sino que también actúa como un socio comercial activo, facilitando la comercialización directa de los productos agrícolas a través de una plataforma en línea. Además, ofrece servicios personalizados de consultoría y evaluación, asegurando un enfoque individualizado y eficaz en el manejo de los cultivos. La misión de AgroSolutions es impulsar el desarrollo del sector agrícola peruano, contribuyendo al crecimiento económico y social de las comunidades rurales mediante la integración de tecnología avanzada y un compromiso firme con la sostenibilidad.
 
-- What?
-La startup AgroSolutions se encarga de desarrollar y mantener la plataforma, la cual cuenta con especialistas en agricultura y expertos en comercialización. Además, está dirigida a pequeños y medianos agricultores peruanos que buscan mejorar su producción y rentabilidad.
+* What?
+- La startup AgroSolutions se encarga de desarrollar y mantener la plataforma, la cual cuenta con especialistas en agricultura y expertos en comercialización. Además, está dirigida a pequeños y medianos agricultores peruanos que buscan mejorar su producción y rentabilidad.
 
-- When?
-La aplicación y los servicios de AgroSolutions están disponibles en todo momento, permitiendo a los usuarios acceder a recursos y apoyo cuando lo necesiten. Los agricultores pueden realizar consultas en la plataforma las 24 horas del día, los 7 días de la semana.
+* When?
+- La aplicación y los servicios de AgroSolutions están disponibles en todo momento, permitiendo a los usuarios acceder a recursos y apoyo cuando lo necesiten. Los agricultores pueden realizar consultas en la plataforma las 24 horas del día, los 7 días de la semana.
 
-- Where?
-AgroSolutions opera en el Perú, específicamente dirigido a los agricultores del país que buscan mejorar sus prácticas agrícolas y optimizar el rendimiento de sus cultivos.
+* Where?
+- AgroSolutions opera en el Perú, específicamente dirigido a los agricultores del país que buscan mejorar sus prácticas agrícolas y optimizar el rendimiento de sus cultivos.
   
-- Why?
-El propósito de AgroSolutions es proporcionar un espacio seguro y accesible donde los agricultores peruanos puedan acceder a información precisa y asistencia experta. El objetivo es mejorar la productividad y rentabilidad de los agricultores, contribuyendo así al desarrollo económico y social del país.
+* Why?
+- El propósito de AgroSolutions es proporcionar un espacio seguro y accesible donde los agricultores peruanos puedan acceder a información precisa y asistencia experta. El objetivo es mejorar la productividad y rentabilidad de los agricultores, contribuyendo así al desarrollo económico y social del país.
 
-- How?
-AgroSolutions ofrece una plataforma en línea que brinda orientación sobre mejores prácticas agrícolas, asesoramiento personalizado y la oportunidad de comercializar directamente los productos agrícolas. Además, los agricultores pueden programar visitas de profesionales a sus terrenos para recibir evaluaciones específicas y recomendaciones.
+* How?
+- AgroSolutions ofrece una plataforma en línea que brinda orientación sobre mejores prácticas agrícolas, asesoramiento personalizado y la oportunidad de comercializar directamente los productos agrícolas. Además, los agricultores pueden programar visitas de profesionales a sus terrenos para recibir evaluaciones específicas y recomendaciones.
 
-
-- How much?
-Los costos de los servicios de AgroSolutions pueden variar dependiendo del tipo y alcance de los servicios requeridos por los agricultores. La plataforma ofrece una gama de opciones, desde acceso gratuito a ciertos recursos básicos hasta planes de suscripción que proporcionan beneficios adicionales, como análisis detallados de la salud de los cultivos y la posibilidad de reservar consultas con especialistas.
+* How much?
+- Los costos de los servicios de AgroSolutions pueden variar dependiendo del tipo y alcance de los servicios requeridos por los agricultores. La plataforma ofrece una gama de opciones, desde acceso gratuito a ciertos recursos básicos hasta planes de suscripción que proporcionan beneficios adicionales, como análisis detallados de la salud de los cultivos y la posibilidad de reservar consultas con especialistas.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
