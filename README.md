@@ -195,11 +195,13 @@ Soy estudiante del quinto ciclo de la carrera Ingeniería de Softwar. Mis pasati
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1 Análisis competitivo
-[Poner información aquí]
+En este análisis, hemos identificado tres aplicaciones con funcionalidades similares a nuestra propuesta. SiAR se enfoca en la gestión de riego, calculando las necesidades hídricas y dosis de riego. Agricolum ofrece la consolidación de datos de una explotación agrícola en una sola aplicación. Por último, PlantCare ayuda a encontrar productos fitosanitarios y a tratar cultivos afectados por plagas específicas.
+![Competitive analysis](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Analisis%20competitivo.png)
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
-[Poner información aquí]
-
+Después de realizar un análisis exhaustivo del mercado y de las diversas aplicaciones disponibles para el sector agrícola, hemos identificado nuestras fortalezas y áreas de mejora. En particular, destacamos nuestra capacidad única para proporcionar asesoramiento técnico y facilitar la comercialización directa de productos, lo que nos diferencia claramente de otras plataformas. Esta ventaja nos permite satisfacer de manera más efectiva las necesidades tanto de los agricultores individuales como de los compradores mayoristas.
+En torno al precio, este se justificará con base en el contenido que ofrecemos. Además, durante los primeros meses después del lanzamiento al mercado, brindaremos distintos descuentos para promover la adopción de la aplicación.
+Por otro lado, al expandir nuestro alcance y participación en eventos agrícolas relevantes y en redes sociales especializadas, estamos fortaleciendo nuestra presencia en la comunidad agrícola. Este enfoque estratégico nos posiciona no solo como una plataforma tecnológica, sino también como un aliado activo y confiable para agricultores y compradores mayoristas por igual.
 ---
 
 ## 2.2 Entrevistas
