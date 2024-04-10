@@ -311,14 +311,26 @@ Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a
 
 # Capítulo IV: Product Design
 ## 4.1 Style Guidelines
+Dentro de esta área se redactarán las guías de estilo a seguir para la construcción de nuestro proyecto. Establecermos la paleta de colores, tipografía y tamaño, además de otros datos de la interfaz de cara al usuario. Tener estos datos claros nos ayudarán a construir una mejor aplicación web con un diseño más consistente.
 - ### 4.1.1 General Style Guidelines
   #### Paleta de colores:
-  Para la selección de nuestra paleta de colores tomamos en cuenta aspectos de legibilidad y jerarquia visual. Para empezar el color #012128 será usado como el color principal de nuestra landing page, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso del color #013541 se empleará en subtitulos u otras secciones de menor relevancia. Luego, el color #025e73 será usado para acompañar tarjetas desplegables u otros agregados. Continuando con el color #02728c se usará para los botones de la landing page. Finalmente el color #039bbe se usa de fondo para la landing.
-
-   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color.jpg)
   
+Para la selección de nuestra paleta de colores tomamos en cuenta aspectos de legibilidad y jerarquía visual. Para empezar el color #00A388 será usado como el color principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso del color #79BD8F se empleará en subtitulos y secciones de menor relevancia. Luego, el color #BEEB9F será usado para acompañar tarjetas desplegables, íconos u otros agregados. Continuando con el color #FF6138 se usará para los botones del proyecto. Finalmente el color #FFFF9D se usa de fondo en la mayoría de páginas para la proyecto debido a su suave contraste con los demás.
+
+   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
+
+  #### Tipografía:
+En el caso de la tipografía se seleccionó la fuente "DM Sans", la cual ofrece una buena legibilidad y un diseño que denota profesionalidad. Para hacer una diferencia notoria en la jerarquía visual se emplearán tamaños de letra distintos en todo el proyecto de forma que podamos reflejar los títulos, subtítulos y cuerpo.
+
+   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
+
+  #### Branding: 
+Finalmente, el branding es un punto importante para la contrucción de una marca, su objetivo es crear un diferencial que nos de una imagen propia y de igual forma nos de más reconocimiento, por ello se diseñó un logo que represente nuestro producto y el mensaje que queremos comunicar a nuestros clientes.
+
+   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Logo_1.png)
+
 - ### 4.1.2 Web Style Guidelines
-  [Poner información aquí]
+Para nuestro landing page de la aplicación web se aplicaron las directrices del Material Desing, para poder presentar una interfaz que sobrecargue la vista del usuario y que sea sencilla e intuitiva para que el usuario pueda usar naturalmente la aplicación web. Asimismo, se emplearon icónos y patrones familiares ya vistos comunmente para generar un ambiente más amigable de cara a la interacción con el usuario.
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
