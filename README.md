@@ -399,11 +399,11 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/616ac2b8-fe84-41ba-88a5-318e00790dfc)
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/2827cf00-6a5f-4c4f-b9eb-ec1e2734f898)
   
 - ### 4.6.2 Software Architecture Container Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/1b882ad6-2522-4a3b-b562-2afff7f14eb9)
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/41f76ed1-56f6-4320-947b-dbde77474aa7)
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
