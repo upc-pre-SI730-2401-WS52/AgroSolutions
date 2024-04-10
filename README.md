@@ -398,11 +398,11 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
   
 - ### 4.4.4 Web Applications User Flow Diagrams
 
-   [Poner información aquí]
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/ea5ad5e9-9732-48ef-ae13-f9d5013b08c2)
 
 ## 4.5 Web Applications Prototyping
 
-[Poner información aquí]
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/33f298f9-fe48-4d69-98d8-428d8bac3047)
 
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
