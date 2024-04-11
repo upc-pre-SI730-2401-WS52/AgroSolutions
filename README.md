@@ -469,19 +469,19 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
   
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
-![ClassDiagrams]()
+![ClassDiagrams](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/ClassDiagrams.png)
   
 - ### 4.7.2 Class Dictionary
 | N |   Entidad            |   Atributos                         |   Definición                                        |   Tipo de dato     |
 |---|----------------------|-------------------------------------|-----------------------------------------------------|---------------------|
 | 1 |   Plataforma         |   usuarios, productos, ventas       |   Representa la plataforma en línea de AgroSolutions|   Clase             |
-| 2 |   Usuario            |   idUsuario, nombre, correoElectronico, contrasena, tipoUsuario   |   Representa a los usuarios del sistema         |   Clase             |
+| 2 |   Usuario            |   idUsuario, nombre, correoElectronico, contrasena, tipoUsuario   |   Representa a los usuarios del sistema         |   Int, string, string, string, TipoUsuario              |
 | 3 |   Agricultor         |   parcela, asesoramiento            |   Representa a los agricultores que utilizan la plataforma |   Clase             |
-| 4 |   ProfesionalAgrícola|  especialidad, experiencia         |   Representa a los expertos agrícolas que brindan asesoramiento |   Clase             |
-| 5 |   Producto           |   idProducto, nombre, precio, cantidadDisponible, agricultor   |   Representa los productos agrícolas en venta |   Clase             |
-| 6 |   Venta              |   idVenta, productosVendidos, totalVenta, fechaVenta, vendedor|   Representa una transacción de venta de productos agrícolas|   Clase             |
-| 7 |   Asesoramiento      |   recomendaciones                   |   Representa el asesoramiento proporcionado a los agricultores |   Clase             |
-|---|----------------------|-------------------------------------|-----------------------------------------------------|---------------------|  
+| 4 |   ProfesionalAgrícola|  especialidad, experiencia         |   Representa a los expertos agrícolas que brindan asesoramiento |   string, int             |
+| 5 |   Producto           |   idProducto, nombre, precio, cantidadDisponible, agricultor   |   Representa los productos agrícolas en venta |   int, string, float, int, Agricultor             |
+| 6 |   Venta              |   idVenta, productosVendidos, totalVenta, fechaVenta, vendedor|   Representa una transacción de venta de productos agrícolas|   int, producto, float, date, Usuario             |
+| 7 |   Asesoramiento      |   recomendaciones                   |   Representa el asesoramiento proporcionado a los agricultores |   string             |
+
 
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
