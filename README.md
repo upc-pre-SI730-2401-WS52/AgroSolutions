@@ -277,9 +277,10 @@ Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a
 ### 2.3.5 As-is Scenario Mapping
 En esta sección procedemos a realizar el needfinding con los as-is scenarios map. Estos son mapas que, a través de una serie de pasos, cuentan lo que nuestros usuarios hacen, piensan y sienten. Este se elabora en búsqueda de puntos débiles del proceso en los que la plataforma web pueda simplificar.
 #### Segmento 1: Pequeños Agricultores
-
+![as-is](As-is-PequeñosAgricultores.jpg)
 
 #### Segmento 2: Vendedores de Verduras Mayoristas
+![as-is](As-is-VendedoresMayoristas.jpg)
 ---
 
 ## 2.4 Ubiquitous Language
