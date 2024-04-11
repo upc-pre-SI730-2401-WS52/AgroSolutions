@@ -275,12 +275,31 @@ Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a
 #### Segmento 2: Vendedores de Verduras Mayoristas
 ![User Empathy map 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/empatumap-vendedores.png)
 ### 2.3.5 As-is Scenario Mapping
-[Poner información aquí]
+En esta sección procedemos a realizar el needfinding con los as-is scenarios map. Estos son mapas que, a través de una serie de pasos, cuentan lo que nuestros usuarios hacen, piensan y sienten. Este se elabora en búsqueda de puntos débiles del proceso en los que la plataforma web pueda simplificar.
+#### Segmento 1: Pequeños Agricultores
 
+
+#### Segmento 2: Vendedores de Verduras Mayoristas
 ---
 
 ## 2.4 Ubiquitous Language
-[Poner información aquí]
+### Pequeños Agricultores:
+Definición: Agricultores que poseen y trabajan en parcelas de tierra relativamente pequeñas, generalmente con recursos limitados y dependientes de técnicas agrícolas tradicionales.
+### Vendedores Mayoristas de Verduras:
+Definición: Empresas o individuos que compran productos agrícolas a pequeños agricultores y los venden a granel a minoristas, restaurantes u otros compradores.
+### Plataforma AgroSolutions:
+Definición: La aplicación web y plataforma en línea desarrollada por AgroSolutions para ofrecer servicios y apoyo integral a pequeños agricultores y vendedores mayoristas de verduras.
+### Asesoramiento Agrícola Personalizado:
+Definición: Servicio proporcionado por AgroSolutions que implica visitas de profesionales agrícolas a las parcelas de los agricultores para evaluar y ofrecer recomendaciones específicas para mejorar el rendimiento de los cultivos.
+### Comercialización Directa:
+Definición: Proceso facilitado por AgroSolutions que permite a los agricultores vender sus productos directamente a través de la plataforma en línea, eliminando intermediarios y llegando a una audiencia más amplia.
+### Gestión de Plagas y Enfermedades:
+Definición: Servicio proporcionado por AgroSolutions que implica el asesoramiento y la asistencia en el manejo de plagas y enfermedades que afectan a los cultivos de los agricultores.
+### Optimización del Riego y Fertilización:
+Definición: Servicio de AgroSolutions que proporciona orientación sobre los mejores métodos y momentos para el riego y la aplicación de fertilizantes, con el objetivo de maximizar el rendimiento de los cultivos.
+### Mercado Agrícola:
+Definición: La sección de la plataforma AgroSolutions dedicada a la compra y venta de productos agrícolas, donde los agricultores pueden listar sus productos para su venta directa y los vendedores mayoristas pueden comprar productos a granel.
+
 
 ---
 
