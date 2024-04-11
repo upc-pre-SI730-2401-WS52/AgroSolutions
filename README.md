@@ -306,7 +306,11 @@ Definición: La sección de la plataforma AgroSolutions dedicada a la compra y v
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-[Poner información aquí]
+#### Segmento 1: Pequeños Agricultores
+![To-be 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/To-be-Peque%C3%B1osAgricultores.jpg)
+
+#### Segmento 2: Vendedores de Verduras Mayoristas
+![To-be 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/To-be-VendedoresMayoristas.jpg)
 
 ## 3.2 User Stories
 
