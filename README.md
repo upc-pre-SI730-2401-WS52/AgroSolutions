@@ -492,6 +492,8 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 | 5 |   Producto           |   idProducto, nombre, precio, cantidadDisponible, agricultor   |   Representa los productos agrícolas en venta |   int, string, float, int, Agricultor             |
 | 6 |   Venta              |   idVenta, productosVendidos, totalVenta, fechaVenta, vendedor|   Representa una transacción de venta de productos agrícolas|   int, producto, float, date, Usuario             |
 | 7 |   Asesoramiento      |   recomendaciones                   |   Representa el asesoramiento proporcionado a los agricultores |   string             |
+| 8 |   Parcela      |   idParcela, dimension                  |   Representa el tamaño de la parcela |   int, float             |
+
 
 
 ## 4.8 Database Design
