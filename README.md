@@ -233,7 +233,13 @@ Segmento 2: Vendedores de verduras mayoristas
 ¿Hay algún problema o inconveniente que hayas experimentado al comprar verduras frescas que te gustaría que se abordara en una tienda virtual de vegetales frescos?
 
 ### 2.2.2 Registro de entrevistas
-[Poner información aquí]
+Segmento Objetivo1 : Pequeños agricultores
+Entrevista 1 Entrevistador: Christian Renato Espinoza Saenz 
+Entrevistado: Diego Cano Datos del Entrevistado: Edad:23 años
+Link : https://youtu.be/ttzGvp5tMYQ
+
+
+ Segmento Objetivo2 : Vendedores de verduras mayoristas
 
 ### 2.2.3 Análisis de entrevistas
 [Poner información aquí]
