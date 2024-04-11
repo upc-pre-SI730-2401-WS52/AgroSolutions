@@ -335,7 +335,14 @@ Definición: La sección de la plataforma AgroSolutions dedicada a la compra y v
 [Poner información aquí]
 
 ## 3.4 Product Backlog
-[Poner información aquí]
+|Usuario|User Story|Título|Descripción|Story points|
+|-|-|-|-|-|
+|1|US01|Planificación de Cultivos y Gestión de Insumos|Como agricultor, quiero utilizar una aplicación para planificar mis cultivos,asignar recursos y establecer objetivos de producción.|8|
+|2|US02|Seguimiento de Operaciones y Toma de Decisiones|Como agricultor, quiero registrar datos sobre el progreso de mis cultivos, como riego, fertilización y control de plagas.|8|
+|3|US03|Comunicación y Colaboración|Como agricultor, quiero comunicarme con otros miembros del equipo, proveedores y compradores a través de una aplicación.|8|
+|4|US04|Evaluación y Adaptación|Como agricultor, quiero analizar datos históricos y métricas clave para evaluar el éxito de mis operaciones.|5|
+|5|US05|Distribución y venta|Como vendedor mayorista quiero poder tener mis productos frescos y listos en una fecha exacta y a un precio competitivo.|5|
+|6|US06|Precios y Demandas en Tiempo Real|Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda.|8|
 
 ---
 
