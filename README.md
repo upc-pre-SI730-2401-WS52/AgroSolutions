@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AgroSolutions/Images/image1.png" alt="image1" width="100%">
+</p>
+
 # AgroSolutions
 ---
 
@@ -14,24 +18,42 @@
 # Informe de Trabajo Final
 - **Nombre del Startup**: AgroSolutions
 - **Nombre del Producto**: AgroSolutions
-- **Relación de Integrantes**: [Nombres de los Integrantes]
+
+# Team  Members:
+<center>
+
+| Member                           | Code       |
+|----------------------------------|------------|
+| Alvaro  Pinto Fuentes Rivera     | u202213384 |
+| Poma Espinoza Gustavo Arturo     | u20221c138 |
+| Christian Renato Espinoza Saenz  | u202213208 |
+| Georgina Lastra Trinidad         | u201822503 |
+| Burga loarte Anaely Zarely       | u202118264 |
+|                                  |            |
+
 - **Mes y Año**: marzo del 2024
+</center>
 
 ---
 
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-|-------------|-----------|-----------|---------------------------------|
-| 1.0         | [Fecha]   | [Autor]   | [Descripción de la primera versión] |
-| 1.1         | [Fecha]   | [Autor]   | [Descripción de modificaciones relevantes] |
-| ...         | ...       | ...       | ...                             |
+| Versión | Fecha            | Autor                           | Descripción de modificación                                                                                                                                                                                               |
+|---------|------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | Miércoles 10 de Abril | - Pinto Fuentes Rivera, Alvaro Felipe <br> - Burga Loarte Anaely Zarely <br> - Espinoza Saenz Christian Renato <br> - Gustavo Arturo Poma Espinoza <br> - Georgina Lastra Trinidad | Se han incluído los siguientes capítulos: <br> Capítulo I: Introducción <br> Capítulo II: Requirements Elicitation & Analysis <br> Capítulo III: Requirements Specification <br> Capítulo IV: Product Design <br> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> Avance de Conclusiones, Bibliografía y Anexos |
+
 
 ---
 # Project Report Collaboration Insights 
 
+URL Project Report (Github): https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions
 
+Commits en reporte avance TB1
+
+<p align="center">
+  <img src="AgroSolutions/Images/Commits.png" alt="Commits" width="75%">
+</p>
 
 ---
 
@@ -160,40 +182,110 @@ En resumen, en AgroSolutions encontrarás el respaldo necesario para impulsar tu
 #### - Gustavo Arturo Poma Espinoza 
 Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Salir a caminar con mis mascotas me ayuda a relajarme y meditar. Además, soy aficionado a las artes marciales, las cuales me han inculcado disciplina y perseverancia. Mi color favorito es el azul. Estoy disponible para ayudar siempre a mis compañeros y tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo.
 
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/d9a0a10e-2709-4471-b05e-858f1fbc1fd8)
+
 #### - Alvaro Felipe Pinto Fuentes Rivera
 Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el genero de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.
+
+<p align="center">
+  <img src="AgroSolutions/Images/AlvaroFoto.png" alt="AlvaroFoto" width="75%">
+</p>
 
 #### - Christian Renato Espinoza Saenz
 Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi nombre es Christian, tengo 19 años y mi color favorito es el guinda. Me encanta escuchar música, jugar videojuegos como Team Fortress 2 y Persona 2: Innocent Sin, y también tocar el teclado. Poseo ideas únicas, estrafalarias e innovadoras para que el trabajo logre sobresalir. Adicionalmente, tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto.
 
+<p align="center">
+  <img src="AgroSolutions/Images/ChristianFoto.jpg" alt="ChristianFoto" width="75%">
+</p>
+
 #### - Anaely Burga Loarte
-Soy estudiante del quinto ciclo de la carrera Ingeniería de Softwar. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
+Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
+
+<br>
+
+![Sin título1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/04e5d9db-b36e-4a52-86a0-e543d7694ead)
 
 #### - Georgina Lastra Trinidad
 Soy estudiante de Ingeniería de Software. Mi curiosidad y mi entusiasmo por comprender cómo funcionan las cosas me llevaron a elegir este campo como mi camino profesional. Soy una estudiante comprometida y persistente que busca convertirse en una ingeniera innovadora con visión de futuro. Estoy emocionada por contribuir al desarrollo de soluciones tecnológicas impactantes que mejoren  la vida de las personas de todo el mundo.
 
 
 ## 1.2 Solution Profile
+- Nombre del Producto: Plataforma AgroSolutions
+
+- Descripción del Producto: La plataforma AgroSolutions representa una solución completa destinada a proporcionar orientación y asistencia a agricultores de pequeña y mediana escala para optimizar el desarrollo de sus cultivos. Este recurso digital ofrece acceso a información técnica actualizada sobre las mejores prácticas agrícolas, tales como las épocas más adecuadas para el cultivo, métodos eficaces de riego y estrategias de control de plagas. Más allá de ser una fuente informativa, AgroSolutions también funciona como un socio comercial activo al permitir que los agricultores comercialicen sus productos directamente en línea, ampliando su visibilidad y maximizando su retorno de inversión. Además, la plataforma facilita la programación de visitas personalizadas de expertos a los terrenos de los agricultores, garantizando una atención individualizada para mejorar el rendimiento de los cultivos.
+
+- Monetización: Para mantener su operación y continuar ofreciendo servicios de calidad, AgroSolutions implementa una variedad de estrategias de monetización. Esto incluye la obtención de ingresos a través de comisiones por ventas, donde se aplica un cargo sobre cada transacción realizada en la plataforma. Asimismo, se ofrecen servicios de consultoría y evaluación personalizada por una tarifa, lo que implica la visita de expertos a los terrenos de los agricultores para brindar asesoramiento especializado. AgroSolutions también genera ingresos mediante acuerdos publicitarios y patrocinios con empresas vinculadas al sector agrícola, además de contemplar la posibilidad de una suscripción premium que otorgue acceso a funciones exclusivas y contenido adicional por una tarifa periódica. Este enfoque diversificado garantiza la sostenibilidad financiera de la plataforma y su capacidad para adaptarse a las cambiantes demandas del mercado agrícola, al tiempo que sigue brindando un valioso apoyo a los agricultores.
+
 ### 1.2.1 Antecedentes y problemática
-[Poner información aquí]
+- En los últimos años, el sector agrícola en el Perú ha enfrentado desafíos significativos, incluyendo la falta de acceso a información técnica actualizada, asesoramiento especializado y mercados eficientes para la comercialización de productos. Estudios locales resaltan la importancia de considerar factores como las condiciones climáticas, la disponibilidad de recursos hídricos y la calidad del suelo para el éxito de las operaciones agrícolas. En respuesta a estas necesidades, AgroSolutions emerge como una innovadora startup nacional comprometida con abordar estas problemáticas y ofrecer soluciones integrales para impulsar la producción agrícola en el país. 
+- La empresa no solo proporciona información precisa y asistencia de expertos, sino que también actúa como un socio comercial activo, facilitando la comercialización directa de los productos agrícolas a través de una plataforma en línea. Además, ofrece servicios personalizados de consultoría y evaluación, asegurando un enfoque individualizado y eficaz en el manejo de los cultivos. La misión de AgroSolutions es impulsar el desarrollo del sector agrícola peruano, contribuyendo al crecimiento económico y social de las comunidades rurales mediante la integración de tecnología avanzada y un compromiso firme con la sostenibilidad.
+
+* What?
+    * La startup AgroSolutions se encarga de desarrollar y mantener la plataforma, la cual cuenta con especialistas en agricultura y expertos en comercialización. Además, está dirigida a pequeños y medianos agricultores peruanos que buscan mejorar su producción y         rentabilidad.
+
+* When?
+    * La aplicación y los servicios de AgroSolutions están disponibles en todo momento, permitiendo a los usuarios acceder a recursos y apoyo cuando lo necesiten. Los agricultores pueden realizar consultas en la plataforma las 24 horas del día, los 7 días de la             semana.
+
+* Where?
+    * AgroSolutions opera en el Perú, específicamente dirigido a los agricultores del país que buscan mejorar sus prácticas agrícolas y optimizar el rendimiento de sus cultivos.
+  
+* Why?
+    * El propósito de AgroSolutions es proporcionar un espacio seguro y accesible donde los agricultores peruanos puedan acceder a información precisa y asistencia experta. El objetivo es mejorar la productividad y rentabilidad de los agricultores, contribuyendo así        al desarrollo económico y social del país.
+
+* How?
+    * AgroSolutions ofrece una plataforma en línea que brinda orientación sobre mejores prácticas agrícolas, asesoramiento personalizado y la oportunidad de comercializar directamente los productos agrícolas. Además, los agricultores pueden programar visitas de             profesionales a sus terrenos para recibir evaluaciones específicas y recomendaciones.
+
+* How much?
+    * Los costos de los servicios de AgroSolutions pueden variar dependiendo del tipo y alcance de los servicios requeridos por los agricultores. La plataforma ofrece una gama de opciones, desde acceso gratuito a ciertos recursos básicos hasta planes de suscripción         que proporcionan beneficios adicionales, como análisis detallados de la salud de los cultivos y la posibilidad de reservar consultas con especialistas.
 
 ### 1.2.2 Lean UX Process
+
 #### 1.2.2.1 Lean UX Problem Statements
-[Poner información aquí]
+
+Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a información agrícola actualizada, orientación especializada y un canal eficiente para la venta de sus productos representa un desafío constante. A diferencia de las alternativas convencionales, como consultorías agrícolas costosas o mercados locales limitados, no existe una solución centralizada y completa que satisfaga estas necesidades de manera efectiva. Esta disparidad en los recursos disponibles dificulta que los agricultores maximicen el rendimiento de sus cultivos y obtengan un retorno óptimo de su inversión. Por lo tanto, nuestro objetivo es ofrecer a los agricultores una solución integral y efectiva que les permita acceder a información técnica precisa, recibir asesoramiento personalizado y comercializar sus productos de manera eficiente. A través de nuestra plataforma, nos esforzamos por crear un ambiente inclusivo y accesible donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios dispuestos a ofrecer orientación y apoyo. Así, como startup, nos planteamos la siguiente interrogante: ¿Cómo podemos resolver los desafíos que enfrentan nuestros usuarios para brindar una solución integral y efectiva que fortalezca el sector agrícola en el Perú?
 
 #### 1.2.2.2 Lean UX Assumptions
-[Poner información aquí]
+
+| Business Assumptions                                                                                                 | User Assumptions                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Se presume que existe una demanda creciente de soluciones integrales para fortalecer el sector agrícola, respaldando así la viabilidad a largo plazo de AgroSolutions. | Se asume que los agricultores están interesados en mejorar sus prácticas agrícolas y aumentar su rentabilidad.           |
+| Se presupone que los agricultores están dispuestos a adoptar tecnologías agrícolas modernas para mejorar la eficiencia y la productividad en sus cultivos.         | Se asume que los agricultores percibirán la información y servicios proporcionados por AgroSolutions como valiosos y útiles para su trabajo diario. |
+| Se asume que la comercialización directa de los productos agrícolas a través de la plataforma de AgroSolutions generará un aumento significativo en los ingresos de los agricultores. | Se presume que los agricultores valorarán la accesibilidad a nuevos mercados y oportunidades de venta ofrecidas por AgroSolutions. |
+| Se presupone que los agricultores buscan asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas para optimizar el rendimiento de sus cultivos. | Se asume que los agricultores estarán dispuestos a pagar por servicios de asesoramiento especializado y visitas de profesionales a sus terrenos. |
+| Se presume que la comunidad agrícola estará interesada en participar en foros de discusión y compartir conocimientos para mejorar sus prácticas agrícolas.          | Se asume que los agricultores encontrarán valor en la interacción con otros usuarios y expertos en agronomía dentro de la plataforma de AgroSolutions. |
+| Se presume que los agricultores prefieren una plataforma intuitiva y fácil de usar para acceder a información agrícola y servicios relacionados con la agricultura. | Se presume que los agricultores de diversas edades y niveles de experiencia encontrarán la plataforma de AgroSolutions accesible y fácil de navegar. |
+| Se presume que la oferta de eventos y talleres gratuitos a cargo de expertos agrícolas será bien recibida por la comunidad agrícola, fomentando la participación y el compromiso. | Se asume que los agricultores estarán interesados en participar en eventos educativos y talleres para mejorar sus habilidades y conocimientos agrícolas. |
+| Se asume que la implementación de una suscripción premium con características adicionales generará ingresos adicionales y aumentará la retención de usuarios. | Se presupone que los agricultores estarán dispuestos a pagar por una suscripción premium que ofrezca acceso a funciones exclusivas y beneficios adicionales dentro de la plataforma de AgroSolutions. |
+| Se presume que la capacidad de dejar reseñas y calificaciones a los especialistas agrícolas incentivará la transparencia y la confianza en la plataforma de AgroSolutions. | Se asume que los agricultores valorarán la posibilidad de compartir sus experiencias y opiniones sobre los servicios recibidos en la plataforma de AgroSolutions. |
+| Se asume que la integración de herramientas de análisis de datos agrícolas facilitará a los agricultores la toma de decisiones informadas para mejorar la productividad de sus cultivos. | Se presume que los agricultores encontrarán valor en el análisis de datos agrícolas proporcionado por AgroSolutions para optimizar sus prácticas y maximizar sus rendimientos. |
+
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-[Poner información aquí]
+
+1. Creemos que al proporcionar a los agricultores acceso a información agrícola actualizada y especializada, mejoraremos su capacidad para tomar decisiones informadas sobre el manejo de cultivos, lo que conducirá a una mayor productividad y rentabilidad.
+
+2. Creemos que al facilitar a los agricultores una plataforma centralizada y eficiente para la comercialización de sus productos agrícolas, aumentaremos su acceso a mercados más amplios y mejoraremos sus oportunidades de venta, generando mayores ingresos y competitividad.
+
+3. Suponemos que al ofrecer a los agricultores asesoramiento personalizado y visitas de profesionales a sus terrenos, podremos identificar y abordar sus desafíos específicos de manera más efectiva, lo que resultará en un mejor rendimiento de los cultivos y mayor satisfacción del cliente.
+
+4. Creemos que al crear un entorno inclusivo y accesible en nuestra plataforma, donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios para compartir conocimientos y experiencias, fomentaremos la colaboración y el intercambio de mejores prácticas, impulsando el crecimiento y desarrollo en el sector agrícola.
+
+5. Suponemos que al ofrecer servicios de calidad y efectivos a los agricultores, satisfaremos sus necesidades y superaremos sus expectativas, lo que resultará en una mayor retención de clientes, recomendaciones positivas y un crecimiento sostenible para AgroSolutions.
 
 #### 1.2.2.4 Lean UX Canvas
-[Poner información aquí]
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/4a430e79-4345-442e-9a46-e7255edb4af1)
 
 ---
 
 ## 1.3 Segmentos objetivo
-[Poner información aquí]
+
+| Variables         | Segmento 1                                                                                                                      | Segmento 2                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Geográfica        | El mercado objetivo se encuentra en Perú, donde la agricultura es una parte vital de la economía y la sociedad.                | Los especialistas interesados en brindar servicios se encuentran en Perú, trabajando en centros de salud certificados.        |
+| Demográfica       | No hay restricciones específicas en términos de edad o género. El segmento puede incluir desde jóvenes adultos hasta personas mayores. | Los especialistas deben ser profesionales certificados y estar trabajando en centros de salud reconocidos en Perú.          |
+| Psicológica       | Los usuarios pueden estar interesados en mejorar sus habilidades agrícolas, buscar soluciones a problemas específicos o simplemente aprender más sobre agricultura. | Los especialistas deben demostrar habilidades de comunicación efectiva, empatía y un compromiso con los estándares éticos. |
+| Función de comportamiento | Los usuarios pueden buscar activamente plataformas en línea donde puedan obtener información, compartir experiencias y conectarse con otros entusiastas de la agricultura. | Los especialistas deben estar dispuestos a colaborar con otros profesionales y estar abiertos a ampliar su base de clientes. Actúan buscando oportunidades para compartir sus conocimientos y habilidades con aquellos que los necesitan. |
 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
@@ -237,11 +329,17 @@ Segmento 2: Vendedores de verduras mayoristas
 ¿Hay algún problema o inconveniente que hayas experimentado al comprar verduras frescas que te gustaría que se abordara en una tienda virtual de vegetales frescos?
 
 ### 2.2.2 Registro de entrevistas
-Segmento Objetivo1 : Pequeños agricultores
-Entrevista 1 Entrevistador: Christian Renato Espinoza Saenz 
-Entrevistado: Diego Cano Datos del Entrevistado: Edad:23 años
+
+#### Segmento Objetivo1 : Pequeños agricultores
+Entrevista 1 
+Entrevistador: Christian Renato Espinoza Saenz 
+Entrevistado: Diego Cano 
+Datos del Entrevistado: 
+Edad:23 años
+Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
 
+<<<<<<< HEAD
 Entrevistador: Georgina Lastra Trinidad
 Entrevistado: Orlando Roca Huapaya
 Datos Generales:
@@ -253,13 +351,51 @@ Dispositivos: Android, Windows
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
 Link de la entrevista: https://youtu.be/6v2mfmt39oI
+=======
+<p align="center">
+  <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
+</p>
+>>>>>>> 1f63722efa0445163aeec17904029501b2c395af
 
- Segmento Objetivo2 : Vendedores de verduras mayoristas
+Entrevista 2 
+Entrevistador: Alvaro Felipe Pinto Fuentes Rivera 
+Entrevistado: Miguel Lopez 
+Datos del Entrevistado:
+Edad: 20 años
+Distrito: Trujillo
+Link : https://youtu.be/Fh4fFaK-nhY
+
+<p align="center">
+  <img src="AgroSolutions/Images/Entrevista2.png" alt="Entrevista2" width="100%">
+</p>
+
+
+ #### Segmento Objetivo2 : Vendedores de verduras mayoristas
+
+ Entrevista 1 
+Entrevistador: Christian Renato Espinoza Saenz 
+Entrevistado: Sebastian Palacios
+Datos del Entrevistado: 
+Edad:29 años
+Distrito: San Juan de Miraflores
+Link : https://youtu.be/fE1h3W8MHWM
+
+<p align="center">
+  <img src="AgroSolutions/Images/Entreivta a palacios.png" alt="Entrevista 1" width="100%">
+</p>
 
 ### 2.2.3 Análisis de entrevistas
-[Poner información aquí]
 
----
+#### Segmento Objetivo1 : Pequeños agricultores
+
+Entrevista 1:
+Diego Cano, un joven productor frutal de 23 años, continúa el legado familiar de cultivar manzanas y pitahayas. Heredó de su familia no solo el amor por el cultivo, sino también el profundo respeto por la tierra y el arduo trabajo que implica trabajar en esta zona. Diego nos compartió la importancia de mantener su campo en óptimas condiciones y su deseo de recibir asesoramiento especializado, especialmente porque no se considera muy versado en términos de comercio. Destacó que lo que más valoraría sería un diagnóstico detallado de su campo, que le brinde la certeza de que está tomando las decisiones correctas para optimizar su producción y asegurar el éxito a largo plazo.
+
+Entrevista 2 : El entrevistado Miguel Lopez tiene 20 años, trabaja en el negocio familiar de la agricultura desde pequeño por lo que está bastante familiarizado con el sector laboral, gracias a la entrevista se pudo obtener mayor información sobre el segmenteo objetivo con el que estamos trabajando. También, estuvo de acuerdo en que el sector laboral que maneja su familia es realmente pesado y muchas veces se presentan dificultades, por lo que al explicarle las funciones que ofrece nuestra solución de software.
+
+#### Segmento Objetivo2 : Vendedores de verduras mayoristas
+Entrevista 1: 
+Sebastián Palacios, propietario de un local en San Juan de Miraflores, se esfuerza por ofrecer productos frescos y de alta calidad. En la entrevista, un vendedor mayorista de verduras frescas destaca la importancia de la calidad y la frescura, comprando con frecuencia para mantener un suministro constante. Prefiere la compra en tienda física pero valora la conveniencia en línea. Destaca la importancia de servicios como la entrega a domicilio y la variedad de productos, y señala la necesidad de abordar problemas de calidad inconsistente en el comercio en línea.
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
@@ -330,40 +466,117 @@ Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a
 ## 4.1 Style Guidelines
 Dentro de esta área se redactarán las guías de estilo a seguir para la construcción de nuestro proyecto. Establecermos la paleta de colores, tipografía y tamaño, además de otros datos de la interfaz de cara al usuario. Tener estos datos claros nos ayudarán a construir una mejor aplicación web con un diseño más consistente.
 - ### 4.1.1 General Style Guidelines
-  #### Paleta de colores:
-  
+
+
+**Paleta de colores:**
 Para la selección de nuestra paleta de colores tomamos en cuenta aspectos de legibilidad y jerarquía visual. Para empezar el color #00A388 será usado como el color principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso del color #79BD8F se empleará en subtitulos y secciones de menor relevancia. Luego, el color #BEEB9F será usado para acompañar tarjetas desplegables, íconos u otros agregados. Continuando con el color #FF6138 se usará para los botones del proyecto. Finalmente el color #FFFF9D se usa de fondo en la mayoría de páginas para la proyecto debido a su suave contraste con los demás.
 
    ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
 
-  #### Tipografía:
+
+**Tipografía:**
 En el caso de la tipografía se seleccionó la fuente "DM Sans", la cual ofrece una buena legibilidad y un diseño que denota profesionalidad. Para hacer una diferencia notoria en la jerarquía visual se emplearán tamaños de letra distintos en todo el proyecto de forma que podamos reflejar los títulos, subtítulos y cuerpo.
 
    ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
 
-  #### Branding: 
+
+**Branding:**
 Finalmente, el branding es un punto importante para la contrucción de una marca, su objetivo es crear un diferencial que nos de una imagen propia y de igual forma nos de más reconocimiento, por ello se diseñó un logo que represente nuestro producto y el mensaje que queremos comunicar a nuestros clientes.
 
    ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Logo_1.png)
 
+
+**Spacing:**
+Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
+
+**Tono de comunicación:**
+El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
+
 - ### 4.1.2 Web Style Guidelines
+
 Para nuestro landing page de la aplicación web se aplicaron las directrices del Material Desing, para poder presentar una interfaz que sobrecargue la vista del usuario y que sea sencilla e intuitiva para que el usuario pueda usar naturalmente la aplicación web. Asimismo, se emplearon icónos y patrones familiares ya vistos comunmente para generar un ambiente más amigable de cara a la interacción con el usuario.
+
+   **Colores**
+En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el color #00A388 como principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso de los colores #79BD8F, #BEEB9F, #FF6138 y #FFFF9D se usarán de forma complementaria para el contraste.
+
+   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
+
+  **Tipografía:**
+En el caso de la tipografía se seleccionó la fuente "DM Sans" debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web. Además, se complementará con los distintos tamaños de letra según sea necesario en el texto, así podremos separar los títulos, subtítulos y el cuerpo.
+
+   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
+
+   **Formas:**
+Se usarán figuras con bordes ligeramente redondeados en el proyecto para mostrar una estética más moderna, a la vez que ordenada y pulida, haciendo nuestra página más vistosa, accesible y cómoda para el usuario.
+
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
- [Poner información aquí]
- 
+ Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón Z que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
+
+![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Z-Pattern.png)
+
 - ### 4.2.2 Labeling Systems
-  [Poner información aquí]
-  
+
+![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/labelingWebDesktop1.png)
+
+![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/labelingWebDesktop2.png)
+
 - ### 4.2.3 SEO Tags and Meta Tags
-  [Poner información aquí]
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AgroSolutions.
+
+Landing Page:
+
+Title: AgroSolutions
+
+Description: AgroSolutions- AgroSolutions Oficial Landing Page
+
+Keywords: Crops, service, farmer, companies.
+
+Authors: AgroSolutions team
+
+Web application:
+
+Title: AgroSolutions
+
+Description: AgroSolutions- AgroSolutions Oficial Web Site
+
+Keywords: Inventory, crops, products, inventory, tracking, service, guidance.
+
+Authors: AgroSolutions team
   
 - ### 4.2.4 Searching Systems
-  [Poner información aquí]
+Se implementaron dos funcionalidades de búsqueda bástante similares para fácilitar el trabajo del usuario al buscar información concreta.
+
+El primero de estos sistemas se encuentra en la sección de "Empleados" de la aplicación. Aquí, los usuarios tienen acceso a la lista de empleados dentro de la cual podrán realizar busquedas rápidamente según el DNI, Cargo o Nombre. Esto ayuda de gran manera a la gestión de empleados para su fácil acceso.
+
+Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Cultivos". En esta sección, los usuarios pueden buscar su cultivo según la fecha y estado. Así pueden navegar entre sus cultivos para encontrarlos más fácilmente.
   
 - ### 4.2.5 Navigation Systems
-  [Poner información aquí]
+
+Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
+
+Para los agricultores pequeños:
+
+- Inicio: Sección inicial
+
+- Tienda: Sección para la venta de productos.
+
+- Chat: Medio de comunicación con mayoristas.
+
+- Cultivos: Comunicación con el taller encargado de la reparación.
+
+- Empleados: Visualización de datos del personal.
+
+- Calendario: Vista de los cultivos con su fecha aprox de germinación.
+
+Para los vendedores mayoristas:
+
+- Inicio: Sección inicial
+
+- Chat: Medio de comunicación con agricultores.
+
+Adicionalmente, nos aseguramos de que la aplicación permita realizar acciones que lo llevan a otras ventanas de forma intuitiva, para que así el usuario pueda orientarse y acceder a las demás áreas facilmente.
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
@@ -427,11 +640,13 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
   
 - ### 4.4.4 Web Applications User Flow Diagrams
 
-  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/ea5ad5e9-9732-48ef-ae13-f9d5013b08c2)
+
+ ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/dc674f1a-0732-4ae6-b7ae-37c2f8584289)
 
 ## 4.5 Web Applications Prototyping
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/33f298f9-fe48-4d69-98d8-428d8bac3047)
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/41964fc5-0358-4ea1-bcc5-d8bb934f5c16)
+
 
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
@@ -446,7 +661,6 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
  ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/a39631a7-fbbf-420b-ad68-990790680928)
 
-  
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
   [Poner información aquí]
@@ -493,6 +707,12 @@ Finalmente, la rama "master" será la rama principal y estable del repositorio. 
 Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
   
 - ### Source Code Style Guide & Conventions
+
+**URL de repositorio Landing Page:** https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_LandingPage.github.io.git
+
+**URL de repositorio Web Services:** https://github.com/upc-pre-SI730-2401-WS52/Web_Services.git
+
+**URL de repositorio de Frontend Web Applications:** https://github.com/upc-pre-SI730-2401-WS52/Frontend_Web_Applications.git
 
 En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
 
@@ -624,4 +844,13 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
    [Poner información aquí]
 
 
+# Conclusiones
+
+1. **Aprendizaje sobre el diseño centrado en el usuario:** Durante el proceso de desarrollo, reforzamos la importancia de adoptar un enfoque centrado en el usuario para diseñar tanto la landing page como la aplicación web. Esta metodología nos permitió comprender las necesidades y expectativas de nuestros usuarios, lo que nos ayudó a crear una experiencia más intuitiva y satisfactoria.
+
+2. **Dominio de herramientas de desarrollo web:** A lo largo del proyecto, usamos diversas herramientas y tecnologías de desarrollo web, incluidos lenguajes de marcado como HTML , CSS y javascript. Este conocimiento nos permitió implementar diseños atractivos y responsivos que se adaptan a diferentes dispositivos y pantallas.
+
+3. **Comprensión de los principios de optimización para motores de búsqueda (SEO):** Durante la creación de la landing page, aprendimos sobre la importancia de aplicar prácticas de SEO para mejorar la visibilidad y el posicionamiento en los resultados de búsqueda. Esto incluyó la optimización de contenido, el uso adecuado de palabras clave y la estructuración de la página para facilitar la indexación por parte de los motores de búsqueda.
+
+4. **Experiencia en integración de funcionalidades interactivas:** Al desarrollar la aplicación web, ganamos experiencia en la integración de funcionalidades interactivas, como formularios de registro personalizados.
 
