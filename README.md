@@ -200,7 +200,9 @@ Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi n
 
 #### - Anaely Burga Loarte
 Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
-<br/ >
+
+<br>
+
 ![Sin título1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/04e5d9db-b36e-4a52-86a0-e543d7694ead)
 
 #### - Georgina Lastra Trinidad
