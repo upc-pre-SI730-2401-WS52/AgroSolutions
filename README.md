@@ -343,7 +343,7 @@ Definición: La sección de la plataforma AgroSolutions dedicada a la compra y v
 | US006 | Precios y Demandas en Tiempo Real | Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda. | - **Dado** que accedo a la aplicación, **Cuando** la aplicación muestra información actualizada sobre precios de mercado y demanda de productos agrícolas, **Entonces** puedo tomar decisiones informadas sobre mis cultivos. - **Dado** que configuro notificaciones, **Cuando** recibo alertas sobre cambios significativos en los precios o demanda, **Entonces** puedo reaccionar rápidamente a las oportunidades del mercado. - **Dado** que accedo a la aplicación, **Cuando** accedo a información actualizada sobre precios de mercado y demanda, **Entonces** puedo tomar decisiones estratégicas basadas en datos en tiempo real. | EPIC004 |
 
 ## 3.3 Impact Mapping
-[Poner información aquí]
+![Impact Map](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/ImpactMapAgricultor.png)
 
 ## 3.4 Product Backlog
 |Usuario|User Story|Título|Descripción|Story points|
@@ -498,7 +498,7 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
-   [Poner información aquí]
+  ![Database Diagram](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/DatabaseDiagrams.png)
   
 ---
 
