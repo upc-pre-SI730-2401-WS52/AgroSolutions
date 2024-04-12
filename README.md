@@ -341,7 +341,11 @@ Edad:23 años
 Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
 
-<<<<<<< HEAD
+
+<p align="center">
+  <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
+</p>
+
 Entrevistador: Georgina Lastra Trinidad
 Entrevistado: Orlando Roca Huapaya
 Datos Generales:
@@ -353,11 +357,6 @@ Dispositivos: Android, Windows
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
 Link de la entrevista: https://youtu.be/6v2mfmt39oI
-=======
-<p align="center">
-  <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
-</p>
->>>>>>> 1f63722efa0445163aeec17904029501b2c395af
 
 Entrevista 2 
 Entrevistador: Alvaro Felipe Pinto Fuentes Rivera 
