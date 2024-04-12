@@ -26,8 +26,8 @@
 |----------------------------------|------------|
 | Alvaro  Pinto Fuentes Rivera     | u202213384 |
 | Poma Espinoza Gustavo Arturo     | u20221c138 |
-|                                  |            |
-|                                  |            |
+| Christian Renato Espinoza Saenz  | u202213208 |
+| Georgina Lastra Trinidad         | u201822503 |
 | Burga loarte Anaely Zarely       | u202118264 |
 |                                  |            |
 
