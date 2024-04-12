@@ -242,6 +242,17 @@ Entrevista 1 Entrevistador: Christian Renato Espinoza Saenz
 Entrevistado: Diego Cano Datos del Entrevistado: Edad:23 años
 Link : https://youtu.be/ttzGvp5tMYQ
 
+Entrevistador: Georgina Lastra Trinidad
+Entrevistado: Orlando Roca Huapaya
+Datos Generales:
+Edad: 28 años
+Ocupación: Agrónomo
+Residencia: Ica, Perú
+Redes sociales: WhatsApp, Instagram
+Dispositivos: Android, Windows
+Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
+
+Link de la entrevista: https://youtu.be/6v2mfmt39oI
 
  Segmento Objetivo2 : Vendedores de verduras mayoristas
 
