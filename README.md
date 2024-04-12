@@ -208,6 +208,8 @@ Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasat
 #### - Georgina Lastra Trinidad
 Soy estudiante de Ingeniería de Software. Mi curiosidad y mi entusiasmo por comprender cómo funcionan las cosas me llevaron a elegir este campo como mi camino profesional. Soy una estudiante comprometida y persistente que busca convertirse en una ingeniera innovadora con visión de futuro. Estoy emocionada por contribuir al desarrollo de soluciones tecnológicas impactantes que mejoren  la vida de las personas de todo el mundo.
 
+![perfil](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/perfil-georgina.png)
+
 
 ## 1.2 Solution Profile
 - Nombre del Producto: Plataforma AgroSolutions
