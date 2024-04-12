@@ -436,19 +436,13 @@ Se usarán figuras con bordes ligeramente redondeados en el proyecto para mostra
 - ### 4.2.1 Organization Systems
  Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón Z que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
 
-<div align="center">
-  <img src="Agrosolutions/Images/Z-Pattern.png"alt="Z-Pattern" width="100%">
-</div>
+![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Z-Pattern.png)
 
 - ### 4.2.2 Labeling Systems
 
-<div align="center">
-  <img src="Agrosolutions/Images/labelingWebDesktop1.png"alt="labelingWebDesktop1" width="100%">
-</div>
+![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/labelingWebDesktop1.png)
 
-<div align="center">
-  <img src="Agrosolutions/Images/labelingWebDesktop2.png"alt="labelingWebDesktop2" width="100%">
-</div>
+![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/labelingWebDesktop2.png)
 
 - ### 4.2.3 SEO Tags and Meta Tags
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AgroSolutions.
