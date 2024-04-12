@@ -340,43 +340,41 @@ Segmento 2: Vendedores de verduras mayoristas
 ### 2.2.2 Registro de entrevistas
 
 #### Segmento Objetivo1 : Pequeños agricultores
-Entrevista 1 
+### Entrevista 1 
 Entrevistador: Christian Renato Espinoza Saenz 
 Entrevistado: Diego Cano 
 Datos del Entrevistado: 
 Edad:23 años
 Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
-## Entrevista N° 
-## Entrevistador: Georgina Lastra Trinidad
-## Entrevistado: Orlando Roca Huapaya
-## Datos Generales:
-## Edad: 28 años
-## Ocupación:  Agrónomo
-## Residencia: Ica, Perú
-## Redes sociales: WhatsApp, Instagram
-## Dispositivos: Android, Windows
-Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
-
-Link de la entrevista: https://youtu.be/6v2mfmt39oI
 
 <p align="center">
   <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
 </p>
 
+### Entrevista 1 
+
 Entrevistador: Georgina Lastra Trinidad
+
 Entrevistado: Orlando Roca Huapaya
+
 Datos Generales:
+
 Edad: 28 años
+
 Ocupación: Agrónomo
+
 Residencia: Ica, Perú
+
 Redes sociales: WhatsApp, Instagram
 Dispositivos: Android, Windows
+
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
 Link de la entrevista: https://youtu.be/6v2mfmt39oI
 
-Entrevista 2 
+
+### Entrevista 3
 Entrevistador: Alvaro Felipe Pinto Fuentes Rivera 
 Entrevistado: Miguel Lopez 
 Datos del Entrevistado:
