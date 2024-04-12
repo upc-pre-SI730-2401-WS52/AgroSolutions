@@ -174,26 +174,82 @@ Soy estudiante de Ingeniería de Software. Mi curiosidad y mi entusiasmo por com
 
 
 ## 1.2 Solution Profile
+- Nombre del Producto: Plataforma AgroSolutions
+
+- Descripción del Producto: La plataforma AgroSolutions representa una solución completa destinada a proporcionar orientación y asistencia a agricultores de pequeña y mediana escala para optimizar el desarrollo de sus cultivos. Este recurso digital ofrece acceso a información técnica actualizada sobre las mejores prácticas agrícolas, tales como las épocas más adecuadas para el cultivo, métodos eficaces de riego y estrategias de control de plagas. Más allá de ser una fuente informativa, AgroSolutions también funciona como un socio comercial activo al permitir que los agricultores comercialicen sus productos directamente en línea, ampliando su visibilidad y maximizando su retorno de inversión. Además, la plataforma facilita la programación de visitas personalizadas de expertos a los terrenos de los agricultores, garantizando una atención individualizada para mejorar el rendimiento de los cultivos.
+
+- Monetización: Para mantener su operación y continuar ofreciendo servicios de calidad, AgroSolutions implementa una variedad de estrategias de monetización. Esto incluye la obtención de ingresos a través de comisiones por ventas, donde se aplica un cargo sobre cada transacción realizada en la plataforma. Asimismo, se ofrecen servicios de consultoría y evaluación personalizada por una tarifa, lo que implica la visita de expertos a los terrenos de los agricultores para brindar asesoramiento especializado. AgroSolutions también genera ingresos mediante acuerdos publicitarios y patrocinios con empresas vinculadas al sector agrícola, además de contemplar la posibilidad de una suscripción premium que otorgue acceso a funciones exclusivas y contenido adicional por una tarifa periódica. Este enfoque diversificado garantiza la sostenibilidad financiera de la plataforma y su capacidad para adaptarse a las cambiantes demandas del mercado agrícola, al tiempo que sigue brindando un valioso apoyo a los agricultores.
+
 ### 1.2.1 Antecedentes y problemática
-[Poner información aquí]
+- En los últimos años, el sector agrícola en el Perú ha enfrentado desafíos significativos, incluyendo la falta de acceso a información técnica actualizada, asesoramiento especializado y mercados eficientes para la comercialización de productos. Estudios locales resaltan la importancia de considerar factores como las condiciones climáticas, la disponibilidad de recursos hídricos y la calidad del suelo para el éxito de las operaciones agrícolas. En respuesta a estas necesidades, AgroSolutions emerge como una innovadora startup nacional comprometida con abordar estas problemáticas y ofrecer soluciones integrales para impulsar la producción agrícola en el país. 
+- La empresa no solo proporciona información precisa y asistencia de expertos, sino que también actúa como un socio comercial activo, facilitando la comercialización directa de los productos agrícolas a través de una plataforma en línea. Además, ofrece servicios personalizados de consultoría y evaluación, asegurando un enfoque individualizado y eficaz en el manejo de los cultivos. La misión de AgroSolutions es impulsar el desarrollo del sector agrícola peruano, contribuyendo al crecimiento económico y social de las comunidades rurales mediante la integración de tecnología avanzada y un compromiso firme con la sostenibilidad.
+
+* What?
+    * La startup AgroSolutions se encarga de desarrollar y mantener la plataforma, la cual cuenta con especialistas en agricultura y expertos en comercialización. Además, está dirigida a pequeños y medianos agricultores peruanos que buscan mejorar su producción y         rentabilidad.
+
+* When?
+    * La aplicación y los servicios de AgroSolutions están disponibles en todo momento, permitiendo a los usuarios acceder a recursos y apoyo cuando lo necesiten. Los agricultores pueden realizar consultas en la plataforma las 24 horas del día, los 7 días de la             semana.
+
+* Where?
+    * AgroSolutions opera en el Perú, específicamente dirigido a los agricultores del país que buscan mejorar sus prácticas agrícolas y optimizar el rendimiento de sus cultivos.
+  
+* Why?
+    * El propósito de AgroSolutions es proporcionar un espacio seguro y accesible donde los agricultores peruanos puedan acceder a información precisa y asistencia experta. El objetivo es mejorar la productividad y rentabilidad de los agricultores, contribuyendo así        al desarrollo económico y social del país.
+
+* How?
+    * AgroSolutions ofrece una plataforma en línea que brinda orientación sobre mejores prácticas agrícolas, asesoramiento personalizado y la oportunidad de comercializar directamente los productos agrícolas. Además, los agricultores pueden programar visitas de             profesionales a sus terrenos para recibir evaluaciones específicas y recomendaciones.
+
+* How much?
+    * Los costos de los servicios de AgroSolutions pueden variar dependiendo del tipo y alcance de los servicios requeridos por los agricultores. La plataforma ofrece una gama de opciones, desde acceso gratuito a ciertos recursos básicos hasta planes de suscripción         que proporcionan beneficios adicionales, como análisis detallados de la salud de los cultivos y la posibilidad de reservar consultas con especialistas.
 
 ### 1.2.2 Lean UX Process
+
 #### 1.2.2.1 Lean UX Problem Statements
-[Poner información aquí]
+
+Para los agricultores de pequeña y mediana escala en el Perú, obtener acceso a información agrícola actualizada, orientación especializada y un canal eficiente para la venta de sus productos representa un desafío constante. A diferencia de las alternativas convencionales, como consultorías agrícolas costosas o mercados locales limitados, no existe una solución centralizada y completa que satisfaga estas necesidades de manera efectiva. Esta disparidad en los recursos disponibles dificulta que los agricultores maximicen el rendimiento de sus cultivos y obtengan un retorno óptimo de su inversión. Por lo tanto, nuestro objetivo es ofrecer a los agricultores una solución integral y efectiva que les permita acceder a información técnica precisa, recibir asesoramiento personalizado y comercializar sus productos de manera eficiente. A través de nuestra plataforma, nos esforzamos por crear un ambiente inclusivo y accesible donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios dispuestos a ofrecer orientación y apoyo. Así, como startup, nos planteamos la siguiente interrogante: ¿Cómo podemos resolver los desafíos que enfrentan nuestros usuarios para brindar una solución integral y efectiva que fortalezca el sector agrícola en el Perú?
 
 #### 1.2.2.2 Lean UX Assumptions
-[Poner información aquí]
+
+| Business Assumptions                                                                                                 | User Assumptions                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Se presume que existe una demanda creciente de soluciones integrales para fortalecer el sector agrícola, respaldando así la viabilidad a largo plazo de AgroSolutions. | Se asume que los agricultores están interesados en mejorar sus prácticas agrícolas y aumentar su rentabilidad.           |
+| Se presupone que los agricultores están dispuestos a adoptar tecnologías agrícolas modernas para mejorar la eficiencia y la productividad en sus cultivos.         | Se asume que los agricultores percibirán la información y servicios proporcionados por AgroSolutions como valiosos y útiles para su trabajo diario. |
+| Se asume que la comercialización directa de los productos agrícolas a través de la plataforma de AgroSolutions generará un aumento significativo en los ingresos de los agricultores. | Se presume que los agricultores valorarán la accesibilidad a nuevos mercados y oportunidades de venta ofrecidas por AgroSolutions. |
+| Se presupone que los agricultores buscan asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas para optimizar el rendimiento de sus cultivos. | Se asume que los agricultores estarán dispuestos a pagar por servicios de asesoramiento especializado y visitas de profesionales a sus terrenos. |
+| Se presume que la comunidad agrícola estará interesada en participar en foros de discusión y compartir conocimientos para mejorar sus prácticas agrícolas.          | Se asume que los agricultores encontrarán valor en la interacción con otros usuarios y expertos en agronomía dentro de la plataforma de AgroSolutions. |
+| Se presume que los agricultores prefieren una plataforma intuitiva y fácil de usar para acceder a información agrícola y servicios relacionados con la agricultura. | Se presume que los agricultores de diversas edades y niveles de experiencia encontrarán la plataforma de AgroSolutions accesible y fácil de navegar. |
+| Se presume que la oferta de eventos y talleres gratuitos a cargo de expertos agrícolas será bien recibida por la comunidad agrícola, fomentando la participación y el compromiso. | Se asume que los agricultores estarán interesados en participar en eventos educativos y talleres para mejorar sus habilidades y conocimientos agrícolas. |
+| Se asume que la implementación de una suscripción premium con características adicionales generará ingresos adicionales y aumentará la retención de usuarios. | Se presupone que los agricultores estarán dispuestos a pagar por una suscripción premium que ofrezca acceso a funciones exclusivas y beneficios adicionales dentro de la plataforma de AgroSolutions. |
+| Se presume que la capacidad de dejar reseñas y calificaciones a los especialistas agrícolas incentivará la transparencia y la confianza en la plataforma de AgroSolutions. | Se asume que los agricultores valorarán la posibilidad de compartir sus experiencias y opiniones sobre los servicios recibidos en la plataforma de AgroSolutions. |
+| Se asume que la integración de herramientas de análisis de datos agrícolas facilitará a los agricultores la toma de decisiones informadas para mejorar la productividad de sus cultivos. | Se presume que los agricultores encontrarán valor en el análisis de datos agrícolas proporcionado por AgroSolutions para optimizar sus prácticas y maximizar sus rendimientos. |
+
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-[Poner información aquí]
+
+1. Creemos que al proporcionar a los agricultores acceso a información agrícola actualizada y especializada, mejoraremos su capacidad para tomar decisiones informadas sobre el manejo de cultivos, lo que conducirá a una mayor productividad y rentabilidad.
+
+2. Creemos que al facilitar a los agricultores una plataforma centralizada y eficiente para la comercialización de sus productos agrícolas, aumentaremos su acceso a mercados más amplios y mejoraremos sus oportunidades de venta, generando mayores ingresos y competitividad.
+
+3. Suponemos que al ofrecer a los agricultores asesoramiento personalizado y visitas de profesionales a sus terrenos, podremos identificar y abordar sus desafíos específicos de manera más efectiva, lo que resultará en un mejor rendimiento de los cultivos y mayor satisfacción del cliente.
+
+4. Creemos que al crear un entorno inclusivo y accesible en nuestra plataforma, donde los agricultores puedan conectarse con expertos en agronomía y otros usuarios para compartir conocimientos y experiencias, fomentaremos la colaboración y el intercambio de mejores prácticas, impulsando el crecimiento y desarrollo en el sector agrícola.
+
+5. Suponemos que al ofrecer servicios de calidad y efectivos a los agricultores, satisfaremos sus necesidades y superaremos sus expectativas, lo que resultará en una mayor retención de clientes, recomendaciones positivas y un crecimiento sostenible para AgroSolutions.
 
 #### 1.2.2.4 Lean UX Canvas
-[Poner información aquí]
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/4a430e79-4345-442e-9a46-e7255edb4af1)
 
 ---
 
 ## 1.3 Segmentos objetivo
-[Poner información aquí]
+
+| Variables         | Segmento 1                                                                                                                      | Segmento 2                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Geográfica        | El mercado objetivo se encuentra en Perú, donde la agricultura es una parte vital de la economía y la sociedad.                | Los especialistas interesados en brindar servicios se encuentran en Perú, trabajando en centros de salud certificados.        |
+| Demográfica       | No hay restricciones específicas en términos de edad o género. El segmento puede incluir desde jóvenes adultos hasta personas mayores. | Los especialistas deben ser profesionales certificados y estar trabajando en centros de salud reconocidos en Perú.          |
+| Psicológica       | Los usuarios pueden estar interesados en mejorar sus habilidades agrícolas, buscar soluciones a problemas específicos o simplemente aprender más sobre agricultura. | Los especialistas deben demostrar habilidades de comunicación efectiva, empatía y un compromiso con los estándares éticos. |
+| Función de comportamiento | Los usuarios pueden buscar activamente plataformas en línea donde puedan obtener información, compartir experiencias y conectarse con otros entusiastas de la agricultura. | Los especialistas deben estar dispuestos a colaborar con otros profesionales y estar abiertos a ampliar su base de clientes. Actúan buscando oportunidades para compartir sus conocimientos y habilidades con aquellos que los necesitan. |
 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
