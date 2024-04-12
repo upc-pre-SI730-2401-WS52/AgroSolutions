@@ -24,7 +24,7 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-|                                  |            |
+| Alvaro  Pinto Fuentes Rivera     | u202213384 |
 |                                  |            |
 |                                  |            |
 |                                  |            |
@@ -311,17 +311,33 @@ Segmento 2: Vendedores de verduras mayoristas
 
 ### 2.2.2 Registro de entrevistas
 Segmento Objetivo1 : Pequeños agricultores
-Entrevista 1 Entrevistador: Christian Renato Espinoza Saenz 
-Entrevistado: Diego Cano Datos del Entrevistado: Edad:23 años
+Entrevista 1 
+Entrevistador: Christian Renato Espinoza Saenz 
+Entrevistado: Diego Cano 
+Datos del Entrevistado: 
+Edad:23 años
+Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
 
+Entrevista 2 
+Entrevistador: Alvaro Felipe Pinto Fuentes Rivera 
+Entrevistado: Miguel Lopez 
+Datos del Entrevistado:
+Edad: 20 años
+Distrito: Trujillo
+Link : https://youtu.be/Fh4fFaK-nhY
+
+<p align="center">
+  <img src="AgroSolutions/Images/Entrevista2.png" alt="Entrevista2" width="100%">
+</p>
 
  Segmento Objetivo2 : Vendedores de verduras mayoristas
 
 ### 2.2.3 Análisis de entrevistas
 [Poner información aquí]
 
----
+Entrevista 2 : El entrevistado Miguel Lopez tiene 20 años, trabaja en el negocio familiar de la agricultura desde pequeño por lo que está bastante familiarizado con el sector laboral, gracias a la entrevista se pudo obtener mayor información sobre el segmenteo objetivo con el que estamos trabajando. También, estuvo de acuerdo en que el sector laboral que maneja su familia es realmente pesado y muchas veces se presentan dificultades, por lo que al explicarle las funciones que ofrece nuestra solución de software.
+
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
