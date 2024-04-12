@@ -10,10 +10,11 @@
 - **Profesor**: Naldo Reupo Musayo Gastulo 
 
 ---
-<center>
+
 # Informe de Trabajo Final
 - **Nombre del Startup**: AgroSolutions
 - **Nombre del Producto**: AgroSolutions
+<center>
 # Team  Members:
 
 
