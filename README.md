@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AgroSolutions/Images/image1.png" alt="image1" width="100%">
+</p>
+
 # AgroSolutions
 ---
 
