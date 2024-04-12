@@ -347,7 +347,18 @@ Datos del Entrevistado:
 Edad:23 años
 Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
+## Entrevista N° 
+## Entrevistador: Georgina Lastra Trinidad
+## Entrevistado: Orlando Roca Huapaya
+## Datos Generales:
+## Edad: 28 años
+## Ocupación:  Agrónomo
+## Residencia: Ica, Perú
+## Redes sociales: WhatsApp, Instagram
+## Dispositivos: Android, Windows
+Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
+Link de la entrevista: https://youtu.be/6v2mfmt39oI
 
 <p align="center">
   <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
@@ -430,18 +441,42 @@ Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a
 #### Segmento 2: Vendedores de Verduras Mayoristas
 ![User Empathy map 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/empatumap-vendedores.png)
 ### 2.3.5 As-is Scenario Mapping
-[Poner información aquí]
+En esta sección procedemos a realizar el needfinding con los as-is scenarios map. Estos son mapas que, a través de una serie de pasos, cuentan lo que nuestros usuarios hacen, piensan y sienten. Este se elabora en búsqueda de puntos débiles del proceso en los que la plataforma web pueda simplificar.
+#### Segmento 1: Pequeños Agricultores
+![As-is 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/As-is-Peque%C3%B1osAgricultores.jpg)
 
+#### Segmento 2: Vendedores de Verduras Mayoristas
+![As-is 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/As-is-VendedoresMayoristas.jpg)
 ---
 
 ## 2.4 Ubiquitous Language
-[Poner información aquí]
+### Pequeños Agricultores:
+Definición: Agricultores que poseen y trabajan en parcelas de tierra relativamente pequeñas, generalmente con recursos limitados y dependientes de técnicas agrícolas tradicionales.
+### Vendedores Mayoristas de Verduras:
+Definición: Empresas o individuos que compran productos agrícolas a pequeños agricultores y los venden a granel a minoristas, restaurantes u otros compradores.
+### Plataforma AgroSolutions:
+Definición: La aplicación web y plataforma en línea desarrollada por AgroSolutions para ofrecer servicios y apoyo integral a pequeños agricultores y vendedores mayoristas de verduras.
+### Asesoramiento Agrícola Personalizado:
+Definición: Servicio proporcionado por AgroSolutions que implica visitas de profesionales agrícolas a las parcelas de los agricultores para evaluar y ofrecer recomendaciones específicas para mejorar el rendimiento de los cultivos.
+### Comercialización Directa:
+Definición: Proceso facilitado por AgroSolutions que permite a los agricultores vender sus productos directamente a través de la plataforma en línea, eliminando intermediarios y llegando a una audiencia más amplia.
+### Gestión de Plagas y Enfermedades:
+Definición: Servicio proporcionado por AgroSolutions que implica el asesoramiento y la asistencia en el manejo de plagas y enfermedades que afectan a los cultivos de los agricultores.
+### Optimización del Riego y Fertilización:
+Definición: Servicio de AgroSolutions que proporciona orientación sobre los mejores métodos y momentos para el riego y la aplicación de fertilizantes, con el objetivo de maximizar el rendimiento de los cultivos.
+### Mercado Agrícola:
+Definición: La sección de la plataforma AgroSolutions dedicada a la compra y venta de productos agrícolas, donde los agricultores pueden listar sus productos para su venta directa y los vendedores mayoristas pueden comprar productos a granel.
+
 
 ---
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-[Poner información aquí]
+#### Segmento 1: Pequeños Agricultores
+![To-be 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/To-be-Peque%C3%B1osAgricultores.jpg)
+
+#### Segmento 2: Vendedores de Verduras Mayoristas
+![To-be 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/To-be-VendedoresMayoristas.jpg)
 
 ## 3.2 User Stories
 
@@ -463,10 +498,17 @@ Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a
 | US006 | Precios y Demandas en Tiempo Real | Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda. | - **Dado** que accedo a la aplicación, **Cuando** la aplicación muestra información actualizada sobre precios de mercado y demanda de productos agrícolas, **Entonces** puedo tomar decisiones informadas sobre mis cultivos. - **Dado** que configuro notificaciones, **Cuando** recibo alertas sobre cambios significativos en los precios o demanda, **Entonces** puedo reaccionar rápidamente a las oportunidades del mercado. - **Dado** que accedo a la aplicación, **Cuando** accedo a información actualizada sobre precios de mercado y demanda, **Entonces** puedo tomar decisiones estratégicas basadas en datos en tiempo real. | EPIC004 |
 
 ## 3.3 Impact Mapping
-[Poner información aquí]
+![Impact Map](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/ImpactMapAgricultor.png)
 
 ## 3.4 Product Backlog
-[Poner información aquí]
+|Usuario|User Story|Título|Descripción|Story points|
+|-|-|-|-|-|
+|1|US01|Planificación de Cultivos y Gestión de Insumos|Como agricultor, quiero utilizar una aplicación para planificar mis cultivos,asignar recursos y establecer objetivos de producción.|8|
+|2|US02|Seguimiento de Operaciones y Toma de Decisiones|Como agricultor, quiero registrar datos sobre el progreso de mis cultivos, como riego, fertilización y control de plagas.|8|
+|3|US03|Comunicación y Colaboración|Como agricultor, quiero comunicarme con otros miembros del equipo, proveedores y compradores a través de una aplicación.|8|
+|4|US04|Evaluación y Adaptación|Como agricultor, quiero analizar datos históricos y métricas clave para evaluar el éxito de mis operaciones.|5|
+|5|US05|Distribución y venta|Como vendedor mayorista quiero poder tener mis productos frescos y listos en una fecha exacta y a un precio competitivo.|5|
+|6|US06|Precios y Demandas en Tiempo Real|Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda.|8|
 
 ---
 
@@ -671,15 +713,25 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
-  [Poner información aquí]
+![ClassDiagrams](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/ClassDiagrams.png)
   
 - ### 4.7.2 Class Dictionary
-  [Poner información aquí]
-  
+| N |   Entidad            |   Atributos                         |   Definición                                        |   Tipo de dato     |
+|---|----------------------|-------------------------------------|-----------------------------------------------------|---------------------|
+| 1 |   Plataforma         |   usuarios, productos, ventas       |   Representa la plataforma en línea de AgroSolutions|   Clase             |
+| 2 |   Usuario            |   idUsuario, nombre, correoElectronico, contrasena, tipoUsuario   |   Representa a los usuarios del sistema         |   Int, string, string, string, TipoUsuario              |
+| 3 |   Agricultor         |   parcela, asesoramiento            |   Representa a los agricultores que utilizan la plataforma |   Clase             |
+| 4 |   ProfesionalAgrícola|  especialidad, experiencia         |   Representa a los expertos agrícolas que brindan asesoramiento |   string, int             |
+| 5 |   Producto           |   idProducto, nombre, precio, cantidadDisponible, agricultor   |   Representa los productos agrícolas en venta |   int, string, float, int, Agricultor             |
+| 6 |   Venta              |   idVenta, productosVendidos, totalVenta, fechaVenta, vendedor|   Representa una transacción de venta de productos agrícolas|   int, producto, float, date, Usuario             |
+| 7 |   Asesoramiento      |   recomendaciones                   |   Representa el asesoramiento proporcionado a los agricultores |   string             |
+| 8 |   Parcela      |   idParcela, dimension                  |   Representa el tamaño de la parcela |   int, float             |
+
+
 
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
-   [Poner información aquí]
+  ![Database Diagram](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/DatabaseDiagrams.png)
   
 ---
 
