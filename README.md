@@ -39,11 +39,10 @@
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-|-------------|-----------|-----------|---------------------------------|
-| 1.0         | [Fecha]   | [Autor]   | [Descripción de la primera versión] |
-| 1.1         | [Fecha]   | [Autor]   | [Descripción de modificaciones relevantes] |
-| ...         | ...       | ...       | ...                             |
+| Versión | Fecha            | Autor                           | Descripción de modificación                                                                                                                                                                                               |
+|---------|------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | Miércoles 10 de Abril | - Pinto Fuentes Rivera, Alvaro Felipe <br> - Burga Loarte Anaely Zarely <br> - Espinoza Saenz Christian Renato <br> - Gustavo Arturo Poma Espinoza <br> - Georgina Lastra Trinidad | Se han incluído los siguientes capítulos: <br> Capítulo I: Introducción <br> Capítulo II: Requirements Elicitation & Analysis <br> Capítulo III: Requirements Specification <br> Capítulo IV: Product Design <br> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> Avance de Conclusiones, Bibliografía y Anexos |
+
 
 ---
 # Project Report Collaboration Insights 
@@ -182,8 +181,16 @@ Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera d
 #### - Alvaro Felipe Pinto Fuentes Rivera
 Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el genero de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.
 
+<p align="center">
+  <img src="AgroSolutions/Images/AlvaroFoto.png" alt="AlvaroFoto" width="75%">
+</p>
+
 #### - Christian Renato Espinoza Saenz
 Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi nombre es Christian, tengo 19 años y mi color favorito es el guinda. Me encanta escuchar música, jugar videojuegos como Team Fortress 2 y Persona 2: Innocent Sin, y también tocar el teclado. Poseo ideas únicas, estrafalarias e innovadoras para que el trabajo logre sobresalir. Adicionalmente, tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto.
+
+<p align="center">
+  <img src="AgroSolutions/Images/ChristianFoto.jpg" alt="ChristianFoto" width="75%">
+</p>
 
 #### - Anaely Burga Loarte
 Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
@@ -676,6 +683,12 @@ Finalmente, la rama "master" será la rama principal y estable del repositorio. 
 Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
   
 - ### Source Code Style Guide & Conventions
+
+**URL de repositorio Landing Page:** https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_LandingPage.github.io.git
+
+**URL de repositorio Web Services:** https://github.com/upc-pre-SI730-2401-WS52/Web_Services.git
+
+**URL de repositorio de Frontend Web Applications:** https://github.com/upc-pre-SI730-2401-WS52/Frontend_Web_Applications.git
 
 En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
 
