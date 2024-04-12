@@ -25,7 +25,7 @@
 | Member                           | Code       |
 |----------------------------------|------------|
 | Alvaro  Pinto Fuentes Rivera     | u202213384 |
-|                                  |            |
+| Poma Espinoza Gustavo Arturo     | u20221c138 |
 |                                  |            |
 |                                  |            |
 | Burga loarte Anaely Zarely       | u202118264 |
@@ -176,6 +176,8 @@ En resumen, en AgroSolutions encontrarás el respaldo necesario para impulsar tu
 
 #### - Gustavo Arturo Poma Espinoza 
 Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Salir a caminar con mis mascotas me ayuda a relajarme y meditar. Además, soy aficionado a las artes marciales, las cuales me han inculcado disciplina y perseverancia. Mi color favorito es el azul. Estoy disponible para ayudar siempre a mis compañeros y tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo.
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/d9a0a10e-2709-4471-b05e-858f1fbc1fd8)
 
 #### - Alvaro Felipe Pinto Fuentes Rivera
 Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el genero de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.
