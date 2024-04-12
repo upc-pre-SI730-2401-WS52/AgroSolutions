@@ -319,6 +319,10 @@ Edad:23 años
 Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
 
+<p align="center">
+  <img src="AgroSolutions/Images/Etrveista diegocano.png.png" alt="Entrevista1" width="100%">
+</p>
+
 Entrevista 2 
 Entrevistador: Alvaro Felipe Pinto Fuentes Rivera 
 Entrevistado: Miguel Lopez 
@@ -331,13 +335,18 @@ Link : https://youtu.be/Fh4fFaK-nhY
   <img src="AgroSolutions/Images/Entrevista2.png" alt="Entrevista2" width="100%">
 </p>
 
+
  Segmento Objetivo2 : Vendedores de verduras mayoristas
 
 ### 2.2.3 Análisis de entrevistas
-[Poner información aquí]
+Segmento Objetivo1 : Pequeños agricultores
+
+Entrevista 1:
+Diego Cano, un joven productor frutal de 23 años, continúa el legado familiar de cultivar manzanas y pitahayas. Heredó de su familia no solo el amor por el cultivo, sino también el profundo respeto por la tierra y el arduo trabajo que implica trabajar en esta zona. Diego nos compartió la importancia de mantener su campo en óptimas condiciones y su deseo de recibir asesoramiento especializado, especialmente porque no se considera muy versado en términos de comercio. Destacó que lo que más valoraría sería un diagnóstico detallado de su campo, que le brinde la certeza de que está tomando las decisiones correctas para optimizar su producción y asegurar el éxito a largo plazo.
 
 Entrevista 2 : El entrevistado Miguel Lopez tiene 20 años, trabaja en el negocio familiar de la agricultura desde pequeño por lo que está bastante familiarizado con el sector laboral, gracias a la entrevista se pudo obtener mayor información sobre el segmenteo objetivo con el que estamos trabajando. También, estuvo de acuerdo en que el sector laboral que maneja su familia es realmente pesado y muchas veces se presentan dificultades, por lo que al explicarle las funciones que ofrece nuestra solución de software.
 
+ Segmento Objetivo2 : Vendedores de verduras mayoristas
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
