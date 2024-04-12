@@ -14,9 +14,9 @@
 # Informe de Trabajo Final
 - **Nombre del Startup**: AgroSolutions
 - **Nombre del Producto**: AgroSolutions
-<center>
-# Team  Members:
 
+# Team  Members:
+<center>
 
 | Member                           | Code       |
 |----------------------------------|------------|
