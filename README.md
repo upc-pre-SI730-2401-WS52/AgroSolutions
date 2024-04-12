@@ -320,7 +320,7 @@ Distrito: Trujillo
 Link : https://youtu.be/ttzGvp5tMYQ
 
 <p align="center">
-  <img src="AgroSolutions/Images/Etrveista diegocano.png.png" alt="Entrevista1" width="100%">
+  <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
 </p>
 
 Entrevista 2 
