@@ -312,7 +312,8 @@ Segmento 2: Vendedores de verduras mayoristas
 ¿Hay algún problema o inconveniente que hayas experimentado al comprar verduras frescas que te gustaría que se abordara en una tienda virtual de vegetales frescos?
 
 ### 2.2.2 Registro de entrevistas
-Segmento Objetivo1 : Pequeños agricultores
+
+#### Segmento Objetivo1 : Pequeños agricultores
 Entrevista 1 
 Entrevistador: Christian Renato Espinoza Saenz 
 Entrevistado: Diego Cano 
@@ -338,17 +339,32 @@ Link : https://youtu.be/Fh4fFaK-nhY
 </p>
 
 
- Segmento Objetivo2 : Vendedores de verduras mayoristas
+ #### Segmento Objetivo2 : Vendedores de verduras mayoristas
+
+ Entrevista 1 
+Entrevistador: Christian Renato Espinoza Saenz 
+Entrevistado: Sebastian Palacios
+Datos del Entrevistado: 
+Edad:29 años
+Distrito: San Juan de Miraflores
+Link : https://youtu.be/fE1h3W8MHWM
+
+<p align="center">
+  <img src="AgroSolutions/Images/Entreivta a palacios.png" alt="Entrevista 1" width="100%">
+</p>
 
 ### 2.2.3 Análisis de entrevistas
-Segmento Objetivo1 : Pequeños agricultores
+
+#### Segmento Objetivo1 : Pequeños agricultores
 
 Entrevista 1:
 Diego Cano, un joven productor frutal de 23 años, continúa el legado familiar de cultivar manzanas y pitahayas. Heredó de su familia no solo el amor por el cultivo, sino también el profundo respeto por la tierra y el arduo trabajo que implica trabajar en esta zona. Diego nos compartió la importancia de mantener su campo en óptimas condiciones y su deseo de recibir asesoramiento especializado, especialmente porque no se considera muy versado en términos de comercio. Destacó que lo que más valoraría sería un diagnóstico detallado de su campo, que le brinde la certeza de que está tomando las decisiones correctas para optimizar su producción y asegurar el éxito a largo plazo.
 
 Entrevista 2 : El entrevistado Miguel Lopez tiene 20 años, trabaja en el negocio familiar de la agricultura desde pequeño por lo que está bastante familiarizado con el sector laboral, gracias a la entrevista se pudo obtener mayor información sobre el segmenteo objetivo con el que estamos trabajando. También, estuvo de acuerdo en que el sector laboral que maneja su familia es realmente pesado y muchas veces se presentan dificultades, por lo que al explicarle las funciones que ofrece nuestra solución de software.
 
- Segmento Objetivo2 : Vendedores de verduras mayoristas
+#### Segmento Objetivo2 : Vendedores de verduras mayoristas
+Entrevista 1: 
+Sebastián Palacios, propietario de un local en San Juan de Miraflores, se esfuerza por ofrecer productos frescos y de alta calidad. En la entrevista, un vendedor mayorista de verduras frescas destaca la importancia de la calidad y la frescura, comprando con frecuencia para mantener un suministro constante. Prefiere la compra en tienda física pero valora la conveniencia en línea. Destaca la importancia de servicios como la entrega a domicilio y la variedad de productos, y señala la necesidad de abordar problemas de calidad inconsistente en el comercio en línea.
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
@@ -791,4 +807,13 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
    [Poner información aquí]
 
 
+# Conclusiones
+
+1. **Aprendizaje sobre el diseño centrado en el usuario:** Durante el proceso de desarrollo, reforzamos la importancia de adoptar un enfoque centrado en el usuario para diseñar tanto la landing page como la aplicación web. Esta metodología nos permitió comprender las necesidades y expectativas de nuestros usuarios, lo que nos ayudó a crear una experiencia más intuitiva y satisfactoria.
+
+2. **Dominio de herramientas de desarrollo web:** A lo largo del proyecto, usamos diversas herramientas y tecnologías de desarrollo web, incluidos lenguajes de marcado como HTML , CSS y javascript. Este conocimiento nos permitió implementar diseños atractivos y responsivos que se adaptan a diferentes dispositivos y pantallas.
+
+3. **Comprensión de los principios de optimización para motores de búsqueda (SEO):** Durante la creación de la landing page, aprendimos sobre la importancia de aplicar prácticas de SEO para mejorar la visibilidad y el posicionamiento en los resultados de búsqueda. Esto incluyó la optimización de contenido, el uso adecuado de palabras clave y la estructuración de la página para facilitar la indexación por parte de los motores de búsqueda.
+
+4. **Experiencia en integración de funcionalidades interactivas:** Al desarrollar la aplicación web, ganamos experiencia en la integración de funcionalidades interactivas, como formularios de registro personalizados.
 
