@@ -47,7 +47,13 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 ---
 # Project Report Collaboration Insights 
 
+URL Project Report (Github): https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions
 
+Commits en reporte avance TB1
+
+<p align="center">
+  <img src="AgroSolutions/Images/Commits.png" alt="Commits" width="75%">
+</p>
 
 ---
 
