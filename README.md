@@ -291,42 +291,118 @@ En este apartado, evaluamos las actividades habitualmente llevadas a cabo por ca
 ## 4.1 Style Guidelines
 Dentro de esta área se redactarán las guías de estilo a seguir para la construcción de nuestro proyecto. Establecermos la paleta de colores, tipografía y tamaño, además de otros datos de la interfaz de cara al usuario. Tener estos datos claros nos ayudarán a construir una mejor aplicación web con un diseño más consistente.
 - ### 4.1.1 General Style Guidelines
-  #### Paleta de colores:
+
+**Paleta de colores:**
 Para la selección de nuestra paleta de colores tomamos en cuenta aspectos de legibilidad y jerarquía visual. Para empezar el color #00A388 será usado como el color principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso del color #79BD8F se empleará en subtitulos y secciones de menor relevancia. Luego, el color #BEEB9F será usado para acompañar tarjetas desplegables, íconos u otros agregados. Continuando con el color #FF6138 se usará para los botones del proyecto. Finalmente el color #FFFF9D se usa de fondo en la mayoría de páginas para la proyecto debido a su suave contraste con los demás.
 
    ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
-   
-  #### Tipografía:
+
+**Tipografía:**
 En el caso de la tipografía se seleccionó la fuente "DM Sans", la cual ofrece una buena legibilidad y un diseño que denota profesionalidad. Para hacer una diferencia notoria en la jerarquía visual se emplearán tamaños de letra distintos en todo el proyecto de forma que podamos reflejar los títulos, subtítulos y cuerpo.
 
    ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
-   
-  #### Branding: 
+
+**Branding:**
 Finalmente, el branding es un punto importante para la contrucción de una marca, su objetivo es crear un diferencial que nos de una imagen propia y de igual forma nos de más reconocimiento, por ello se diseñó un logo que represente nuestro producto y el mensaje que queremos comunicar a nuestros clientes.
 
    ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Logo_1.png)
-  
+
+**Spacing:**
+Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
+
+**Tono de comunicación:**
+El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
+
 - ### 4.1.2 Web Style Guidelines
+
 Para nuestro landing page de la aplicación web se aplicaron las directrices del Material Desing, para poder presentar una interfaz que sobrecargue la vista del usuario y que sea sencilla e intuitiva para que el usuario pueda usar naturalmente la aplicación web. Asimismo, se emplearon icónos y patrones familiares ya vistos comunmente para generar un ambiente más amigable de cara a la interacción con el usuario.
-  
-- ### 4.1.2 Web Style Guidelines
-  [Poner información aquí]
+
+   **Colores**
+En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el color #00A388 como principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso de los colores #79BD8F, #BEEB9F, #FF6138 y #FFFF9D se usarán de forma complementaria para el contraste.
+
+   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
+
+  **Tipografía:**
+En el caso de la tipografía se seleccionó la fuente "DM Sans" debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web. Además, se complementará con los distintos tamaños de letra según sea necesario en el texto, así podremos separar los títulos, subtítulos y el cuerpo.
+
+   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
+
+   **Formas:**
+Se usarán figuras con bordes ligeramente redondeados en el proyecto para mostrar una estética más moderna, a la vez que ordenada y pulida, haciendo nuestra página más vistosa, accesible y cómoda para el usuario.
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
- [Poner información aquí]
- 
+ Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón Z que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
+
+<div align="center">
+  <img src="Agrosolutions/Images/Z-Pattern.png"alt="Z-Pattern" width="100%">
+</div>
+
 - ### 4.2.2 Labeling Systems
-  [Poner información aquí]
-  
+
+<div align="center">
+  <img src="Agrosolutions/Images/labelingWebDesktop1.png"alt="labelingWebDesktop1" width="100%">
+</div>
+
+<div align="center">
+  <img src="Agrosolutions/Images/labelingWebDesktop2.png"alt="labelingWebDesktop2" width="100%">
+</div>
+
 - ### 4.2.3 SEO Tags and Meta Tags
-  [Poner información aquí]
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AgroSolutions.
+
+Landing Page:
+
+Title: AgroSolutions
+
+Description: AgroSolutions- AgroSolutions Oficial Landing Page
+
+Keywords: Crops, service, farmer, companies.
+
+Authors: AgroSolutions team
+
+Web application:
+
+Title: AgroSolutions
+
+Description: AgroSolutions- AgroSolutions Oficial Web Site
+
+Keywords: Inventory, crops, products, inventory, tracking, service, guidance.
+
+Authors: AgroSolutions team
   
 - ### 4.2.4 Searching Systems
-  [Poner información aquí]
+Se implementaron dos funcionalidades de búsqueda bástante similares para fácilitar el trabajo del usuario al buscar información concreta.
+
+El primero de estos sistemas se encuentra en la sección de "Empleados" de la aplicación. Aquí, los usuarios tienen acceso a la lista de empleados dentro de la cual podrán realizar busquedas rápidamente según el DNI, Cargo o Nombre. Esto ayuda de gran manera a la gestión de empleados para su fácil acceso.
+
+Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Cultivos". En esta sección, los usuarios pueden buscar su cultivo según la fecha y estado. Así pueden navegar entre sus cultivos para encontrarlos más fácilmente.
   
 - ### 4.2.5 Navigation Systems
-  [Poner información aquí]
+
+Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
+
+Para los agricultores pequeños:
+
+- Inicio: Sección inicial
+
+- Tienda: Sección para la venta de productos.
+
+- Chat: Medio de comunicación con mayoristas.
+
+- Cultivos: Comunicación con el taller encargado de la reparación.
+
+- Empleados: Visualización de datos del personal.
+
+- Calendario: Vista de los cultivos con su fecha aprox de germinación.
+
+Para los vendedores mayoristas:
+
+- Inicio: Sección inicial
+
+- Chat: Medio de comunicación con agricultores.
+
+Adicionalmente, nos aseguramos de que la aplicación permita realizar acciones que lo llevan a otras ventanas de forma intuitiva, para que así el usuario pueda orientarse y acceder a las demás áreas facilmente.
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
