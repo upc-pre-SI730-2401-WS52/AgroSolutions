@@ -10,12 +10,24 @@
 - **Profesor**: Naldo Reupo Musayo Gastulo 
 
 ---
-
+<center>
 # Informe de Trabajo Final
 - **Nombre del Startup**: AgroSolutions
 - **Nombre del Producto**: AgroSolutions
-- **Relación de Integrantes**: [Nombres de los Integrantes]
+# Team  Members:
+
+
+| Member                           | Code       |
+|----------------------------------|------------|
+|                                  |            |
+|                                  |            |
+|                                  |            |
+|                                  |            |
+| Burga loarte Anaely Zarely       | u202118264 |
+|                                  |            |
+
 - **Mes y Año**: marzo del 2024
+</center>
 
 ---
 
