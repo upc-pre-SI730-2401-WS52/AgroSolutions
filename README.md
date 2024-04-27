@@ -835,8 +835,13 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
    [Poner información aquí]
   
 - #### 5.2.2.8 Team Collaboration Insights during Sprint
-   [Poner información aquí]
-  
+Para documentar nuestros progresos durante el primer Sprint de desarrollo, utilizamos GitHub como plataforma. Uno de los miembros del equipo inició el proceso creando un repositorio y estableciendo varias ramas para que cada miembro pudiera trabajar de manera independiente sin interferir en el progreso de los demás. Luego, clonamos el repositorio a nivel local utilizando Git y realizamos las modificaciones necesarias en GitHub. Para finalizar, se llevó a cabo un registro de los cambios realizados, el cual quedó documentado en el repositorio de GitHub para su revisión.
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/cb24c6cf-4e3b-4e1e-8bfb-297682c4018c)
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/5d9c05aa-0d3e-43c7-8eb5-5aa88606cbc3)
+
+![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/e169d8c6-9fee-4b03-bc2b-483ad193577f)
 
 - ### 5.2.3 Sprint 3
 - #### 5.2.3.1 Sprint Planning 3
