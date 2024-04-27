@@ -186,36 +186,13 @@ En resumen, en AgroSolutions encontrarás el respaldo necesario para impulsar tu
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-#### - Gustavo Arturo Poma Espinoza 
-Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Salir a caminar con mis mascotas me ayuda a relajarme y meditar. Además, soy aficionado a las artes marciales, las cuales me han inculcado disciplina y perseverancia. Mi color favorito es el azul. Estoy disponible para ayudar siempre a mis compañeros y tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo.
-
-![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/d9a0a10e-2709-4471-b05e-858f1fbc1fd8)
-
-#### - Alvaro Felipe Pinto Fuentes Rivera
-Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el genero de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.
-
-<p align="center">
-  <img src="AgroSolutions/Images/AlvaroFoto.png" alt="AlvaroFoto" width="75%">
-</p>
-
-#### - Christian Renato Espinoza Saenz
-Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi nombre es Christian, tengo 19 años y mi color favorito es el guinda. Me encanta escuchar música, jugar videojuegos como Team Fortress 2 y Persona 2: Innocent Sin, y también tocar el teclado. Poseo ideas únicas, estrafalarias e innovadoras para que el trabajo logre sobresalir. Adicionalmente, tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto.
-
-<p align="center">
-  <img src="AgroSolutions/Images/ChristianFoto.jpg" alt="ChristianFoto" width="75%">
-</p>
-
-#### - Anaely Burga Loarte
-Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
-
-<br>
-
-![Sin título1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/04e5d9db-b36e-4a52-86a0-e543d7694ead)
-
-#### - Georgina Lastra Trinidad
-Soy estudiante de Ingeniería de Software. Mi curiosidad y mi entusiasmo por comprender cómo funcionan las cosas me llevaron a elegir este campo como mi camino profesional. Soy una estudiante comprometida y persistente que busca convertirse en una ingeniera innovadora con visión de futuro. Estoy emocionada por contribuir al desarrollo de soluciones tecnológicas impactantes que mejoren  la vida de las personas de todo el mundo.
-
-![perfil](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/perfil-georgina.png)
+| Nombre y Foto                                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                    |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Gustavo Arturo Poma Espinoza ![Sin titulo](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/d9a0a10e-2709-4471-b05e-858f1fbc1fd8) | Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Salir a caminar con mis mascotas me ayuda a relajarme y meditar. Además, soy aficionado a las artes marciales, las cuales me han inculcado disciplina y perseverancia. Mi color favorito es el azul. Estoy disponible para ayudar siempre a mis compañeros y tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. |
+|Alvaro Felipe Pinto Fuentes Rivera![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/bcb3ffe5-8c87-417e-8d15-47f67eff4930) | Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el genero de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo. |
+|Christian Renato Espinoza Saenz![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/b6a5522d-4c00-4dfd-9eff-6eab0ed29dfb) | Actualmente cursando el quinto ciclo de la carrera Ingeniería de Software, mi nombre es Christian, tengo 19 años y mi color favorito es el guinda. Me encanta escuchar música, jugar videojuegos como Team Fortress 2 y Persona 2: Innocent Sin, y también tocar el teclado. Poseo ideas únicas, estrafalarias e innovadoras para que el trabajo logre sobresalir. Adicionalmente, tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto. |
+| Georgina Lastra Trinidad![Sin titulo](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/perfil-georgina.png) | Soy estudiante de Ingeniería de Software. Mi curiosidad y mi entusiasmo por comprender cómo funcionan las cosas me llevaron a elegir este campo como mi camino profesional. Soy una estudiante comprometida y persistente que busca convertirse en una ingeniera innovadora con visión de futuro. Estoy emocionada por contribuir al desarrollo de soluciones tecnológicas impactantes que mejoren  la vida de las personas de todo el mundo. |
+|Anaely Zarely Burga Loarte![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/70ddd85c-3a2c-47c2-84a9-38cdc94277e0) | Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados. |
 
 
 ## 1.2 Solution Profile
