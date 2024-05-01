@@ -362,7 +362,7 @@ Segmento 2: Vendedores de verduras mayoristas
 - Residencia: Ica, Perú
 - Redes sociales: WhatsApp, Instagram
 - Dispositivos: Android, Windows
--Resumen:
+- Resumen:
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
 Link de la entrevista: https://youtu.be/6v2mfmt39oI
