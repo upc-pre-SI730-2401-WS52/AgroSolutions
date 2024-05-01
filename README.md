@@ -887,7 +887,12 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-No se realizó despliegue de software en este sprint, ya que el enfoque se centró en el desarrollo inicial de la landing page.
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+Git: Se utilizó para el control de versiones del código fuente.
+GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+Azure: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
