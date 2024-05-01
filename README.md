@@ -366,7 +366,9 @@ Segmento 2: Vendedores de verduras mayoristas
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
 Link de la entrevista: https://youtu.be/6v2mfmt39oI
-
+<p align="center">
+  <img src="AgroSolutions/Images/Entrevistageorgina.png" alt="Entrevista2" width="100%">
+</p>
 
 ### Entrevista 3
 - Entrevistador: Alvaro Felipe Pinto Fuentes Rivera
