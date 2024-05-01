@@ -344,13 +344,15 @@ Segmento 2: Vendedores de verduras mayoristas
 - Datos del Entrevistado: 
 - Edad:23 años
 - Distrito: Trujillo
+- Resumen:
+  Diego Cano, un joven productor frutal de 23 años, continúa el legado familiar de cultivar manzanas y pitahayas. Heredó de su familia no solo el amor por el cultivo, sino también el profundo respeto por la tierra y el arduo trabajo que implica trabajar en esta zona. Diego nos compartió la importancia de mantener su campo en óptimas condiciones y su deseo de recibir asesoramiento especializado, especialmente porque no se considera muy versado en términos de comercio. Destacó que lo que más valoraría sería un diagnóstico detallado de su campo, que le brinde la certeza de que está tomando las decisiones correctas para optimizar su producción y asegurar el éxito a largo plazo. Diego utiliza su teléfono Android para gestionar algunas tareas relacionadas con su producción, y utiliza productos John Deere para ayudar en el trabajo agrícola.
 - Link : https://youtu.be/ttzGvp5tMYQ
 
 <p align="center">
   <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
 </p>
 
-### Entrevista 1 
+### Entrevista 2 
 
 - Entrevistador: Georgina Lastra Trinidad
 - Entrevistado: Orlando Roca Huapaya
@@ -360,7 +362,7 @@ Segmento 2: Vendedores de verduras mayoristas
 - Residencia: Ica, Perú
 - Redes sociales: WhatsApp, Instagram
 - Dispositivos: Android, Windows
-
+-Resumen:
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
 Link de la entrevista: https://youtu.be/6v2mfmt39oI
@@ -372,6 +374,8 @@ Link de la entrevista: https://youtu.be/6v2mfmt39oI
 - Datos del Entrevistado:
 - Edad: 20 años
 - Distrito: Trujillo
+- Resumen:
+El entrevistado Miguel Lopez tiene 20 años, trabaja en el negocio familiar de la agricultura desde pequeño por lo que está bastante familiarizado con el sector laboral, gracias a la entrevista se pudo obtener mayor información sobre el segmento objetivo con el que estamos trabajando. También, estuvo de acuerdo en que el sector laboral que maneja su familia es realmente pesado y muchas veces se presentan dificultades, por lo que al explicarle las funciones que ofrece nuestra solución de software, Miguel mostró interés y mencionó que su familia utiliza productos de Sicra para optimizar algunas de sus operaciones agrícolas.
 - Link : https://youtu.be/Fh4fFaK-nhY
 
 <p align="center">
@@ -387,6 +391,8 @@ Link de la entrevista: https://youtu.be/6v2mfmt39oI
 - Datos del Entrevistado: 
 - Edad:29 años
 - Distrito: San Juan de Miraflores
+- Resumen:
+  Sebastián Palacios, propietario de un local en San Juan de Miraflores, se esfuerza por ofrecer productos frescos y de alta calidad. En la entrevista, un vendedor mayorista de verduras frescas destaca la importancia de la calidad y la frescura, comprando con frecuencia para mantener un suministro constante. Prefiere la compra en tienda física pero valora la conveniencia en línea. Destaca la importancia de servicios como la entrega a domicilio y la variedad de productos, y señala la necesidad de abordar problemas de calidad inconsistente en el comercio en línea. Sebastián trabaja con su computadora Windows para gestionar aspectos operativos de su negocio, y se inspira en iniciativas como Wasi para mejorar su gestión de inventario y atención al cliente.
 - Link : https://youtu.be/fE1h3W8MHWM
 
 <p align="center">
@@ -399,6 +405,8 @@ Entrevista 2
 - Datos del entrevistado:
 - Edad: 41 años
 - Distrito: La victoria
+- Resumen
+  Darling Soto es una emprendedora con gran experiencia en el sector mayorista de verduras frescas. Las respuestas de Darling reflejan que pese a su predilección por la compra fisica de verduras frescas le interesa mucho el comercio online y que de darse el caso y una buena estructura estaría interesada. Su enfoque en la frescura y la variedad de productos muestra su comprensión de las necesidades cambiantes de los consumidores y su disposición para adaptarse a ellas. Además, su apertura a la compra en línea demuestra su disposición para explorar nuevas oportunidades y tecnologías en el mercado.
 - Link : https://youtu.be/934T15T1oqY
 
 <p align="center">
@@ -408,18 +416,10 @@ Entrevista 2
 ### 2.2.3 Análisis de entrevistas
 
 #### Segmento Objetivo1 : Pequeños agricultores
-
-Entrevista 1:
-Diego Cano, un joven productor frutal de 23 años, continúa el legado familiar de cultivar manzanas y pitahayas. Heredó de su familia no solo el amor por el cultivo, sino también el profundo respeto por la tierra y el arduo trabajo que implica trabajar en esta zona. Diego nos compartió la importancia de mantener su campo en óptimas condiciones y su deseo de recibir asesoramiento especializado, especialmente porque no se considera muy versado en términos de comercio. Destacó que lo que más valoraría sería un diagnóstico detallado de su campo, que le brinde la certeza de que está tomando las decisiones correctas para optimizar su producción y asegurar el éxito a largo plazo.
-
-Entrevista 2 : El entrevistado Miguel Lopez tiene 20 años, trabaja en el negocio familiar de la agricultura desde pequeño por lo que está bastante familiarizado con el sector laboral, gracias a la entrevista se pudo obtener mayor información sobre el segmenteo objetivo con el que estamos trabajando. También, estuvo de acuerdo en que el sector laboral que maneja su familia es realmente pesado y muchas veces se presentan dificultades, por lo que al explicarle las funciones que ofrece nuestra solución de software.
+Para el segmento objetivo de pequeños agricultores, se destaca un amplio uso de dispositivos móviles Android, siendo aproximadamente dos tercios de los entrevistados, es decir, alrededor del 67%, quienes emplean esta plataforma. Además, se observa una diversidad en las herramientas tecnológicas utilizadas en sus operaciones agrícolas, donde alrededor de un tercio de los entrevistados, aproximadamente el 33%, emplea productos de Sicra y otro tercio utiliza productos John Deere, resaltando así la variedad de soluciones tecnológicas adaptadas a las necesidades del sector. En cuanto a deseos y preocupaciones, los agricultores expresan un deseo de recibir asesoramiento especializado para optimizar su producción y asegurar el éxito a largo plazo, evidenciando así una preocupación por tomar decisiones correctas en un contexto donde el comercio no es su especialidad.
 
 #### Segmento Objetivo2 : Vendedores de verduras mayoristas
-Entrevista 1: 
-Sebastián Palacios, propietario de un local en San Juan de Miraflores, se esfuerza por ofrecer productos frescos y de alta calidad. En la entrevista, un vendedor mayorista de verduras frescas destaca la importancia de la calidad y la frescura, comprando con frecuencia para mantener un suministro constante. Prefiere la compra en tienda física pero valora la conveniencia en línea. Destaca la importancia de servicios como la entrega a domicilio y la variedad de productos, y señala la necesidad de abordar problemas de calidad inconsistente en el comercio en línea.
-
-Entrevista 2:
-Darling Soto es una emprendedora con gran experiencia en el sector mayorista de verduras frescas. Las respuestas de Darling reflejan que pese a su predilección por la compra fisica de verduras frescas le interesa mucho el comercio online y que de darse el caso y una buena estructura estaría interesada. Su enfoque en la frescura y la variedad de productos muestra su comprensión de las necesidades cambiantes de los consumidores y su disposición para adaptarse a ellas. Además, su apertura a la compra en línea demuestra su disposición para explorar nuevas oportunidades y tecnologías en el mercado.
+Para el segmento objetivo de vendedores de verduras mayoristas, se evidencia una preferencia notable por el uso de computadoras con sistema Windows, con alrededor del 50% de los entrevistados optando por esta plataforma para gestionar aspectos operativos de sus negocios. Además, aproximadamente dos tercios de los entrevistados, es decir, alrededor del 67%, se inspiran en soluciones como Wasi para mejorar la gestión de inventario y la atención al cliente, lo que demuestra la relevancia de la innovación tecnológica en este sector. En cuanto a deseos y preocupaciones, los vendedores mayoristas expresan la importancia de abordar problemas de calidad inconsistente en el comercio en línea, así como el interés por servicios como la entrega a domicilio y la variedad de productos, evidenciando una preocupación por adaptarse a las demandas cambiantes del mercado.
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
