@@ -291,39 +291,60 @@ Por otro lado, al expandir nuestro alcance y participación en eventos agrícola
 ### 2.2.1 Diseño de entrevistas
 
 Segmento 1: Pequeños agricultores
-¿Qué produce?
-¿Cúanto lleva trabajando en el sector agrícola?
-¿Cuáles son los principales desafíos que enfrenta en la gestión diaria de sus huertas de cultivo?
-¿Cómo realiza actualmente el seguimiento de los niveles de agua y nutrientes en sus cultivos?
-¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?
-¿Cómo comercializa actualmente sus productos agrícolas y cuáles son los canales de distribución que utiliza?
-¿Usa alguna herramienta tecnológica para ayudarse?
-¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos?
-¿Que caracteristicas cree que debería implementar el Software?
-
+- ¿Tienes familiares que participen en la actividad agrícola contigo?
+- ¿Cuál es tu ocupación principal?
+- Experiencia y habilidades:
+- ¿Cuánto tiempo llevas dedicándote a la agricultura?
+- ¿Qué tipo de cultivos sueles cultivar?
+- ¿Tienes alguna formación o capacitación relacionada con la agricultura?
+- ¿Qué habilidades consideras más importantes para el éxito en la agricultura?
+- Tecnología y preferencias digitales:
+- ¿Qué dispositivos tecnológicos utilizas en tu día a día?
+- ¿Qué tipo de navegadores de internet prefieres utilizar?
+- ¿Sueles interactuar con plataformas en línea relacionadas con la agricultura?
+- ¿Cómo prefieres recibir información relacionada con la agricultura: a través de - internet, libros, cursos presenciales, etc.?
+- Objetivos y frustraciones:
+- ¿Cuáles son tus principales objetivos como agricultor?
+- ¿Qué dificultades o frustraciones has enfrentado en tu actividad agrícola?
+- ¿Qué aspectos consideras más importantes para mejorar el rendimiento de tus cultivos?
+- Interacciones y preferencias comerciales:
+- ¿Cómo sueles comercializar tus productos agrícolas actualmente?
+- ¿Has utilizado plataformas en línea para vender tus productos anteriormente?
+- ¿Qué aspectos valoras más al momento de elegir una plataforma para vender tus productos agrícolas?
+- Influencias y referencias:
+- ¿Qué marcas o empresas relacionadas con la agricultura conoces y confías?
+- ¿Tienes algún referente o persona a la que acudes para obtener información o consejos sobre agricultura?
 
 Segmento 2: Vendedores de verduras mayoristas  
-¿Con qué frecuencia compras verduras frescas?
-¿Cuáles son tus verduras frescas favoritas y por qué?
-¿Qué factores consideras al elegir dónde comprar tus verduras frescas?
-¿Prefieres comprar tus verduras frescas en línea o en una tienda física? ¿Por qué?
-¿Qué te gustaría ver en una tienda virtual de vegetales frescos para sentirte más cómodo/a al hacer tus compras?
-¿Qué tan importante es para ti la calidad y frescura de las verduras que compras?
-¿Qué variedades de verduras frescas te gustaría encontrar con mayor frecuencia en una tienda virtual de vegetales frescos?
-¿Considerarías comprar verduras frescas al por mayor si se ofrecen a precios competitivos?
-¿Qué servicios adicionales valorarías en una tienda virtual de vegetales frescos, como entrega a domicilio o recetas sugeridas?
-¿Hay algún problema o inconveniente que hayas experimentado al comprar verduras frescas que te gustaría que se abordara en una tienda virtual de vegetales frescos?
-
+- ¿Con qué frecuencia compras verduras frescas?
+- ¿Cuáles son tus verduras frescas favoritas y por qué?
+- ¿Qué factores consideras al elegir dónde comprar tus verduras frescas?
+- ¿Prefieres comprar tus verduras frescas en línea o en una tienda física? ¿Por qué?
+- ¿Qué te gustaría ver en una tienda virtual de vegetales frescos para sentirte más cómodo/a al hacer tus compras?
+- ¿Qué tan importante es para ti la calidad y frescura de las verduras que compras?
+- ¿Qué variedades de verduras frescas te gustaría encontrar con mayor frecuencia en una tienda virtual de vegetales frescos?
+- ¿Considerarías comprar verduras frescas al por mayor si se ofrecen a precios competitivos?
+- ¿Qué servicios adicionales valorarías en una tienda virtual de vegetales frescos, como entrega a domicilio o recetas sugeridas?
+- ¿Hay algún problema o inconveniente que hayas experimentado al comprar verduras frescas que te gustaría que se abordara en una tienda virtual de vegetales frescos?
+- ¿Te gustaría tener la opción de dejar comentarios o reseñas sobre los productos que compraste en una tienda virtual de vegetales frescos?
+- ¿Qué políticas de devolución considerarías justas y convenientes al comprar verduras frescas en línea?
+- ¿Qué tan importante es para ti la accesibilidad y la usabilidad del sitio web de la tienda virtual de vegetales frescos al hacer tus compras?
+- ¿Te gustaría tener la opción de personalizar tus pedidos de verduras frescas en una tienda en línea? Por ejemplo, seleccionar la madurez de los productos o elegir un tamaño específico.
+- ¿Qué medidas de seguridad esperarías que implementara una tienda virtual de vegetales frescos para garantizar la frescura y la calidad de los productos durante el envío?
+- ¿Cómo te sentirías acerca de la posibilidad de recibir muestras gratuitas de verduras frescas junto con tus pedidos en una tienda virtual de vegetales frescos como incentivo para probar nuevos productos?
+- ¿Te gustaría tener la opción de programar entregas regulares de verduras frescas en una tienda virtual?
+- ¿Qué tipo de información sobre la procedencia de las verduras frescas valorarías más al comprar en línea? Por ejemplo, detalles sobre el agricultor o la región de cultivo.
+- ¿Considerarías importante la disponibilidad de opciones de suscripción para recibir entregas regulares de verduras frescas en una tienda virtual?
 ### 2.2.2 Registro de entrevistas
 
 #### Segmento Objetivo1 : Pequeños agricultores
 ### Entrevista 1 
-Entrevistador: Christian Renato Espinoza Saenz 
-Entrevistado: Diego Cano 
-Datos del Entrevistado: 
-Edad:23 años
-Distrito: Trujillo
-Link : https://youtu.be/ttzGvp5tMYQ
+- Entrevistador: Christian Renato Espinoza Saenz 
+- Entrevistado: Diego Cano 
+- Datos del Entrevistado: 
+- Edad:23 años
+- Distrito: Trujillo
+- Link : https://youtu.be/ttzGvp5tMYQ
 
 <p align="center">
   <img src="AgroSolutions/Images/Etrveista diegocano.png" alt="Entrevista1" width="100%">
@@ -331,20 +352,14 @@ Link : https://youtu.be/ttzGvp5tMYQ
 
 ### Entrevista 1 
 
-Entrevistador: Georgina Lastra Trinidad
-
-Entrevistado: Orlando Roca Huapaya
-
-Datos Generales:
-
-Edad: 28 años
-
-Ocupación: Agrónomo
-
-Residencia: Ica, Perú
-
-Redes sociales: WhatsApp, Instagram
-Dispositivos: Android, Windows
+- Entrevistador: Georgina Lastra Trinidad
+- Entrevistado: Orlando Roca Huapaya
+- Datos Generales:
+- Edad: 28 años
+- Ocupación: Agrónomo
+- Residencia: Ica, Perú
+- Redes sociales: WhatsApp, Instagram
+- Dispositivos: Android, Windows
 
 Orlando es un pequeño agricultor de tomates con 3 años de experiencia en el sector agrícola. Él nos comenta una de los desafios a lo que se enfrenta es el control de plagas, enfermedades y la gestón de riego a las plantas. 
 
@@ -352,12 +367,12 @@ Link de la entrevista: https://youtu.be/6v2mfmt39oI
 
 
 ### Entrevista 3
-Entrevistador: Alvaro Felipe Pinto Fuentes Rivera 
-Entrevistado: Miguel Lopez 
-Datos del Entrevistado:
-Edad: 20 años
-Distrito: Trujillo
-Link : https://youtu.be/Fh4fFaK-nhY
+- Entrevistador: Alvaro Felipe Pinto Fuentes Rivera
+- Entrevistado: Miguel Lopez 
+- Datos del Entrevistado:
+- Edad: 20 años
+- Distrito: Trujillo
+- Link : https://youtu.be/Fh4fFaK-nhY
 
 <p align="center">
   <img src="AgroSolutions/Images/Entrevista2.png" alt="Entrevista2" width="100%">
@@ -367,15 +382,27 @@ Link : https://youtu.be/Fh4fFaK-nhY
  #### Segmento Objetivo2 : Vendedores de verduras mayoristas
 
  Entrevista 1 
-Entrevistador: Christian Renato Espinoza Saenz 
-Entrevistado: Sebastian Palacios
-Datos del Entrevistado: 
-Edad:29 años
-Distrito: San Juan de Miraflores
-Link : https://youtu.be/fE1h3W8MHWM
+- Entrevistador: Christian Renato Espinoza Saenz 
+- Entrevistado: Sebastian Palacios
+- Datos del Entrevistado: 
+- Edad:29 años
+- Distrito: San Juan de Miraflores
+- Link : https://youtu.be/fE1h3W8MHWM
 
 <p align="center">
   <img src="AgroSolutions/Images/Entreivta a palacios.png" alt="Entrevista 1" width="100%">
+</p>
+
+Entrevista 2
+- Entrevistador: Alvaro Felipe Pinto Fuentes Rivera
+- Entrevistada: Darling Soto
+- Datos del entrevistado:
+- Edad: 41 años
+- Distrito: La victoria
+- Link : https://youtu.be/934T15T1oqY
+
+<p align="center">
+  <img src="AgroSolutions/Images/EntrevistaDarling.png" alt="Entrevista 2" width="100%">
 </p>
 
 ### 2.2.3 Análisis de entrevistas
@@ -391,38 +418,73 @@ Entrevista 2 : El entrevistado Miguel Lopez tiene 20 años, trabaja en el negoci
 Entrevista 1: 
 Sebastián Palacios, propietario de un local en San Juan de Miraflores, se esfuerza por ofrecer productos frescos y de alta calidad. En la entrevista, un vendedor mayorista de verduras frescas destaca la importancia de la calidad y la frescura, comprando con frecuencia para mantener un suministro constante. Prefiere la compra en tienda física pero valora la conveniencia en línea. Destaca la importancia de servicios como la entrega a domicilio y la variedad de productos, y señala la necesidad de abordar problemas de calidad inconsistente en el comercio en línea.
 
+Entrevista 2:
+Darling Soto es una emprendedora con gran experiencia en el sector mayorista de verduras frescas. Las respuestas de Darling reflejan que pese a su predilección por la compra fisica de verduras frescas le interesa mucho el comercio online y que de darse el caso y una buena estructura estaría interesada. Su enfoque en la frescura y la variedad de productos muestra su comprensión de las necesidades cambiantes de los consumidores y su disposición para adaptarse a ellas. Además, su apertura a la compra en línea demuestra su disposición para explorar nuevas oportunidades y tecnologías en el mercado.
+
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
 Para asegurar que nuestra aplicación satisfaga las necesidades específicas de nuestros usuarios, hemos identificado dos segmentos objetivos principales: Pequeños agricultores y Vendedores de verduras mayoristas. A continuación, detallamos las User Personas para cada segmento.
-#### Segmento 1: Pequeños Agricultores
-![Imagen del segmento1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Segmento%20objetivo1.png)
-#### Segmento 2: Vendedores de Verduras Mayoristas
-![Imagen del segmento2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Segmento%20Objetivo2.png)
+### Segmento 1: Pequeños Agricultores
+
+<p align="center">
+  <img src="AgroSolutions/Images/Segmento objetivo1.png" alt="Segmento objetivo1" width="100%">
+</p>
+
+### Segmento 2: Vendedores de Verduras Mayoristas
+
+<p align="center">
+  <img src="AgroSolutions/Images/Segmento objetivo2.png" alt="Segmento objetivo2" width="100%">
+</p>
+
 ### 2.3.2 User Task Matrix
 En este apartado, evaluamos las actividades habitualmente llevadas a cabo por cada segmento objetivo, categorizándolas según su frecuencia e importancia. Este enfoque nos permite identificar las áreas prioritarias de mejora en nuestro proyecto.
-![Imagen del usertaskmatrix](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/User.png)
+
+<p align="center">
+  <img src="AgroSolutions/Images/User.png" alt="User" width="100%">
+</p>
 
 ### 2.3.3 User Journey Mapping
 Creamos los User Journey Maps con el fin de comprender cómo se siente nuestro usuario al utilizar nuestra aplicación. Por esta razón, detallamos cada paso que realiza el cliente, identificando las áreas que pueden mejorarse.
 #### Segmento 1: Pequeños Agricultores
-![User Jounrey Mapp 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Customer%20journey%20map%201-segmento%201.png)
+
+<p align="center">
+  <img src="AgroSolutions/Images/Customer journey map 1-segmento 1.png" alt="Customer journey map 1-segmento 1" width="100%">
+</p>
+
 #### Segmento 2: Vendedores de Verduras Mayoristas
-![User Jounrey Mapp 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Customer%20journey%20map%201-segmento2.png)
+
+<p align="center">
+  <img src="AgroSolutions/Images/Customer journey map 1-segmento2.png" alt="Customer journey map 1-segmento2.png" width="100%">
+</p>
 
 ### 2.3.4 Empathy Mapping
 Desarrollamos los Empathy Maps para profundizar en la comprensión del usuario a través de aspectos como sus emociones y pensamientos.
 #### Segmento 1: Pequeños Agricultores
-![User Empathy map 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Empathy%20map-Agricultores.png)
-#### Segmento 2: Vendedores de Verduras Mayoristas
-![User Empathy map 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/empatumap-vendedores.png)
-### 2.3.5 As-is Scenario Mapping
-En esta sección procedemos a realizar el needfinding con los as-is scenarios map. Estos son mapas que, a través de una serie de pasos, cuentan lo que nuestros usuarios hacen, piensan y sienten. Este se elabora en búsqueda de puntos débiles del proceso en los que la plataforma web pueda simplificar.
-#### Segmento 1: Pequeños Agricultores
-![As-is 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/As-is-Peque%C3%B1osAgricultores.jpg)
+
+<p align="center">
+  <img src="AgroSolutions/Images/Empathy map-Agricultores.png" alt="Empathy map-Agricultores" width="100%">
+</p>
 
 #### Segmento 2: Vendedores de Verduras Mayoristas
-![As-is 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/As-is-VendedoresMayoristas.jpg)
----
+
+<p align="center">
+  <img src="AgroSolutions/Images/empatumap-vendedores.png" alt="empatumap-vendedores" width="100%">
+</p>
+
+### 2.3.5 As-is Scenario Mapping
+En esta sección procedemos a realizar el needfinding con los as-is scenarios map. Estos son mapas que, a través de una serie de pasos, cuentan lo que nuestros usuarios hacen, piensan y sienten. Este se elabora en búsqueda de puntos débiles del proceso en los que la plataforma web pueda simplificar.
+
+#### Segmento 1: Pequeños Agricultores
+
+<p align="center">
+  <img src="AgroSolutions/Images/As-is-PequeñosAgricultores.jpg" alt="As-is-PequeñosAgricultores width="100%">
+</p>
+
+#### Segmento 2: Vendedores de Verduras Mayoristas
+
+<p align="center">
+  <img src="AgroSolutions/Images/As-is-VendedoresMayoristas.jpg" alt="As-is-VendedoresMayoristas" width="100%">
+</p>
 
 ## 2.4 Ubiquitous Language
 ### Pequeños Agricultores:
@@ -442,16 +504,19 @@ Definición: Servicio de AgroSolutions que proporciona orientación sobre los me
 ### Mercado Agrícola:
 Definición: La sección de la plataforma AgroSolutions dedicada a la compra y venta de productos agrícolas, donde los agricultores pueden listar sus productos para su venta directa y los vendedores mayoristas pueden comprar productos a granel.
 
-
----
-
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 #### Segmento 1: Pequeños Agricultores
-![To-be 1](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/To-be-Peque%C3%B1osAgricultores.jpg)
+
+<p align="center">
+  <img src="AgroSolutions/Images/To-be-PequeñosAgricultores.jpg" alt="To-be-PequeñosAgricultores" width="100%">
+</p>
 
 #### Segmento 2: Vendedores de Verduras Mayoristas
-![To-be 2](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/To-be-VendedoresMayoristas.jpg)
+
+<p align="center">
+  <img src="AgroSolutions/Images/To-be-VendedoresMayoristas.jpg" alt="To-be-VendedoresMayoristas" width="100%">
+</p>
 
 ## 3.2 User Stories
 
@@ -473,7 +538,10 @@ Definición: La sección de la plataforma AgroSolutions dedicada a la compra y v
 | US006 | Precios y Demandas en Tiempo Real | Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda. | - **Dado** que accedo a la aplicación, **Cuando** la aplicación muestra información actualizada sobre precios de mercado y demanda de productos agrícolas, **Entonces** puedo tomar decisiones informadas sobre mis cultivos. - **Dado** que configuro notificaciones, **Cuando** recibo alertas sobre cambios significativos en los precios o demanda, **Entonces** puedo reaccionar rápidamente a las oportunidades del mercado. - **Dado** que accedo a la aplicación, **Cuando** accedo a información actualizada sobre precios de mercado y demanda, **Entonces** puedo tomar decisiones estratégicas basadas en datos en tiempo real. | EPIC004 |
 
 ## 3.3 Impact Mapping
-![Impact Map](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/ImpactMapAgricultor.png)
+
+<p align="center">
+  <img src="AgroSolutions/Images/ImpactMapAgricultor.png" alt="ImpactMapAgricultor" width="100%">
+</p>
 
 ## 3.4 Product Backlog
 |Usuario|User Story|Título|Descripción|Story points|
@@ -485,31 +553,31 @@ Definición: La sección de la plataforma AgroSolutions dedicada a la compra y v
 |5|US05|Distribución y venta|Como vendedor mayorista quiero poder tener mis productos frescos y listos en una fecha exacta y a un precio competitivo.|5|
 |6|US06|Precios y Demandas en Tiempo Real|Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda.|8|
 
----
-
 # Capítulo IV: Product Design
 ## 4.1 Style Guidelines
 Dentro de esta área se redactarán las guías de estilo a seguir para la construcción de nuestro proyecto. Establecermos la paleta de colores, tipografía y tamaño, además de otros datos de la interfaz de cara al usuario. Tener estos datos claros nos ayudarán a construir una mejor aplicación web con un diseño más consistente.
 - ### 4.1.1 General Style Guidelines
 
-
 **Paleta de colores:**
 Para la selección de nuestra paleta de colores tomamos en cuenta aspectos de legibilidad y jerarquía visual. Para empezar el color #00A388 será usado como el color principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso del color #79BD8F se empleará en subtitulos y secciones de menor relevancia. Luego, el color #BEEB9F será usado para acompañar tarjetas desplegables, íconos u otros agregados. Continuando con el color #FF6138 se usará para los botones del proyecto. Finalmente el color #FFFF9D se usa de fondo en la mayoría de páginas para la proyecto debido a su suave contraste con los demás.
 
-   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
-
+<p align="center">
+  <img src="AgroSolutions/Images/Monochromatic_Color1.jpg" alt="Monochromatic_Color1" width="100%">
+</p>
 
 **Tipografía:**
 En el caso de la tipografía se seleccionó la fuente "DM Sans", la cual ofrece una buena legibilidad y un diseño que denota profesionalidad. Para hacer una diferencia notoria en la jerarquía visual se emplearán tamaños de letra distintos en todo el proyecto de forma que podamos reflejar los títulos, subtítulos y cuerpo.
 
-   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
-
+<p align="center">
+  <img src="AgroSolutions/Images/dm-sans.jpg" alt="dm-sans" width="100%">
+</p>
 
 **Branding:**
 Finalmente, el branding es un punto importante para la contrucción de una marca, su objetivo es crear un diferencial que nos de una imagen propia y de igual forma nos de más reconocimiento, por ello se diseñó un logo que represente nuestro producto y el mensaje que queremos comunicar a nuestros clientes.
 
-   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Logo_1.png)
-
+<p align="center">
+  <img src="AgroSolutions/Images/Logo_1.png" alt="Logo_1" width="100%">
+</p>
 
 **Spacing:**
 Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
@@ -524,14 +592,18 @@ Para nuestro landing page de la aplicación web se aplicaron las directrices del
    **Colores**
 En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el color #00A388 como principal de nuestro proyecto, será usado para resaltar las secciones más importantes o puntos de interés. Para el caso de los colores #79BD8F, #BEEB9F, #FF6138 y #FFFF9D se usarán de forma complementaria para el contraste.
 
-   ![Imagen de los colores monocromaticos mencionados](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Monochromatic_Color1.jpg)
+<p align="center">
+  <img src="AgroSolutions/Images/Monochromatic_Color1.jpg" alt="Monochromatic_Color1" width="100%">
+</p>
 
   **Tipografía:**
 En el caso de la tipografía se seleccionó la fuente "DM Sans" debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web. Además, se complementará con los distintos tamaños de letra según sea necesario en el texto, así podremos separar los títulos, subtítulos y el cuerpo.
 
-   ![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/dm-sans.jpg)
+<p align="center">
+  <img src="AgroSolutions/Images/dm-sans.jpg" alt="dm-sans" width="100%">
+</p>
 
-   **Formas:**
+**Formas:**
 Se usarán figuras con bordes ligeramente redondeados en el proyecto para mostrar una estética más moderna, a la vez que ordenada y pulida, haciendo nuestra página más vistosa, accesible y cómoda para el usuario.
 
 
@@ -539,13 +611,20 @@ Se usarán figuras con bordes ligeramente redondeados en el proyecto para mostra
 - ### 4.2.1 Organization Systems
  Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón Z que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
 
-![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/Z-Pattern.png)
+<p align="center">
+  <img src="AgroSolutions/Images/Z-Pattern.png" alt="Z-Pattern" width="100%">
+</p>
+
 
 - ### 4.2.2 Labeling Systems
 
-![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/labelingWebDesktop1.png)
+<p align="center">
+  <img src="AgroSolutions/Images/labelingWebDesktop1.png" alt="labelingWebDesktop1" width="100%">
+</p>
 
-![Imagen de muestra de la tipografía](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/main/AgroSolutions/Images/labelingWebDesktop2.png)
+<p align="center">
+  <img src="AgroSolutions/Images/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
+</p>
 
 - ### 4.2.3 SEO Tags and Meta Tags
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AgroSolutions.
@@ -605,6 +684,7 @@ Adicionalmente, nos aseguramos de que la aplicación permita realizar acciones q
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
+
 
   ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/2f0c8fe4-3c44-4b17-b838-7cd633e74e27)
 
@@ -706,9 +786,11 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
-  ![Database Diagram](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/DatabaseDiagrams.png)
-  
----
+
+<p align="center">
+  <img src="AgroSolutions/Images/DatabaseDiagrams.png" alt="labelingWebDesktop1" width="100%">
+</p>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
