@@ -949,6 +949,14 @@ Para documentar nuestros progresos durante el primer Sprint de desarrollo, utili
 
 ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/e169d8c6-9fee-4b03-bc2b-483ad193577f)
 
+
+
+Links:
+Repositorio del documento: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions
+Repositorio del frontend: https://github.com/upc-pre-SI730-2401-WS52/Frontend_Web_Applications
+Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_LandingPage.github.io
+
+
 - ### 5.2.3 Sprint 3
 - #### 5.2.3.1 Sprint Planning 3
    [Poner información aquí]
