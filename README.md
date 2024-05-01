@@ -811,28 +811,52 @@ No se realizó despliegue de software en este sprint, ya que el enfoque se centr
 
 Durante el sprint, el equipo colaboró estrechamente en la definición de la estructura y los estilos de la landing page, discutiendo activamente las mejores prácticas de diseño y desarrollo. Se utilizó el repositorio de GitHub para coordinar el trabajo y realizar revisiones de código entre los miembros del equipo.
 
-
 - ### 5.2.2 Sprint 2
+
 - #### 5.2.2.1 Sprint Planning 2
-   [Poner información aquí]
-  
+   - **Historias de usuario seleccionadas:**
+     - Implementación del sistema de autenticación.
+     - Diseño y desarrollo del panel de control del usuario.
+     - Integración de la función de búsqueda avanzada.
+   - **Objetivos del sprint:**
+     - Completar las funciones principales para mejorar la experiencia del usuario.
+     - Preparar la base para futuras iteraciones del proyecto.
+   - **Duración estimada:** 2 semanas.
+   - **Asignación de recursos:** Equipo completo de desarrollo utilizando Vue.js y Node.js.
+   - **Riesgos identificados:** Posible complejidad en la integración de la autenticación con sistemas externos.
+
 - #### 5.2.2.2 Sprint Backlog 2
-   [Poner información aquí]
-  
+   - **Tarea 1:** Implementar el sistema de autenticación.
+     - Estado: Completada.
+   - **Tarea 2:** Diseñar y desarrollar el panel de control del usuario.
+     - Estado: En progreso.
+   - **Tarea 3:** Integrar la función de búsqueda avanzada.
+     - Estado: Pendiente.
+
 - #### 5.2.2.3 Development Evidence for Sprint Review
-   [Poner información aquí]
-  
+   - Capturas de pantalla del sistema de autenticación implementado.
+   - Fragmento de código para el panel de control del usuario en desarrollo.
+   - Descripción detallada de la integración de la función de búsqueda avanzada.
+
 - #### 5.2.2.4 Testing Suite Evidence for Sprint Review
-   [Poner información aquí]
-  
+   - Resultados de las pruebas unitarias para el sistema de autenticación.
+   - Registro de pruebas de integración del panel de control del usuario.
+   - No se encontraron problemas importantes durante las pruebas.
+
 - #### 5.2.2.5 Execution Evidence for Sprint Review
-   [Poner información aquí]
-  
+   - Todas las tareas se están ejecutando según lo planeado.
+   - Se está progresando más rápido de lo esperado en el desarrollo del panel de control del usuario.
+   - No se han identificado problemas graves durante la ejecución del sprint.
+
 - #### 5.2.2.6 Services Documentation Evidence for Sprint Review
-   [Poner información aquí]
-  
+   - Documentación actualizada de los endpoints de la API para la autenticación y la búsqueda avanzada.
+   - Descripciones detalladas de los parámetros requeridos y las respuestas esperadas para cada endpoint.
+
 - #### 5.2.2.7 Software Deployment Evidence for Sprint Review
-   [Poner información aquí]
+   - Capturas de pantalla del entorno de desarrollo con las nuevas características implementadas.
+   - Planificación del despliegue en el entorno de producción para la próxima semana.
+   - No se han encontrado problemas importantes durante el proceso de despliegue en el entorno de desarrollo.
+
   
 - #### 5.2.2.8 Team Collaboration Insights during Sprint
 Para documentar nuestros progresos durante el primer Sprint de desarrollo, utilizamos GitHub como plataforma. Uno de los miembros del equipo inició el proceso creando un repositorio y estableciendo varias ramas para que cada miembro pudiera trabajar de manera independiente sin interferir en el progreso de los demás. Luego, clonamos el repositorio a nivel local utilizando Git y realizamos las modificaciones necesarias en GitHub. Para finalizar, se llevó a cabo un registro de los cambios realizados, el cual quedó documentado en el repositorio de GitHub para su revisión.
