@@ -433,7 +433,7 @@ Para asegurar que nuestra aplicación satisfaga las necesidades específicas de 
 ### Segmento 2: Vendedores de Verduras Mayoristas
 
 <p align="center">
-  <img src="AgroSolutions/Images/Segmento objetivo2.png" alt="Segmento objetivo2" width="100%">
+  <img src="AgroSolutions/Images/Segmento Objetivo2.png" alt="Segmento objetivo2" width="100%">
 </p>
 
 ### 2.3.2 User Task Matrix
