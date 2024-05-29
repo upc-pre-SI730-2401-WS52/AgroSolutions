@@ -762,11 +762,12 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
 - ### 4.6.2 Software Architecture Container Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/41f76ed1-56f6-4320-947b-dbde77474aa7)
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/b8859a76-38a6-4a39-a96f-f5fdb791cca4)
+
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
- ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/a39631a7-fbbf-420b-ad68-990790680928)
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/39a7d2b9-c586-40af-9c9a-6a813cea455f)
 
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
