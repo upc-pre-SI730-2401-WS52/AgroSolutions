@@ -1103,7 +1103,15 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
    [Poner información aquí]
   
 - #### 5.2.3.7 Software Deployment Evidence for Sprint Review
-   [Poner información aquí]
+  
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Azure: Se utilizó esta herramienta para el despliegue en la web de la landing page.
+* .NET: Es un framework para aplicaciones web basado en C#, de código abierto, que se utiliza para crear aplicaciones web. Para este caso, se utilizó la versión más reciente.
+* Rider: Es un entorno de desarrollo de JetBrains que nos permite trabajar con .NET y desarrollar la aplicación web.
   
 - #### 5.2.3.8 Team Collaboration Insights during Sprint
    [Poner información aquí]
