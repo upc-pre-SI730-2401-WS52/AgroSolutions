@@ -1093,25 +1093,28 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
    [Poner información aquí]
   
 - #### 5.2.3.5 Execution Evidence for Sprint Review
-- Crops and Calendar:
+- Crops and Calendar:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/2adaa279-f91e-4d79-8436-072869c89403)
-- Finance: 
+- Finance: \\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/699af0dd-9ce8-4555-a2de-490186e7fead)
-- Pending Collections
+- Pending Collections\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/4ffd0256-0af2-484a-ad6f-632ff252d06a)
-- Account:
+- Account:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/944239bc-1689-4df7-b96b-d555c30e51be)
-- Employee:
+- Employee:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/06ddc323-1697-4723-a0c2-9997cc781f8d)
-- Pending:
+- Pending:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/450c271a-6ed0-4cf9-b1ee-7106616d2b9d)
-- Team:
+- Team:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/a32acf30-da8a-4cdc-ad1f-9261f224e2bb)
-- Unit tests Finance Controllerand panding domain:
+- Unit tests Finance Controllerand panding domain:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/d345fe47-b1a3-4a2c-97a2-2cd6858a065b)
-- UnitTests PendingCollectionsControler and finance domain:
+- UnitTests PendingCollectionsControler and finance domain:\\
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/457a00f2-d9e2-4759-9b82-c0ca46162936)
-
+- UnitTests PendingCollectionsControler and finance domain:\\
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/17b53163-df20-4329-8068-be63b771400e)
+- Unit tests Crop:\\
+- ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/2eed5a02-47b2-4a93-ba82-6764bbeb2527)
 
      
 - #### 5.2.3.6 Services Documentation Evidence for Sprint Review
