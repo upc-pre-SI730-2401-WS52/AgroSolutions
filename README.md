@@ -846,35 +846,130 @@ Sistema Operativo: Windows server
 
 Plataforma de alojamiento: La plataforma de alojamiento que utilizarás para desplegar la página web Microsoft Azure
 
-Configuración del servidor: Configuración del servidor necesario para alojar el sistema Node.js Angular SQL server Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos Istalar SQL server Crear la base de datos de AgroGes Crear las tablas de las entidades mensionadas
+Configuración del servidor: Configuración del servidor necesario para alojar el sistema Node.js Angular SQL server Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos Istalar SQL server Crear la base de datos de AgroSolutions Crear las tablas de las entidades mensionadas
   
 ## 5.2 Landing Page, Services & Applications Implementation.
 ### 5.2.1 Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
 
-En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de AgroGes utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
+Objetivo del Sprint:
+En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de AgroSolutions utilizando HTML, CSS y JavaScript. Nos aseguraremos de que las bases del proyecto estén sólidamente establecidas, incluyendo el diseño, la selección de colores y estilos, y la configuración del repositorio en GitHub.
 
-- Diseñar la estructura general de la landing page.
-- Seleccionar una paleta de colores y definir estilos visuales.
-- Configurar el repositorio en GitHub para el proyecto.
+Tarea 1.1: Investigación y Análisis
+Realizar un análisis de las mejores prácticas y tendencias actuales en el diseño de landing pages.
+Identificar elementos clave que deben estar presentes en la landing page (ej. encabezados, llamadas a la acción, secciones de testimonios).
+Responsable: Gustavo
+Duración estimada: 2 días
+
+Tarea 1.2: Boceto y Wireframes
+Crear bocetos de baja fidelidad para visualizar la estructura general de la landing page.
+Desarrollar wireframes detallados que muestren la disposición de los elementos.
+Revisar y obtener feedback del Product Owner y del equipo.
+Responsable: Alvaro
+Duración estimada: 3 días
+
+Tarea 1.3: Revisión y Aprobación de Wireframes
+Presentar los wireframes al Product Owner y al equipo para su revisión.
+Realizar ajustes según el feedback recibido.
+Obtener aprobación final.
+Responsable: Alvaro
+Duración estimada: 1 día
+Seleccionar una Paleta de Colores y Definir Estilos Visuales
+
+Tarea 2.1: Investigación de Paletas de Colores
+Investigar combinaciones de colores que se alineen con la identidad de marca de AgroGes.
+Probar diferentes paletas en herramientas de diseño.
+Responsable: Georgina
+Duración estimada: 2 días
+
+Tarea 2.2: Definir la Paleta de Colores
+Seleccionar la paleta de colores definitiva para la landing page.
+Crear un documento de estilo que detalle los colores seleccionados y su aplicación.
+Responsable: Georgina
+Duración estimada: 1 día
+
+Tarea 2.3: Definir Tipografías y Otros Estilos Visuales
+Seleccionar tipografías que complementen la paleta de colores y la identidad de marca.
+Definir estilos visuales adicionales como botones, iconos y otros elementos gráficos.
+Responsable: Anaely
+Duración estimada: 2 días
+Configurar el Repositorio en GitHub para el Proyecto
+
+Tarea 3.1: Crear el Repositorio
+Configurar un nuevo repositorio en GitHub para el proyecto de la landing page.
+Definir la estructura de carpetas y archivos inicial.
+Responsable: Alvaro
+Duración estimada: 1 día
+
+Tarea 3.2: Configurar Archivos Iniciales
+Crear archivos README.md, .gitignore y otros archivos de configuración necesarios.
+Escribir una guía básica para contribuir al proyecto y las normas de codificación.
+Responsable: Anaely
+Duración estimada: 1 día
 
 #### 5.2.1.2. Sprint Backlog 1
 
 El backlog del sprint incluye las siguientes tareas:
 
-1. Crear wireframes para cada sección de la landing page.
-2. Seleccionar y aplicar una paleta de colores utilizando CSS.
-3. Configurar la estructura básica de la landing page utilizando HTML.
-4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
+1. Crear Wireframes para Cada Sección de la Landing Page
+Explicación:
+Los wireframes son representaciones visuales simples de la estructura de una página web. Crear wireframes para cada sección de la landing page nos permite visualizar la disposición y jerarquía de los elementos antes de empezar a codificar. Esto incluye definir la ubicación de elementos clave como el encabezado, las secciones de contenido, los llamados a la acción y el pie de página. Los wireframes ayudan a alinear las expectativas del equipo y del Product Owner sobre el diseño y la funcionalidad de la página.
+
+Subtareas:
+
+- Identificar secciones clave de la página.
+- Diseñar wireframes de baja fidelidad.
+- Diseñar wireframes de alta fidelidad.
+- Revisar y recibir feedback.
+- Ajustar y finalizar wireframes.
+
+2. Seleccionar y Aplicar una Paleta de Colores Utilizando CSS
+Explicación:
+La selección y aplicación de una paleta de colores es crucial para asegurar que la landing page tenga una apariencia coherente y atractiva. Utilizando CSS, definiremos una paleta de colores que refleje la identidad de la marca AgroGes. Esto implica investigar combinaciones de colores que sean visualmente agradables y adecuadas para el mensaje de la empresa. Luego, aplicaremos estos colores a los diferentes elementos de la página para crear un diseño armonioso.
+
+Subtareas:
+
+- Investigación de combinaciones de colores.
+- Crear un prototipo de paleta de colores.
+- Revisar y aprobar la paleta de colores.
+- Aplicar la paleta de colores definitiva en CSS.
+3. Configurar la Estructura Básica de la Landing Page Utilizando HTML
+Explicación:
+Configurar la estructura básica de la landing page con HTML es el primer paso para dar vida a los wireframes. Esto implica crear el esqueleto de la página en HTML, asegurándose de que todas las secciones identificadas en los wireframes estén presentes y correctamente estructuradas. Este es un paso fundamental que permite a los desarrolladores ver cómo se verá la página y cómo se organizará el contenido.
+
+Subtareas:
+
+- Crear la estructura del documento HTML.
+- Definir la estructura de secciones.
+- Incluir contenido de prueba en cada sección.
+
+4. Aplicar Estilos Básicos Utilizando CSS para Dar Formato y Diseño a la Página
+Explicación:
+Una vez que la estructura básica en HTML está lista, el siguiente paso es aplicar estilos utilizando CSS para dar formato y diseño a la página. Esto incluye definir estilos globales para elementos como encabezados, párrafos y botones, así como aplicar estilos específicos a cada sección para garantizar una apariencia consistente y profesional. CSS nos permite personalizar la apariencia de la página, asegurando que se vea bien en diferentes dispositivos y tamaños de pantalla.
+
+Subtareas:
+
+- Crear el archivo CSS principal.
+- Definir estilos globales.
+- Aplicar estilos a secciones específicas.
+- Revisar y ajustar estilos para garantizar consistencia y estética.
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-Durante el sprint, se desarrollaron los siguientes elementos:
+Durante el sprint, se desarrollaron los siguientes elementos clave que servirán como evidencia del progreso realizado. Cada uno de estos elementos es fundamental para el objetivo general del sprint de crear una landing page sólida para AgroGes.
 
-- Wireframes detallados de cada sección de la landing page.
-- Paleta de colores definida y aplicada utilizando CSS.
-- Estructura básica de la landing page creada en HTML.
+1. Wireframes Detallados de Cada Sección de la Landing Page
+Descripción:
+Los wireframes detallados representan la estructura visual y funcional de la landing page antes de comenzar el desarrollo. Estos wireframes incluyen todas las secciones principales identificadas, como el encabezado, la sección "About Us", "Community", "Contact Us", "Our App", y "Plans". Cada wireframe muestra la disposición de elementos, la jerarquía visual y las interacciones básicas, proporcionando un plano claro para la implementación.
+
+2. Paleta de Colores Definida y Aplicada Utilizando CSS
+Descripción:
+La paleta de colores definida asegura una apariencia coherente y alineada con la identidad de marca de AgroGes. Utilizando CSS, se han aplicado estos colores a diversos elementos de la página, como el fondo, los textos, los botones y otros componentes interactivos. La paleta de colores seleccionada fue revisada y aprobada por el equipo y el Product Owner, garantizando que sea visualmente atractiva y funcional.
+
+3. Estructura Básica de la Landing Page Creada en HTML
+Descripción:
+La estructura básica de la landing page fue creada utilizando HTML, estableciendo el esqueleto de la página web. Esto incluye la creación de las secciones principales, como el encabezado, cuerpo principal y pie de página. La estructura HTML proporciona la base sobre la cual se aplicarán los estilos CSS y se integrará la funcionalidad JavaScript en futuros sprints.
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
