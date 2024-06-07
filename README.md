@@ -1081,15 +1081,31 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
 | CC07 | Team             | C05  | Implement Team functionality      | Desarrollo e implementación de los equipos de empleados     | 3                   | Gustavo Poma  | Done   |
 | CC08 | Crops            | C08  | Implement Crops functionality        | Desarrollo e implementación de los cultivos del agricultor       | 3                   | Christian Espinoza  | Done   |
 | CC09 | Calendario       | C09  | Implement Calendario functionality      | Desarrollo e implementación del calendario para los pedidos     | 2                   | Christian Espinoza             | Done   |
-| CC10 | Store            | C010 | Implement Store functionality       | Desarrollo e implementación de la tienda para que los vendedores y agricultores mostrar sus productos       | 2                   | Georgina Lastra  | To do   |
-| CC11 | Product Share    | C010 | Implement Product functionality       | Desarrollo de busqueda de de productos para los usuarios       | 2                   | Georgina Lastra   | To do   |
+| CC10 | Store            | C010 | Implement Store functionality       | Desarrollo e implementación de la tienda para que los vendedores y agricultores mostrar sus productos       | 2                   | Georgina Lastra  | Done   |
+| CC11 | Product Share    | C010 | Implement Product functionality       | Desarrollo de busqueda de de productos para los usuarios       | 2                   | Georgina Lastra   | Done   |
 
 - #### 5.2.3.3 Development Evidence for Sprint Review
-   [Poner información aquí]
-  
+
+
+
+| Repository              | Branch                     | Commit ID                                | Mensaje de Confirmación             | Cuerpo del Mensaje de Confirmación | Fecha de Commit |
+|-------------------------|----------------------------|------------------------------------------|--------------------------------------|------------------------------------|-----------------|
+| ConnectionLink-Frontend | feature/finance-pending    | 1bba0a4                                 | actualización: componente de eventos responsivo | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/register-login-pending | 9f3f1e1                               | función: componente de calendario agregado | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/employee-team      | cf72c8b                                 | Agregar archivos via carga          | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/Crop               | cea366a                                 | función: componente de análisis agregado sin datos | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/shope              | 6160b9e                                 | función: agregar configuraciones adicionales | -                                  | 06/05/2024      |
+
 - #### 5.2.3.4 Testing Suite Evidence for Sprint Review
-   [Poner información aquí]
   
+| Repository              | Branch                     | Commit ID                                | Mensaje de Confirmación             | Cuerpo del Mensaje de Confirmación | Fecha de Commit |
+|-------------------------|----------------------------|------------------------------------------|--------------------------------------|------------------------------------|-----------------|
+| ConnectionLink-Frontend | main                       | cea366a8a164c5b2d6287557f9d5f200964ecec6 | Fusionar rama 'feature/login-register-'      | -                                  | 06/07/2024      |
+| ConnectionLink-Frontend | main                       | 248bb48d7c8c19e571d55f148c034946dc0ac73f | Fusionar rama 'feature/finance-pending'       | -                                  | 06/07/2024      |
+| ConnectionLink-Frontend | main                       | 1bba0a40e4dd13f03a7be786469e044d1ae7db38 | Fusionar rama 'feature/employee-team'         | -                                  | 06/07/2024      |
+| ConnectionLink-Frontend | main                       | 2bc1061c7c71414bb81301f22dcd06b7ee396f77 | Fusionar rama 'feature/Crop'  | -                                  | 06/07/2024      |
+| ConnectionLink-Frontend | main                       | ed14e1e6f2bfb7b129f58b8c8c4ca2b7d026c4fa | Fusionar rama 'feature/shope'         | -                                  | 06/07/2024      |
+
 - #### 5.2.3.5 Execution Evidence for Sprint Review
 - Crops and Calendar:
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/2adaa279-f91e-4d79-8436-072869c89403)
