@@ -1016,6 +1016,8 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
 
 - #### 5.2.2.3 Development Evidence for Sprint Review
    - Capturas de pantalla del sistema de autenticación implementado.
+   ![image]()
+
    - Fragmento de código para el panel de control del usuario en desarrollo.
    - Descripción detallada de la integración de la función de búsqueda avanzada.
 
