@@ -1062,11 +1062,34 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
 
 - ### 5.2.3 Sprint 3
 - #### 5.2.3.1 Sprint Planning 3
-   [Poner información aquí]
-  
+| Sprint 1                   | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                           |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 07/04/2024                                                                                                                                                                                             |
+| Time                       | 20:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Alvaro Pinto                                                                                                                                                                                           |
+| Attendees                  | Todos los integrantes                                                                                                                                                                                  |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 1 Goal              | Realizar y desplegar el Backend                                                                                                                                                                        |
+| Sprint 1 Velocity          | 35                                                                                                                                                                                                     |
+| Sum of Story Points        | 30                                                                                                                                                                                                     |  
 - #### 5.2.3.2 Sprint Backlog 3
-   [Poner información aquí]
-  
+- 
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Finance          | C06  | Implement Finance functionality        | Desarrollo e implementación de finance que corresponden al agricultores y vendedores       | 2                   | Alvaro Pinto  | Done   |
+| CC02 | Pendings         | C07  | Implement Pendings functionality         | Desarrollo e implementación de los pendientes de los agricultores y vendedores         | 4                   | Alvaro Pinto | Done   |
+| CC03 | Login            | C01  | Implement Login functionality | Desarrollo e implementación de los la creación de de cuentas y validaciones de autenticacion | 3                   | Anaely Burga      | Done   |
+| CC04 | Register         | C02  | Implement Register functionality     | Desarrollo e implementacióndel registro de usuarios según su rol   | 3                   | Anaely Burga      | Done   |
+| CC05 | Pending          | C03  | Implement Pending functionality        | Desarrollo e implementación de las tareas pendientes de los usuarios              | 2                      | Anaely Burga | Done   |
+| CC06 | Employee         | C04  | Implement Employee functionality       | Desarrollo e implementación de los empleaods con datos referentes      | 3                   | Gustavo Poma | Done   |
+| CC07 | Team             | C05  | Implement Team functionality      | Desarrollo e implementación de los equipos de empleados     | 3                   | Gustavo Poma  | Done   |
+| CC08 | Crops            | C08  | Implement Crops functionality        | Desarrollo e implementación de los cultivos del agricultor       | 3                   | Christian Espinoza  | Done   |
+| CC09 | Calendario       | C09  | Implement Calendario functionality      | Desarrollo e implementación del calendario para los pedidos     | 2                   | Christian Espinoza             | Done   |
+| CC10 | Store            | C010 | Implement Store functionality       | Desarrollo e implementación de la tienda para que los vendedores y agricultores mostrar sus productos       | 2                   | Georgina Lastra  | To do   |
+| CC11 | Product Share    | C010 | Implement Product functionality       | Desarrollo de busqueda de de productos para los usuarios       | 2                   | Georgina Lastra   | To do   |
+
 - #### 5.2.3.3 Development Evidence for Sprint Review
    [Poner información aquí]
   
