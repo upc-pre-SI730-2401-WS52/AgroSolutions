@@ -1015,12 +1015,12 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
      - Estado: Pendiente.
 
 - #### 5.2.2.3 Development Evidence for Sprint Review
-   - Capturas de pantalla del sistema de autenticación implementado.
-   ![image]()
 
-   - Fragmento de código para el panel de control del usuario en desarrollo.
-   - Descripción detallada de la integración de la función de búsqueda avanzada.
+   ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/blob/main/AgroSolutions/Images/user.api.png)
 
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/blob/main/AgroSolutions/Images/busquedaporduct.png)
+
+  ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/blob/main/AgroSolutions/Images/filter.png)
 - #### 5.2.2.4 Testing Suite Evidence for Sprint Review
    - Resultados de las pruebas unitarias para el sistema de autenticación.
    - Registro de pruebas de integración del panel de control del usuario.
