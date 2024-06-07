@@ -1214,3 +1214,18 @@ Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer 
 
 4. **Experiencia en integración de funcionalidades interactivas:** Al desarrollar la aplicación web, ganamos experiencia en la integración de funcionalidades interactivas, como formularios de registro personalizados.
 
+## Anexos
+
+
+Link de repositorio Landing Page: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_LandingPage.github.io.git
+
+Link de repositorio Web Services: https://github.com/upc-pre-SI730-2401-WS52/Web_Services.git
+
+Link de repositorio de Frontend Web Applications: https://github.com/upc-pre-SI730-2401-WS52/Frontend_Web_Applications.git
+
+Link del Figma:https://www.figma.com/design/tlNvrb5EJCysHuGBLTcBOU/Untitled?node-id=0-1 
+
+Link del Diagrama: https://lucid.app/lucidchart/6cbf38ae-f424-4938-a2de-dfe5389c8add/edit?page=0_0&invitationId=inv_1fe22dd9-5dac-40c0-8113-1047795d844f# 
+
+Link de las Entrevistas: 
+
