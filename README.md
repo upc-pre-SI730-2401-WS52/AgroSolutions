@@ -1027,18 +1027,52 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
    - No se encontraron problemas importantes durante las pruebas.
 
 - #### 5.2.2.5 Execution Evidence for Sprint Review
-   - Todas las tareas se están ejecutando según lo planeado.
-   - Se está progresando más rápido de lo esperado en el desarrollo del panel de control del usuario.
-   - No se han identificado problemas graves durante la ejecución del sprint.
+   Evidencia de Ejecución para la Revisión del Sprint
+
+Durante el sprint, se realizaron las siguientes actividades y se generaron las siguientes evidencias:
+
+1. **Desarrollo:
+-Implementación de la interfaz de usuario utilizando Vue.js y PrimeVue.
+-Desarrollo de componentes
+-Integración de Vue Router para la navegación entre páginas.
+2. **Pruebas Funcionales:
+-Realización de pruebas de unidad y pruebas de integración para asegurar el correcto funcionamiento de los componentes.
+Pruebas de usabilidad para garantizar que la interfaz sea amigable y fácil de usar.
+3. **Revisión del Código:
+Código revisado por los miembros del equipo para asegurar la calidad y adherencia a las mejores prácticas de desarrollo.
+Documentación de los cambios en el sistema de control de versiones (Git).
+4. **Demostración del Producto:
+Presentación de una demostración funcional de la tienda en línea durante la revisión del sprint.
+Feedback recibido de los stakeholders y ajustado según sus sugerencias.
 
 - #### 5.2.2.6 Services Documentation Evidence for Sprint Review
    - Documentación actualizada de los endpoints de la API para la autenticación y la búsqueda avanzada.
    - Descripciones detalladas de los parámetros requeridos y las respuestas esperadas para cada endpoint.
 
 - #### 5.2.2.7 Software Deployment Evidence for Sprint Review
-   - Capturas de pantalla del entorno de desarrollo con las nuevas características implementadas.
-   - Planificación del despliegue en el entorno de producción para la próxima semana.
-   - No se han encontrado problemas importantes durante el proceso de despliegue en el entorno de desarrollo.
+Las actividades de despliegue del software incluyeron:
+
+1. **Preparación del Entorno:
+
+-Configuración del servidor de desarrollo para alojar la aplicación.
+-Instalación de todas las dependencias necesarias (Node.js, npm, json-server).
+
+2. **Despliegue del Backend Simulado:
+
+-Iniciar json-server para proporcionar una API REST simulada.
+-Confirmación de que todos los endpoints están funcionando correctamente.
+3. **Despliegue del Frontend:
+
+-Construcción del proyecto Vue.js utilizando npm run build.
+-Despliegue de los archivos estáticos generados en el servidor web.
+4. **Pruebas de Despliegue:
+
+-Pruebas exhaustivas en el entorno de producción para asegurar que la aplicación funcione como se espera.
+-Verificación de la accesibilidad de todos los recursos y funcionalidades.
+5. **Registro de Despliegue:
+
+-Documentación de cada paso del proceso de despliegue.
+-Registro de posibles incidencias y cómo fueron solucionadas.
 
   
 - #### 5.2.2.8 Team Collaboration Insights during Sprint
