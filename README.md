@@ -1139,8 +1139,26 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 
 ## 5.3 Validation Interviews
 - ### 5.3.1 Diseño de Entrevistas
-   [Poner información aquí]
   
+- Landing Page
+¿Cuál fue tu primera impresión al visitar nuestra landing page?
+¿Te quedó claro qué servicios ofrecemos en AgroSolutions?
+¿Te parece que la información está bien organizada y es fácil de encontrar?
+¿Qué opinas del diseño general de la página? (colores, tipografía, imágenes)
+¿Encontraste accesible la navegación de nuestra landing page?
+¿La página te transmitió confianza y seguridad ?
+¿Sentiste la necesidad de registrarte o saber más después de ver nuestra landing page?
+
+-Aplicativo web
+¿Cómo describirías tu primera experiencia al visitar nuestra plataforma?
+¿Te resultó fácil comprender los beneficios de vender tus productos a través de AgroSolutions?
+¿Encontraste alguna dificultad durante el proceso de registro?
+¿Qué tan fácil te resultó listar y describir tus productos en la plataforma?
+¿Qué funcionalidades encontraste más útiles?
+¿Cómo valorarías la interfaz de usuario de la aplicación? (diseño, facilidad de uso, navegación)
+¿Hubo algún aspecto de la interfaz que te resultara confuso o poco intuitivo?
+¿Estás satisfecho con el alcance de mercado que consigues usando AgroSolutions?
+
 - ### 5.3.2 Registro de Entrevistas
    [Poner información aquí]
   
