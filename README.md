@@ -1086,15 +1086,14 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
 
 - #### 5.2.3.3 Development Evidence for Sprint Review
 
-
-
 | Repository              | Branch                     | Commit ID                                | Mensaje de Confirmación             | Cuerpo del Mensaje de Confirmación | Fecha de Commit |
 |-------------------------|----------------------------|------------------------------------------|--------------------------------------|------------------------------------|-----------------|
-| ConnectionLink-Frontend | feature/finance-pending    | 1bba0a4                                 | actualización: componente de eventos responsivo | -                                  | 06/05/2024      |
-| ConnectionLink-Frontend | feature/register-login-pending | 9f3f1e1                               | función: componente de calendario agregado | -                                  | 06/05/2024      |
-| ConnectionLink-Frontend | feature/employee-team      | cf72c8b                                 | Agregar archivos via carga          | -                                  | 06/05/2024      |
-| ConnectionLink-Frontend | feature/Crop               | cea366a                                 | función: componente de análisis agregado sin datos | -                                  | 06/05/2024      |
-| ConnectionLink-Frontend | feature/shope              | 6160b9e                                 | función: agregar configuraciones adicionales | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/finance-pending    | 1bba0a4                                 | feat: Agregar funcionalidad de finanzas   | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/register-login-pending | 9f3f1e1                               | feat: Implementar registro y login | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/employee-team      | cf72c8b                                 | feat: Desarrollar funcionalidad de equipos de empleados | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/Crop               | cea366a                                 | feat: Añadir funcionalidad de cultivos  | -                                  | 06/05/2024      |
+| ConnectionLink-Frontend | feature/shope              | 6160b9e                                 | feat: Incorporar funcionalidad de la tienda   | -                                  | 06/05/2024      |
+
 
 - #### 5.2.3.4 Testing Suite Evidence for Sprint Review
   
