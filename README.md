@@ -1,7 +1,3 @@
-![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/114323722/6b9bc6bc-8a52-4934-8a74-3f50f94423ac)<p align="center">
-  <img src="AgroSolutions/Images/image1.png" alt="image1" width="100%">
-</p>
-
 # AgroSolutions
 ---
 
