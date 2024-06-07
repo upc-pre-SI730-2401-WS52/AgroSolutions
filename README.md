@@ -1164,7 +1164,9 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 * Rider: Es un entorno de desarrollo de JetBrains que nos permite trabajar con .NET y desarrollar la aplicación web.
   
 - #### 5.2.3.8 Team Collaboration Insights during Sprint
-   [Poner información aquí]
+   Video About the Team:
+
+   https://www.youtube.com/watch?v=kSv_lyDfe4U
 
 ## 5.3 Validation Interviews
 - ### 5.3.1 Diseño de Entrevistas
@@ -1245,5 +1247,7 @@ Link del Figma:https://www.figma.com/design/tlNvrb5EJCysHuGBLTcBOU/Untitled?node
 
 Link del Diagrama: https://lucid.app/lucidchart/6cbf38ae-f424-4938-a2de-dfe5389c8add/edit?page=0_0&invitationId=inv_1fe22dd9-5dac-40c0-8113-1047795d844f#
 
+Linkd el video about the team: https://www.youtube.com/watch?v=kSv_lyDfe4U
 
+Link del video about the product: https://youtu.be/myDeBoCDQco
 
