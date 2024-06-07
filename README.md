@@ -1193,15 +1193,29 @@ Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer 
 
 
 - ### 5.3.2 Registro de Entrevistas
-   [Poner información aquí]
-  
-- ### 5.3.3 Evaluaciones según heurísticas
-   [Poner información aquí]
-  
+   Entrevistador: Alvaro Pinto
+   Entrevistado: Miguel Lopez
+  Link: https://youtu.be/NkYB1L13OP4
+
+  <p align="center">
+  <img src="AgroSolutions/Images/image.png" alt="Entrevista1" width="100%">
+  </p>
+
+
+  Entrevistador: Christian Espinoza
+  Entrevistado: Diego Cano
+  Link: https://youtu.be/sh1i9Fp4vhE
+
+
+<p align="center">
+  <img src="AgroSolutions/Images/image-1.png" alt="Entrevista2" width="100%">
+</p>
 
 ## 5.4 Video About-the-Product
 
-   [Poner información aquí]
+A continuacion se muesrta un video explicando las principales caracteristicas que ofrece nuestro producto:
+Link del video
+   https://youtu.be/myDeBoCDQco
 
 
 # Conclusiones
@@ -1219,13 +1233,15 @@ Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer 
 
 Link de repositorio Landing Page: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_LandingPage.github.io.git
 
-Link de repositorio Web Services: https://github.com/upc-pre-SI730-2401-WS52/Web_Services.git
+Link de repositorio AgroSolutions_FrontEnd: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_FrontEnd.git
 
-Link de repositorio de Frontend Web Applications: https://github.com/upc-pre-SI730-2401-WS52/Frontend_Web_Applications.git
+Link de repositorio de Frontend AgroSolutions_Web_Services: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions_Web_Services.git
+
+Link del FrontEnd Desplegado: https://purple-mushroom-005b26f0f.5.azurestaticapps.net/
 
 Link del Figma:https://www.figma.com/design/tlNvrb5EJCysHuGBLTcBOU/Untitled?node-id=0-1 
 
-Link del Diagrama: https://lucid.app/lucidchart/6cbf38ae-f424-4938-a2de-dfe5389c8add/edit?page=0_0&invitationId=inv_1fe22dd9-5dac-40c0-8113-1047795d844f# 
+Link del Diagrama: https://lucid.app/lucidchart/6cbf38ae-f424-4938-a2de-dfe5389c8add/edit?page=0_0&invitationId=inv_1fe22dd9-5dac-40c0-8113-1047795d844f#
 
-Link de las Entrevistas: 
+
 
