@@ -1048,8 +1048,6 @@ Para documentar nuestros progresos durante el primer Sprint de desarrollo, utili
 
 ![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/114323722/e169d8c6-9fee-4b03-bc2b-483ad193577f)
 
-
-
 Links:
 Repositorio del documento: https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions
 Repositorio del frontend: https://github.com/upc-pre-SI730-2401-WS52/Frontend_Web_Applications
@@ -1071,7 +1069,7 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
 | Sprint 1 Velocity          | 35                                                                                                                                                                                                     |
 | Sum of Story Points        | 30                                                                                                                                                                                                     |  
 - #### 5.2.3.2 Sprint Backlog 3
-- 
+  
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
 | CC01 | Finance          | C06  | Implement Finance functionality        | Desarrollo e implementación de finance que corresponden al agricultores y vendedores       | 2                   | Alvaro Pinto  | Done   |
@@ -1121,8 +1119,22 @@ Repositorio del landing page: https://github.com/upc-pre-SI730-2401-WS52/AgroSol
 
      
 - #### 5.2.3.6 Services Documentation Evidence for Sprint Review
-   [Poner información aquí]
-  
+En el mundo de la programación y el desarrollo web, los endpoints juegan un papel crucial en la comunicación entre el cliente y el servidor. Imagina un endpoint como un punto de entrada específico en una aplicación o servicio web, similar a una puerta de acceso en un edificio con múltiples habitaciones. Cada endpoint está asociado con una ruta única, que generalmente se expresa como una URL. Cuando un cliente, como un navegador web o una aplicación móvil, envía una solicitud a un servidor, especifica el endpoint al que desea acceder. El servidor, a su vez, procesa esa solicitud y responde con la información o la acción correspondiente. Los endpoints actúan como controladores de tráfico, dirigiendo y gestionando las solicitudes de los usuarios hacia las partes relevantes de la aplicación. Cada endpoint puede ofrecer diferentes funcionalidades, desde mostrar información estática hasta realizar operaciones complejas en la base de datos. Al definir y documentar endpoints, los desarrolladores proporcionan una guía clara sobre cómo interactuar con su aplicación. Esto facilita a otros desarrolladores entender cómo integrar su aplicación en la suya, así como a los usuarios comprender qué acciones pueden realizar y cómo hacerlo.
+
+|Endpoint|	Detalles|
+|---|---|
+| /finance  | En esta ruta se muestra la funcionalidad financiera correspondiente a agricultores y vendedores.  |
+| /pendings  | En esta ruta se muestra la funcionalidad de pendientes para agricultores y vendedores.  |
+| /login  | En esta ruta se encuentra la funcionalidad de inicio de sesión, incluyendo la creación de cuentas y validaciones de autenticación.  |
+| /register  | En esta ruta se encuentra la funcionalidad de registro de usuarios según su rol.  |
+| /pending  | En esta ruta se muestra la funcionalidad de pendientes de los usuarios.  |
+| /employee  | En esta ruta se muestra la funcionalidad de empleados con datos pertinentes.  |
+| /team  | En esta ruta se muestra la funcionalidad de equipos de empleados.  |
+| /crops  | En esta ruta se muestra la funcionalidad de cultivos para agricultores.  |
+| /calendar  | En esta ruta se muestra la funcionalidad de calendario para pedidos.  |
+| /store  | En esta ruta se muestra la funcionalidad de tienda para que los vendedores y agricultores muestren sus productos.  |
+| /product  | En esta ruta se muestra la funcionalidad de búsqueda de productos para los usuarios.  |  
+
 - #### 5.2.3.7 Software Deployment Evidence for Sprint Review
   
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
@@ -1139,11 +1151,11 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 
 ## 5.3 Validation Interviews
 - ### 5.3.1 Diseño de Entrevistas
-# Encuesta de Experiencia - Landing Page y Aplicativo Web
+### Encuesta de Experiencia - Landing Page y Aplicativo Web
 
 Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer tu opinión y experiencia. A continuación, encontrarás algunas preguntas sobre nuestra landing page y la aplicación AgroSolutions. Tus respuestas son muy importantes para nosotros y nos ayudarán a realizar mejoras significativas. ¡Gracias por tu tiempo y colaboración!
 
-# Landing Page
+#### Landing Page
 
 1. ¿Cuál fue tu primera impresión al visitar nuestra landing page?
 2. ¿Te quedó claro qué servicios ofrecemos en AgroSolutions?
@@ -1153,7 +1165,7 @@ Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer 
 6. ¿La página te transmitió confianza y seguridad?
 7. ¿Sentiste la necesidad de registrarte o saber más después de ver nuestra landing page?
 
-# Aplicativo Web
+#### Aplicativo Web
 
 1. ¿Cómo describirías tu primera experiencia al visitar nuestra plataforma?
 2. ¿Te resultó fácil comprender los beneficios de vender tus productos a través de AgroSolutions?
