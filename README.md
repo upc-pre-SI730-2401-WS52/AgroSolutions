@@ -1244,6 +1244,11 @@ Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer 
   Entrevistado: Diego Cano
   Link: https://youtu.be/sh1i9Fp4vhE
 
+Entrevistador: Gustavo Poma
+  Entrevistado: Daniel del Castillo
+  Link: https://https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c138_upc_edu_pe/Eaa9-HrKfH1Aox_e5qFqSbQBzyioiY3R4CicViV1MEX7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=D3ze6R
+
+
 
 <p align="center">
   <img src="AgroSolutions/Images/image-1.png" alt="Entrevista2" width="100%">
