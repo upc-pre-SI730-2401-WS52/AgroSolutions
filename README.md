@@ -1253,7 +1253,7 @@ Para ayudarnos a mejorar nuestros servicios y plataforma, nos gustaría conocer 
 
 Entrevistador: Gustavo Poma
   Entrevistado: Daniel del Castillo
-  Link: https://https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c138_upc_edu_pe/Eaa9-HrKfH1Aox_e5qFqSbQBzyioiY3R4CicViV1MEX7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=D3ze6R
+  Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c138_upc_edu_pe/Eaa9-HrKfH1Aox_e5qFqSbQBzyioiY3R4CicViV1MEX7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=D3ze6R
 
 ![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/cb6f2fe6-ca36-47b7-a8db-5c8e229f7bfd)
 
