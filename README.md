@@ -762,7 +762,8 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/8a8967d3-a6c0-41a5-bb71-4f6b8f30ca2f)
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/e2b17aea-ff49-4d20-9733-f8929bdccbad)
+
 
 
 ## 4.7 Software Object-Oriented Design
