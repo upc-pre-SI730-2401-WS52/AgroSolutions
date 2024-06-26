@@ -762,7 +762,7 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/49e207e0-2e6c-4af4-8f1e-c8a5ce123392)
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/8a8967d3-a6c0-41a5-bb71-4f6b8f30ca2f)
 
 
 ## 4.7 Software Object-Oriented Design
@@ -779,7 +779,7 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 | 5 |   Producto           |   idProducto, nombre, precio, cantidadDisponible, agricultor   |   Representa los productos agrícolas en venta |   int, string, float, int, Agricultor             |
 | 6 |   Venta              |   idVenta, productosVendidos, totalVenta, fechaVenta, vendedor|   Representa una transacción de venta de productos agrícolas|   int, producto, float, date, Usuario             |
 | 7 |   Asesoramiento      |   recomendaciones                   |   Representa el asesoramiento proporcionado a los agricultores |   string             |
-| 8 |   Parcela      |   idParcela, dimension                  |   Representa el tamaño de la parcela |   int, float             |
+| 8 |   Crop      |   idParcela, dimension                  |   Representa el tamaño de la parcela |   int, float             |
 
 
 
