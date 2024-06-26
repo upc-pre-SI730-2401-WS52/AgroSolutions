@@ -1272,6 +1272,29 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 Blog Get/Post/GeT{id}/Get{SearchRole}
 ![Imagen de WhatsApp 2024-06-26 a las 17 41 37_7a8ed76e](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/ffede3c3-5d62-4ddb-b1d4-4f0c0785951f)
 
+Employee
+![Imagen de WhatsApp 2024-06-26 a las 18 27 52_8dbd7dae](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/b0faa479-8cae-43b6-9c57-9cb61f9d082d)
+
+Finance
+![Imagen de WhatsApp 2024-06-26 a las 18 27 52_8aa6254e](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/51dc9b74-4b56-4b2e-bcb0-da99f36c0747)
+
+Pending
+![Imagen de WhatsApp 2024-06-26 a las 18 27 52_95d9d99b](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/95c14155-0206-4042-99fd-5f988ab52c80)
+
+Crop
+![Imagen de WhatsApp 2024-06-26 a las 18 27 52_4a09069e](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/b0667ccd-0391-4f6e-92d5-9af98dfa9f5f)
+
+PendingCollections
+![Imagen de WhatsApp 2024-06-26 a las 18 27 53_076e14bf](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/f7adc5d8-b793-43e8-80ef-519f0428c699)
+
+User
+![Imagen de WhatsApp 2024-06-26 a las 18 27 53_5f0f61bf](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/9aefa214-f0cc-4e8a-a7c5-cfb1f81b9bc9)
+
+Team
+![Imagen de WhatsApp 2024-06-26 a las 18 27 53_ddc197d7](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/675d4954-3cdc-4521-92e2-2a29510d4006)
+
+
+
 - #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
 En el desarrollo web, los endpoints son puntos clave para la interacción cliente-servidor, como accesos en un edificio. Recientemente, hemos añadido nuevos endpoints, como un blog dinámico, y mejorado el front y back-end, conectando ambos para una experiencia integrada. También hemos introducido internacionalización en páginas previamente sin soporte multilingüe y mejorado el diseño visual, asegurando una experiencia de usuario más fluida y atractiva.
