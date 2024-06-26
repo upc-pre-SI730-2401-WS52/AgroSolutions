@@ -754,16 +754,16 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/assets/157068395/2827cf00-6a5f-4c4f-b9eb-ec1e2734f898)
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/0039866e-ad95-47a2-9e2e-21196cd18e19)
 
 - ### 4.6.2 Software Architecture Container Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/b8859a76-38a6-4a39-a96f-f5fdb791cca4)
-
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/283cb150-e00b-4ddd-b124-bd90907fdce5)
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/39a7d2b9-c586-40af-9c9a-6a813cea455f)
+![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/49e207e0-2e6c-4af4-8f1e-c8a5ce123392)
+
 
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
