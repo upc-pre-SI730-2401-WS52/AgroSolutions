@@ -1268,9 +1268,13 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 | ConnectionLink-Frontend | main                       | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/shope'                | Fusión de frontend y backend para validaciones | 25/06/2024      |
   
 - #### 5.2.4.5 Execution Evidence for Sprint Review
+
+Blog Get/Post/GeT{id}/Get{SearchRole}
+![Imagen de WhatsApp 2024-06-26 a las 17 41 37_7a8ed76e](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/ffede3c3-5d62-4ddb-b1d4-4f0c0785951f)
+
 - #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
- 
+En el desarrollo web, los endpoints son puntos clave para la interacción cliente-servidor, como accesos en un edificio. Recientemente, hemos añadido nuevos endpoints, como un blog dinámico, y mejorado el front y back-end, conectando ambos para una experiencia integrada. También hemos introducido internacionalización en páginas previamente sin soporte multilingüe y mejorado el diseño visual, asegurando una experiencia de usuario más fluida y atractiva.
   
 - #### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
