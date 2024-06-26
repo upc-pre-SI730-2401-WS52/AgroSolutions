@@ -771,25 +771,29 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 ![ClassDiagrams](https://github.com/upc-pre-SI730-2401-WS52/AgroSolutions/blob/capitulo-ii-iii-iv/AgroSolutions/Images/ClassDiagrams.png)
   
 - ### 4.7.2 Class Dictionary
-| N |   Entidad            |   Atributos                         |   Definición                                        |   Tipo de dato     |
-|---|----------------------|-------------------------------------|-----------------------------------------------------|---------------------|
-| 1 |   Plataforma         |   usuarios, productos, ventas       |   Representa la plataforma en línea de AgroSolutions|   Clase             |
-| 2 |   Usuario            |   idUsuario, nombre, correoElectronico, contrasena, tipoUsuario   |   Representa a los usuarios del sistema         |   Int, string, string, string, TipoUsuario              |
-| 3 |   Agricultor         |   parcela, asesoramiento            |   Representa a los agricultores que utilizan la plataforma |   Clase             |
-| 4 |   ProfesionalAgrícola|  especialidad, experiencia         |   Representa a los expertos agrícolas que brindan asesoramiento |   string, int             |
-| 5 |   Producto           |   idProducto, nombre, precio, cantidadDisponible, agricultor   |   Representa los productos agrícolas en venta |   int, string, float, int, Agricultor             |
-| 6 |   Venta              |   idVenta, productosVendidos, totalVenta, fechaVenta, vendedor|   Representa una transacción de venta de productos agrícolas|   int, producto, float, date, Usuario             |
-| 7 |   Asesoramiento      |   recomendaciones                   |   Representa el asesoramiento proporcionado a los agricultores |   string             |
-| 8 |   Crop      |   idParcela, dimension                  |   Representa el tamaño de la parcela |   int, float             |
+
+| N | Entidad               | Atributos                                                                                          | Definición                                                  | Tipo de dato                                           |
+|---|-----------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
+| 1 | Payment               | id, pendingCollectionId, amountPaid, paymentMethod, currency, paymentDate, paymentStatus, isActive | Representa un pago en el sistema                             | int, int, int, int, int, int, string, bool            |
+| 2 | Finance               | userId, month, incomes, bills, earning, createUser, updateUser, isActive, createDate, updateDate  | Representa las finanzas de un usuario                        | int, string, int, int, int, string, string, bool, string, string |
+| 3 | PendingCollection     | id, type, cost, description, createUser, updateUser, isActive, createDate, updateDate             | Representa una colección pendiente                          | int, string, int, string, string, string, bool, string, string   |
+| 4 | Blog                  | id, title, summary, categoryBlog, roleBlog, typeAuthor, commentsCount, readTimeMinut, createUser, updateUser, isActive, createDate, updateDate, userId | Representa una entrada de blog en el sistema                 | int, string, string, string, string, string, int, int, string, string, bool, string, string, int |
+| 5 | PendingTask           | id, name, description, dueDate, assignedTo, priority, state, createUser, updateUser, createDate, updateDate, isActive, userId | Representa una tarea pendiente                              | int, string, string, string, int, string, string, string, string, string, string, bool, int     |
+| 6 | Product               | cropId, name, description, code, price, supplier, categoryProduct, inventory, userId, createUser, updateUser, createDate, updateDate, isActive | Representa un producto                                      | int, string, string, string, int, int, string, int, int, string, string, string, string, bool   |
+| 7 | Order                 | userId, id, state, cost, return, location, notifications, imageUrl, isActive, createUser, updateUser, createDate, updateDate, date, ticket | Representa un pedido                                        | int, int, string, int, string, string, string, string, bool, string, string, string, string, string, string |
+| 8 | User                  | id, userName, dniOrnc, companyName, emailAddress, phone, role, passwordHash, createUser, updateUser, isActive, createDate, updateDate | Representa un usuario del sistema                           | int, string, string, string, string, int, string, string, string, string, bool, string, string |
+| 9 | Team                  | id, teamCode, budget, cropCode, createUser, updateUser, isActive, createDate, updateDate           | Representa un equipo                                         | int, string, string, string, string, string, bool, string, string   |
+| 10| Calendar              | cropId, date, activity, state, isActive, id, createUser, createDate, updateDate                    | Representa el calendario de actividades                     | int, string, string, string, bool, int, string, string, string |
+| 11| Crop                  | userId, id, adviceId, state, cost, return, location, notification, imageUrl, createUser, updateUser, createDate, updateDate, isActive | Representa un cultivo                                       | int, int, int, string, int, string, string, string, string, string, string, string, bool |
+| 12| Advicer               | id, name, dni, teamId, createUser, updateUser, isActive, createDate, updateDate                    | Representa un asesor                                        | int, string, string, int, string, string, bool, string, string |
+| 13| Employee              | id, userId, name, lastName, dni, age, job, salary, phone, photoUrl, createUser, updateUser, isActive, createDate, updateDate | Representa un empleado                                      | int, int, string, string, string, int, string, int, string, string, string, string, bool, string, string |
+| 14| Producer              | teamId, id, name, dni, createUser, updateUser, isActive, createDate, updateDate                    | Representa un productor                                     | int, int, string, string, string, string, bool, string, string |
+
 
 
 
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
-
-<p align="center">
-  <img src="AgroSolutions/Images/DatabaseDiagrams.png" alt="labelingWebDesktop1" width="100%">
-</p>
 
 ![Imagen de WhatsApp 2024-06-26 a las 02 45 37_43744958](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/1e6d943e-1aee-452a-b6b0-4909452586d3)
 
