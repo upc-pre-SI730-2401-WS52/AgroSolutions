@@ -1313,8 +1313,7 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
   
 - #### 5.2.4.8 Team Collaboration Insights during Sprint
 
-
-
+https://www.youtube.com/watch?v=kSv_lyDfe4U
 
 
 ## 5.3 Validation Interviews
