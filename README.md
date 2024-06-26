@@ -769,7 +769,8 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
 
-![image](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/ad760bcf-95cb-4544-92d3-d39bf927866e)
+![AgroSolution drawio](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/ac169f8e-e012-48d5-b040-30d42e1fbad0)
+
 
   
 - ### 4.7.2 Class Dictionary
