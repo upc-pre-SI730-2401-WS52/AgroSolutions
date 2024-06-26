@@ -1212,6 +1212,84 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 
    https://www.youtube.com/watch?v=kSv_lyDfe4U
 
+
+- ### 5.2.4 Sprint 4
+- #### 5.2.4.1 Sprint Planning 3
+
+| Sprint 4                   | Conexión del frontend con el backend, versión final del proyecto.                                                                                                                                    |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 25/06/2024                                                                                                                                                                                             |
+| Time                       | 15:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Alvaro Pinto                                                                                                                                                                                           |
+| Attendees                  | Todos los integrantes                                                                                                                                                                                  |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 4 Goal              | Realizar la conexión del frontend con el backend y desplegar la versión final del proyecto                                                                                                            |
+| Sprint 4 Velocity          | 35                                                                                                                                                                                                     |
+| Sum of Story Points        | 30                                                                                                                                                                                                     |
+
+- #### 5.2.4.2 Sprint Backlog 4
+
+
+| Id   | Title            | Id   | Title                           | Description                                                                                 | Estimations (Hours) | Assigned To         | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------------|---------------------|---------------------|--------|
+| CC01 | Finance          | C06  | Implement Finance functionality | Desarrollo e implementación de finance que corresponden a los agricultores y vendedores, conectando frontend y backend | 2                   | Alvaro Pinto        | Done   |
+| CC02 | Pendings         | C07  | Implement Pendings functionality | Desarrollo e implementación de los pendientes de los agricultores y vendedores, conectando frontend y backend         | 4                   | Alvaro Pinto        | Done   |
+| CC03 | Login            | C01  | Implement Login functionality    | Desarrollo e implementación de la creación de cuentas y validaciones de autenticación, conectando frontend y backend   | 3                   | Anaely Burga        | Done   |
+| CC04 | Register         | C02  | Implement Register functionality | Desarrollo e implementación del registro de usuarios según su rol, conectando frontend y backend                        | 3                   | Anaely Burga        | Done   |
+| CC05 | Pending          | C03  | Implement Pending functionality  | Desarrollo e implementación de las tareas pendientes de los usuarios, conectando frontend y backend                    | 2                   | Anaely Burga        | Done   |
+| CC06 | Employee         | C04  | Implement Employee functionality | Desarrollo e implementación de los empleados con datos referentes, conectando frontend y backend                       | 3                   | Gustavo Poma        | Done   |
+| CC07 | Team             | C05  | Implement Team functionality     | Desarrollo e implementación de los equipos de empleados, conectando frontend y backend                                 | 3                   | Gustavo Poma        | Done   |
+| CC08 | Crops            | C08  | Implement Crops functionality    | Desarrollo e implementación de los cultivos del agricultor, conectando frontend y backend                             | 3                   | Christian Espinoza  | Done   |
+| CC09 | Calendario       | C09  | Implement Calendario functionality | Desarrollo e implementación del calendario para los pedidos, conectando frontend y backend                            | 2                   | Christian Espinoza  | Done   |
+| CC10 | Store            | C10  | Implement Store functionality    | Desarrollo e implementación de la tienda para que los vendedores y agricultores muestren sus productos, conectando frontend y backend | 2                   | Georgina Lastra     | Done   |
+| CC11 | Product Share    | C11  | Implement Product functionality  | Desarrollo de búsqueda de productos para los usuarios, conectando frontend y backend                                   | 2                   | Georgina Lastra     | Done   |
+| CC12 | IAM              | C12  | Implement IAM functionality      | Anaely Burga realizó el IAM con pruebas de validación, conectando frontend y backend                                   | 3                   | Anaely Burga        | Done   |
+  
+- #### 5.2.4.3 Development Evidence for Sprint Review
+
+| Repository              | Branch                        | Commit ID | Mensaje de Confirmación                       | Cuerpo del Mensaje de Confirmación                  | Fecha de Commit |
+|-------------------------|-------------------------------|-----------|-----------------------------------------------|-----------------------------------------------------|-----------------|
+| ConnectionLink-Frontend | feature/finance-pending       | 549c853   | feat: Agregar funcionalidad de finanzas       | Modificaciones en frontend, backend y validaciones  | 25/06/2024      |
+| ConnectionLink-Frontend | feature/register-login-pending| 8e75097   | feat: Implementar registro y login            | Modificaciones en frontend, backend y validaciones  | 25/06/2024      |
+| ConnectionLink-Frontend | feature/employee-team         | e97100d   | feat: Desarrollar funcionalidad de equipos de empleados | Modificaciones en frontend, backend y validaciones  | 25/06/2024      |
+| ConnectionLink-Frontend | feature/Crop                  | dfa3cb6   | feat: Añadir funcionalidad de cultivos        | Modificaciones en frontend, backend y validaciones  | 25/06/2024      |
+| ConnectionLink-Frontend | feature/shope                 | d291f81   | feat: Incorporar funcionalidad de la tienda   | Modificaciones en frontend, backend y validaciones  | 25/06/2024      |
+
+- #### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+| Repository              | Branch                     | Commit ID                                | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación            | Fecha de Commit |
+|-------------------------|----------------------------|------------------------------------------|----------------------------------------------|----------------------------------------------|-----------------|
+| ConnectionLink-Frontend | main                       | 549c853fa8f881f0812bde6388c5d6f688d1212f | Fusionar rama 'feature/login-register'       | Fusión de frontend y backend para validaciones | 25/06/2024      |
+| ConnectionLink-Frontend | main                       | 8e750977c6f2b1eab62bff810de16a80281ffc75 | Fusionar rama 'feature/finance-pending'      | Fusión de frontend y backend para validaciones | 25/06/2024      |
+| ConnectionLink-Frontend | main                       | e9721c01e07a7abdf5effbfcaea451cb2ce47feb | Fusionar rama 'feature/employee-team'        | Fusión de frontend y backend para validaciones | 25/06/2024      |
+| ConnectionLink-Frontend | main                       | e94100d6d283537db2c705afdc436444eaefd807 | Fusionar rama 'feature/Crop'                 | Fusión de frontend y backend para validaciones | 25/06/2024      |
+| ConnectionLink-Frontend | main                       | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/shope'                | Fusión de frontend y backend para validaciones | 25/06/2024      |
+  
+- #### 5.2.4.5 Execution Evidence for Sprint Review
+- #### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+ 
+  
+- #### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Azure: Se utilizó esta herramienta para el despliegue en la web de la landing page.
+* .NET: Es un framework para aplicaciones web basado en C#, de código abierto, que se utiliza para crear aplicaciones web. Para este caso, se utilizó la versión más reciente.
+* Rider: Es un entorno de desarrollo de JetBrains que nos permite trabajar con .NET y desarrollar la aplicación web.
+  
+  
+- #### 5.2.4.8 Team Collaboration Insights during Sprint
+
+
+
+
+
 ## 5.3 Validation Interviews
 - ### 5.3.1 Diseño de Entrevistas
 ### Encuesta de Experiencia - Landing Page y Aplicativo Web
