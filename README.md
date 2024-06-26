@@ -791,6 +791,8 @@ Link Figma : https://www.figma.com/file/tlNvrb5EJCysHuGBLTcBOU/Untitled?type=des
   <img src="AgroSolutions/Images/DatabaseDiagrams.png" alt="labelingWebDesktop1" width="100%">
 </p>
 
+![Imagen de WhatsApp 2024-06-26 a las 02 45 37_43744958](https://github.com/upc-pre-SI730-2401-WS52/ProjectReport_AgroSolutions/assets/157068395/1e6d943e-1aee-452a-b6b0-4909452586d3)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
